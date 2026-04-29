@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build:eleventy)",
+      "Bash(git fetch *)",
+      "mcp__github__pull_request_read"
+    ]
+  }
+}
