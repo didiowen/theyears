@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//read-it-later/100-best-books-of-the-21st-century/","title":"100 Best Books of the 21st Century","tags":["reading"],"created":"2024-07-17T14:16:45.129+08:00","updated":"2026-04-29T20:44:44.849+08:00","dg-note-properties":{"title":"100 Best Books of the 21st Century","author":"The New York Times Books Staff","published":"2023-07-13","source":"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html","status":"finished","date":{"created":"2024-07-17T14:16:45","updated":"2024-10-15T12:49:56"},"tags":"reading"}}
+{"dg-publish":true,"permalink":"//read-it-later/100-best-books-of-the-21st-century/","title":"100 Best Books of the 21st Century","tags":["reading"],"created":"2024-07-17T14:16:45.129+08:00","updated":"2026-04-29T21:00:21.051+08:00","dg-note-properties":{"title":"100 Best Books of the 21st Century","author":"The New York Times Books Staff","published":"2023-07-13","source":"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html","status":"finished","date":{"created":"2024-07-17T14:16:45","updated":"2026-04-29T21:00:20"},"tags":"reading"}}
 ---
 
 # 100 Best Books of the 21st Century
@@ -298,7 +298,7 @@ Kiese Laymon 2018
 What is the psychic weight of secrets and lies? In his unvarnished memoir, Laymon explores the cumulative mass of a past that has brought him to this point: his Blackness; his fraught relationship to food; his family, riven by loss and addiction and, in his mother’s case, a kind of pathological perfectionism. What emerges is a work of raw emotional power and fierce poetry.
 
 ## 59
-### Middlesex
+### [[Area/Reading/Middlesex\|Middlesex]]
 
 Jeffrey Eugenides 2002
 
@@ -347,7 +347,7 @@ Alice Munro 2004
 On one level, the title of Munro’s 11th short-story collection refers to a pet goat that goes missing from its owners’ property; but — this being Munro — the deeper reference is to an unhappy wife in the same story, who dreams of leaving her husband someday. Munro’s stories are like that, with shadow meanings and resonant echoes, as if she has struck a chime and set the reverberations down in writing.
 
 ## 52
-### Train Dreams
+### [[Area/Entertainment/Train Dreams\|Train Dreams]]
 
 Denis Johnson 2011
 
@@ -368,7 +368,7 @@ Hernan Diaz 2022
 How many ways can you tell the same story? Which one is true? These questions and their ethical implications hover over Diaz’s second novel. It starts out as a tale of wealth and power in 1920s New York — something Theodore Dreiser or Edith Wharton might have taken up — and leaps forward in time, across the boroughs and down the social ladder, breathing new vitality into the weary tropes of historical fiction. — A.O. Scott
 
 ## 49
-### The Vegetarian
+### [[The Vegetarian\|The Vegetarian]]
 
 Han Kang; translated by Deborah Smith 2016
 
@@ -452,7 +452,7 @@ Roberto Bolaño; translated by Natasha Wimmer 2007
 “The Savage Detectives” is brash, hilarious, beautiful, moving. It’s also over 600 pages long, which is why I know that my memory of reading it in a single sitting is definitely not true. Still, the fact that it feels that way is telling. I was not the same writer I’d been before reading it, not the same person. Arturo Belano and Ulises Lima, the wayward poets whose youth is chronicled in “Detectives,” became personal heroes, and everything I’ve written since has been shaped by Bolaño’s masterpiece. — Daniel Alarcón, author of “At Night We Walk in Circles”
 
 ## 37
-### The Years
+### [[Area/Reading/The Years\|The Years]]
 
 Annie Ernaux; translated by Alison L. Strayer 2018
 
@@ -645,7 +645,7 @@ Junot Díaz 2007
 Díaz’s first novel landed like a meteorite in 2007, dazzling critics and prize juries with its mix of Dominican history, coming-of-age tale, comic-book tropes, Tolkien geekery and Spanglish slang. The central plotline follows the nerdy, overweight Oscar de León through childhood, college and a stint in the Dominican Republic, where he falls disastrously in love. Sharply rendered set pieces abound, but the real draw is the author’s voice: brainy yet inviting, mordantly funny, sui generis.
 
 ## 10
-### Gilead
+### [[Area/Reading/Gilead\|Gilead]]
 
 Marilynne Robinson 2004
 
@@ -714,7 +714,7 @@ Isabel Wilkerson 2010
 Wilkerson’s intimate, stirring, meticulously researched and myth-dispelling book, which details the Great Migration of Black Americans from South to North and West from 1915 to 1970, is the most vital and compulsively readable work of history in recent memory. This migration, she writes, “would become perhaps the biggest underreported story of the 20th century. It was vast. It was leaderless. It crept along so many thousands of currents over so long a stretch of time as to be difficult for the press truly to capture while it was under way.” Wilkerson blends the stories of individual men and women with a masterful grasp of the big picture, and a great deal of literary finesse. “The Warmth of Other Suns” reads like a novel. It bears down on the reader like a locomotive. — Dwight Garner
 
 ## 1
-### My Brilliant Friend
+### [[My Brilliant Friend\|My Brilliant Friend]]
 
 Elena Ferrante; translated by Ann Goldstein 2012
 
@@ -730,5 +730,5 @@ actions:
     evaluate: true
     value: moment().format("YYYY-MM-DDTHH:mm:ss")
   - type: command
-    command: obsidian-mkdocs-publisher:share-one
+    command: digital-garden:publish-single-note
 ```
