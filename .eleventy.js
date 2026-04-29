@@ -72,7 +72,7 @@ function getAnchorAttributes(filePath, linkTitle) {
     const file = fs.readFileSync(fullPath, "utf8");
     const frontMatter = matter(file, matterOptions);
     if (frontMatter.data.permalink) {
-      permalink = frontMatter.data.permalink;
+      permalink = frontMatter.data.permalink.replace(/\/+/g, "/");
     }
     if (
       frontMatter.data.tags &&

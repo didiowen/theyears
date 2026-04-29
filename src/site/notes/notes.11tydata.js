@@ -15,7 +15,8 @@ module.exports = {
       if (data.tags.indexOf("gardenEntry") != -1) {
         return "/";
       }
-      return data.permalink || undefined;
+      if (!data.permalink) return undefined;
+      return data.permalink.replace(/\/+/g, "/");
     },
     basesNotes: (data) => {
       if (!data.collections || !data.collections.note) return [];
