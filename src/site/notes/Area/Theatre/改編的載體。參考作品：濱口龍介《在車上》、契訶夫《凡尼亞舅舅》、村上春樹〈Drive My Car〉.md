@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"改編的載體。參考作品：濱口龍介《在車上》、契訶夫《凡尼亞舅舅》、村上春樹〈Drive My Car〉.md","dg-permalink":"drive-my-car","permalink":"/drive-my-car/","title":"改編的載體。參考作品：濱口龍介《在車上》、契訶夫《凡尼亞舅舅》、村上春樹〈Drive My Car〉","tags":["theatre","Chekhov"],"updated":"2026-04-29T21:39:12.046+08:00","dg-note-properties":{"title":"改編的載體。參考作品：濱口龍介《在車上》、契訶夫《凡尼亞舅舅》、村上春樹〈Drive My Car〉","date":{"created":"2024-12-19T12:19:50","updated":null},"tags":["theatre","Chekhov"],"status":"waiting"}}
+{"dg-publish":true,"dg-path":"  /改編的載體。參考作品：濱口龍介《在車上》、契訶夫《凡尼亞舅舅》、村上春樹〈Drive My Car〉.md","dg-permalink":"drive-my-car","permalink":"/drive-my-car/","title":"改編的載體。參考作品：濱口龍介《在車上》、契訶夫《凡尼亞舅舅》、村上春樹〈Drive My Car〉","tags":["theatre","Chekhov"],"updated":"2026-04-29T21:39:12.046+08:00","dg-note-properties":{"title":"改編的載體。參考作品：濱口龍介《在車上》、契訶夫《凡尼亞舅舅》、村上春樹〈Drive My Car〉","date":{"created":"2024-12-19T12:19:50","updated":null},"tags":["theatre","Chekhov"],"status":"waiting"}}
 ---
 
 up:: [[Area/Theatre/劇本閱讀與一點點（真的一點點）寫作練習\|劇本閱讀與一點點（真的一點點）寫作練習]]
