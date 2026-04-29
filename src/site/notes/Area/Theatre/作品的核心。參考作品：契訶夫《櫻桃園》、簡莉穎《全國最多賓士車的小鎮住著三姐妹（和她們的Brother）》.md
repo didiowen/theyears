@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"cherry-orchard","permalink":"/cherry-orchard/","title":"作品的核心。參考作品：契訶夫《櫻桃園》、簡莉穎《全國最多賓士車的小鎮住著三姐妹（和她們的Brother）》","tags":["theatre","Chekhov","Russia"],"updated":"2026-04-29T21:23:35.532+08:00","dg-note-properties":{"title":"作品的核心。參考作品：契訶夫《櫻桃園》、簡莉穎《全國最多賓士車的小鎮住著三姐妹（和她們的Brother）》","date":{"created":"2024-12-31T11:58:38","updated":"NaN"},"tags":["theatre","Chekhov","Russia"]}}
+{"dg-publish":true,"dg-path":"作品的核心。參考作品：契訶夫《櫻桃園》、簡莉穎《全國最多賓士車的小鎮住著三姐妹（和她們的Brother）》.md","dg-permalink":"cherry-orchard","permalink":"/cherry-orchard/","title":"作品的核心。參考作品：契訶夫《櫻桃園》、簡莉穎《全國最多賓士車的小鎮住著三姐妹（和她們的Brother）》","tags":["theatre","Chekhov","Russia"],"updated":"2026-04-29T21:39:16.128+08:00","dg-note-properties":{"title":"作品的核心。參考作品：契訶夫《櫻桃園》、簡莉穎《全國最多賓士車的小鎮住著三姐妹（和她們的Brother）》","date":{"created":"2024-12-31T11:58:38","updated":"NaN"},"tags":["theatre","Chekhov","Russia"]}}
 ---
 
-up:: [[Effort/劇本閱讀與一點點（真的一點點）寫作練習\|劇本閱讀與一點點（真的一點點）寫作練習]]
+up:: [[Area/Theatre/劇本閱讀與一點點（真的一點點）寫作練習\|劇本閱讀與一點點（真的一點點）寫作練習]]
 # 作品的核心。參考作品：契訶夫《三姐妹》、簡莉穎《全國最多賓士車的小鎮住著三姐妹（和她們的Brother）》
 
 [劇本](https://www.ibiblio.org/eldritch/ac/chorch.htm)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Watchlist.md","permalink":"/watchlist/","title":"My Watchlist","tags":["map"],"updated":"2026-04-29T20:28:59.419+08:00","dg-note-properties":{"title":"My Watchlist","tags":["map"],"share_link":"https://share.note.sx/rrjhjlaa#bQAh0/zmTZugeK2BZPcivYXsFEuAfAzATGoVCJI9zjU","share_updated":"2024-10-17T14:07:46+08:00"}}
+{"dg-publish":true,"dg-path":" /Watchlist.md","permalink":"//watchlist/","title":"My Watchlist","tags":["map"],"updated":"2026-04-29T21:33:44.537+08:00","dg-note-properties":{"title":"My Watchlist","tags":["map"]}}
 ---
 
 # My Watchlist

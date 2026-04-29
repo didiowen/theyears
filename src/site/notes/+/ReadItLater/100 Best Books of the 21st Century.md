@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"100 Best Books of the 21st Century.md","permalink":"/100-best-books-of-the-21st-century/","title":"100 Best Books of the 21st Century","tags":["reading"],"updated":"2026-04-29T21:03:56.939+08:00","dg-note-properties":{"title":"100 Best Books of the 21st Century","author":"The New York Times Books Staff","published":"2023-07-13","source":"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html","status":"finished","date":{"created":"2024-07-17T14:16:45","updated":"2026-04-29T21:00:20"},"tags":"reading"}}
+{"dg-publish":true,"dg-path":" /100 Best Books of the 21st Century.md","permalink":"//100-best-books-of-the-21st-century/","title":"100 Best Books of the 21st Century","tags":["reading"],"updated":"2026-04-29T21:03:56.939+08:00","dg-note-properties":{"title":"100 Best Books of the 21st Century","author":"The New York Times Books Staff","published":"2023-07-13","source":"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html","status":"finished","date":{"created":"2024-07-17T14:16:45","updated":"2026-04-29T21:00:20"},"tags":"reading"}}
 ---
 
 # 100 Best Books of the 21st Century
