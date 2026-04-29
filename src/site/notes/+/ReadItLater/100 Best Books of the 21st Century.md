@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//read-it-later/100-best-books-of-the-21st-century/","title":"100 Best Books of the 21st Century","tags":["reading"],"created":"2024-07-17T14:16:45.129+08:00","updated":"2026-04-29T21:00:21.051+08:00","dg-note-properties":{"title":"100 Best Books of the 21st Century","author":"The New York Times Books Staff","published":"2023-07-13","source":"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html","status":"finished","date":{"created":"2024-07-17T14:16:45","updated":"2026-04-29T21:00:20"},"tags":"reading"}}
+{"dg-publish":true,"dg-path":"100 Best Books of the 21st Century.md","permalink":"/100-best-books-of-the-21st-century/","title":"100 Best Books of the 21st Century","tags":["reading"],"updated":"2026-04-29T21:03:56.939+08:00","dg-note-properties":{"title":"100 Best Books of the 21st Century","author":"The New York Times Books Staff","published":"2023-07-13","source":"https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html","status":"finished","date":{"created":"2024-07-17T14:16:45","updated":"2026-04-29T21:00:20"},"tags":"reading"}}
 ---
 
 # 100 Best Books of the 21st Century
@@ -719,16 +719,3 @@ Wilkerson’s intimate, stirring, meticulously researched and myth-dispelling bo
 Elena Ferrante; translated by Ann Goldstein 2012
 
 The first volume of what would become Ferrante’s riveting four-book series of Neapolitan novels introduced readers to two girls growing up in a poor, violent neighborhood in Naples, Italy: the diligent, dutiful Elena and her charismatic, wilder friend Lila, who despite her fierce intelligence is seemingly constrained by her family’s meager means. From there the book (like the series as a whole) expands as propulsively as the early universe, encompassing ideas about art and politics, class and gender, philosophy and fate, all through a dedicated focus on the conflicted, competitive friendship between Elena and Lila as they grow into complicated adults. It’s impossible to say how closely the series tracks the author’s life — Ferrante writes under a pseudonym — but no matter: “My Brilliant Friend” is entrenched as one of the premier examples of so-called autofiction, a category that has dominated the literature of the 21st century. Reading this uncompromising, unforgettable novel is like riding a bike on gravel: It’s gritty and slippery and nerve-racking, all at the same time.
-
-```meta-bind-button
-label: "Upload"
-style: default
-id: "upload"
-actions:
-  - type: updateMetadata
-    bindTarget: date.updated
-    evaluate: true
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")
-  - type: command
-    command: digital-garden:publish-single-note
-```

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/effort/themes/","title":"Themes","tags":["map","gardenEntry"],"created":"2024-10-14T18:02:36.355+08:00","updated":"2026-04-29T20:50:02.439+08:00","dg-note-properties":{"title":"Themes","date":{"created":"2024-10-14T18:02:36","updated":"2024-10-23T18:20:11"},"tags":"map"}}
+{"dg-publish":true,"dg-path":"Themes.md","permalink":"/themes/","title":"Themes","tags":["map","gardenEntry"],"updated":"2026-04-29T20:50:02.439+08:00","dg-note-properties":{"title":"Themes","date":{"created":"2024-10-14T18:02:36","updated":"2024-10-23T18:20:11"},"tags":"map"}}
 ---
 
 # Themes
@@ -302,28 +302,29 @@
 
 { .block-language-dataview}
 
-| movies and series                                                                          | cast                                                                                  | year      | status      | rating |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | --------- | ----------- | ------ |
-| [[Area/Entertainment/Blue Lights\|Blue Lights]]                                         | <ul><li>Nathan Braniff</li><li>Sian Brooke</li><li>Katherine Devlin</li></ul>         | 2023–     | waiting     | \-     |
-| [[Area/Entertainment/The Tourist\|The Tourist]]                                         | <ul><li>Jamie Dornan</li><li>Danielle Macdonald</li><li>Greg Larsen</li></ul>         | 2022–2024 | waiting     | \-     |
-| [[Area/Entertainment/Bad Sisters\|Bad Sisters]]                                         | <ul><li>Sharon Horgan</li><li>Eve Hewson</li><li>Sarah Greene</li></ul>               | 2022–     | waiting     | \-     |
-| [[Area/Entertainment/Bloodlands\|Bloodlands]]                                           | <ul><li>James Nesbitt</li><li>Lorcan Cranitch</li><li>Charlene McKenna</li></ul>      | 2021–2022 | waiting     | \-     |
-| [[Area/Entertainment/Kin\|Kin]]                                                         | <ul><li>Charlie Cox</li><li>Clare Dunne</li><li>Aidan Gillen</li></ul>                | 2021–     | waiting     | \-     |
-| [[Area/Entertainment/The Fall\|The Fall]]                                               | <ul><li>Gillian Anderson</li><li>Jamie Dornan</li><li>John Lynch</li></ul>            | 2013–2016 | waiting     | \-     |
-| [[Area/Entertainment/Say Nothing\|Say Nothing]]                                         | <ul><li>Lola Petticrew</li><li>Hazel Doupe</li><li>Emily Healy</li></ul>              | 2024      | waiting     | \-     |
-| [[Area/Entertainment/'71\|'71]]                                                         | <ul><li>Jack O'Connell</li><li>Sam Reid</li><li>Sean Harris</li></ul>                 | 2014      | waiting     | \-     |
-| [[Area/Entertainment/The Importance of Being Earnest\|The Importance of Being Earnest]] | <ul><li>Rupert Everett</li><li>Colin Firth</li><li>Frances O'Connor</li></ul>         | 2002      | waiting     | \-     |
-| [[Area/Entertainment/Michael Collins\|Michael Collins]]                                 | <ul><li>Liam Neeson</li><li>Aidan Quinn</li><li>Julia Roberts</li></ul>               | 1996      | waiting     | \-     |
-| [[Area/Entertainment/In the Name of the Father\|In the Name of the Father]]             | <ul><li>Daniel Day-Lewis</li><li>Pete Postlethwaite</li><li>Alison Crosbie</li></ul>  | 1993      | waiting     | \-     |
-| [[Area/Entertainment/My Left Foot\|My Left Foot]]                                       | <ul><li>Daniel Day-Lewis</li><li>Brenda Fricker</li><li>Alison Whelan</li></ul>       | 1989      | waiting     | \-     |
-| [[Area/Entertainment/Normal People\|Normal People]]                                     | <ul><li>Paul Mescal</li><li>Daisy Edgar-Jones</li><li>Desmond Eastwood</li></ul>      | 2020      | in progress | \-     |
-| [[Area/Entertainment/The Banshees of Inisherin\|The Banshees of Inisherin]]             | <ul><li>Colin Farrell</li><li>Brendan Gleeson</li><li>Kerry Condon</li></ul>          | 2022      | finished    | 5      |
-| [[Area/Entertainment/Belfast\|Belfast]]                                                 | <ul><li>Jude Hill</li><li>Lewis McAskie</li><li>Caitríona Balfe</li></ul>             | 2021      | finished    | 5      |
-| [[Area/Entertainment/Sinners\|Sinners]]                                                 | <ul><li>Michael B. Jordan</li><li>Miles Caton</li><li>Saul Williams</li></ul>         | 2025      | finished    | 4.5    |
-| [[Area/Entertainment/The Wind that Shakes the Barley\|The Wind that Shakes the Barley]] | <ul><li>Cillian Murphy</li><li>Pádraic Delaney</li><li>Liam Cunningham</li></ul>      | 2006      | finished    | 4.5    |
-| [[Area/Entertainment/Bodkin\|Bodkin]]                                                   | <ul><li>Siobhán Cullen</li><li>Robyn Cara</li><li>Chris Walley</li></ul>              | 2024–     | finished    | 4      |
-| [[Area/Entertainment/Sing Street\|Sing Street]]                                         | <ul><li>Ferdia Walsh-Peelo</li><li>Aidan Gillen</li><li>Maria Doyle Kennedy</li></ul> | 2016      | finished    | 4      |
-| [[Area/Entertainment/Breakfast on Pluto\|Breakfast on Pluto]]                           | <ul><li>Cillian Murphy</li><li>Morgan Jones</li><li>Eva Birthistle</li></ul>          | 2005      | finished    | 4      |
+| movies and series                                                                              | cast                                                                                  | year      | status      | rating |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------- | ----------- | ------ |
+| [[Area/Entertainment/Blue Lights\|Blue Lights]]                                             | <ul><li>Nathan Braniff</li><li>Sian Brooke</li><li>Katherine Devlin</li></ul>         | 2023–     | waiting     | \-     |
+| [[Area/Entertainment/The Tourist\|The Tourist]]                                             | <ul><li>Jamie Dornan</li><li>Danielle Macdonald</li><li>Greg Larsen</li></ul>         | 2022–2024 | waiting     | \-     |
+| [[Area/Entertainment/Bad Sisters\|Bad Sisters]]                                             | <ul><li>Sharon Horgan</li><li>Eve Hewson</li><li>Sarah Greene</li></ul>               | 2022–     | waiting     | \-     |
+| [[Area/Entertainment/Bloodlands\|Bloodlands]]                                               | <ul><li>James Nesbitt</li><li>Lorcan Cranitch</li><li>Charlene McKenna</li></ul>      | 2021–2022 | waiting     | \-     |
+| [[Area/Entertainment/Kin\|Kin]]                                                             | <ul><li>Charlie Cox</li><li>Clare Dunne</li><li>Aidan Gillen</li></ul>                | 2021–     | waiting     | \-     |
+| [[Area/Entertainment/The Fall\|The Fall]]                                                   | <ul><li>Gillian Anderson</li><li>Jamie Dornan</li><li>John Lynch</li></ul>            | 2013–2016 | waiting     | \-     |
+| [[Area/Entertainment/Say Nothing\|Say Nothing]]                                             | <ul><li>Lola Petticrew</li><li>Hazel Doupe</li><li>Emily Healy</li></ul>              | 2024      | waiting     | \-     |
+| [[Area/Entertainment/'71\|'71]]                                                             | <ul><li>Jack O'Connell</li><li>Sam Reid</li><li>Sean Harris</li></ul>                 | 2014      | waiting     | \-     |
+| [[Area/Entertainment/The Importance of Being Earnest\|The Importance of Being Earnest]]     | <ul><li>Rupert Everett</li><li>Colin Firth</li><li>Frances O'Connor</li></ul>         | 2002      | waiting     | \-     |
+| [[Area/Entertainment/Michael Collins\|Michael Collins]]                                     | <ul><li>Liam Neeson</li><li>Aidan Quinn</li><li>Julia Roberts</li></ul>               | 1996      | waiting     | \-     |
+| [[Area/Entertainment/In the Name of the Father\|In the Name of the Father]]                 | <ul><li>Daniel Day-Lewis</li><li>Pete Postlethwaite</li><li>Alison Crosbie</li></ul>  | 1993      | waiting     | \-     |
+| [[Area/Entertainment/My Left Foot\|My Left Foot]]                                           | <ul><li>Daniel Day-Lewis</li><li>Brenda Fricker</li><li>Alison Whelan</li></ul>       | 1989      | waiting     | \-     |
+| [[Area/Entertainment/How to Get to Heaven from Belfast\|How to Get to Heaven from Belfast]] | <ul><li>Roisin Gallagher</li><li>Sinéad Keenan</li><li>Caoilfhionn Dunne</li></ul>    | 2026–     | in progress | 4.5    |
+| [[Area/Entertainment/Normal People\|Normal People]]                                         | <ul><li>Paul Mescal</li><li>Daisy Edgar-Jones</li><li>Desmond Eastwood</li></ul>      | 2020      | in progress | \-     |
+| [[Area/Entertainment/The Banshees of Inisherin\|The Banshees of Inisherin]]                 | <ul><li>Colin Farrell</li><li>Brendan Gleeson</li><li>Kerry Condon</li></ul>          | 2022      | finished    | 5      |
+| [[Area/Entertainment/Belfast\|Belfast]]                                                     | <ul><li>Jude Hill</li><li>Lewis McAskie</li><li>Caitríona Balfe</li></ul>             | 2021      | finished    | 5      |
+| [[Area/Entertainment/Sinners\|Sinners]]                                                     | <ul><li>Michael B. Jordan</li><li>Miles Caton</li><li>Saul Williams</li></ul>         | 2025      | finished    | 4.5    |
+| [[Area/Entertainment/The Wind that Shakes the Barley\|The Wind that Shakes the Barley]]     | <ul><li>Cillian Murphy</li><li>Pádraic Delaney</li><li>Liam Cunningham</li></ul>      | 2006      | finished    | 4.5    |
+| [[Area/Entertainment/Bodkin\|Bodkin]]                                                       | <ul><li>Siobhán Cullen</li><li>Robyn Cara</li><li>Chris Walley</li></ul>              | 2024–     | finished    | 4      |
+| [[Area/Entertainment/Sing Street\|Sing Street]]                                             | <ul><li>Ferdia Walsh-Peelo</li><li>Aidan Gillen</li><li>Maria Doyle Kennedy</li></ul> | 2016      | finished    | 4      |
+| [[Area/Entertainment/Breakfast on Pluto\|Breakfast on Pluto]]                               | <ul><li>Cillian Murphy</li><li>Morgan Jones</li><li>Eva Birthistle</li></ul>          | 2005      | finished    | 4      |
 
 { .block-language-dataview}
 
