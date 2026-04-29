@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Themes.md","permalink":"//themes/","title":"Themes","tags":["map"],"updated":"2026-04-29T21:31:48.238+08:00","dg-note-properties":{"title":"Themes","date":{"created":"2024-10-14T18:02:36","updated":"2024-10-23T18:20:11"},"tags":"map"}}
+{"dg-publish":true,"dg-path":" /Themes.md","permalink":"//themes/","title":"Themes","tags":["map"],"updated":"2026-04-29T22:14:41.668+08:00","dg-note-properties":{"title":"Themes","date":{"created":"2024-10-14T18:02:36","updated":"2024-10-23T18:20:11"},"tags":"map"}}
 ---
 
 # Themes
@@ -30,6 +30,96 @@
 | [[Area/Entertainment/Beautiful Boy\|Beautiful Boy]]                                       | 2018 | <ul><li>Timothée Chalamet</li><li>Steve Carell</li><li>Maura Tierney</li></ul> | finished | \-                     |
 | [[Area/Entertainment/Ben Is Back\|Ben Is Back]]                                           | 2018 | <ul><li>Julia Roberts</li><li>Lucas Hedges</li><li>Courtney B. Vance</li></ul> | finished | \-                     |
 | [[Area/Entertainment/Painkiller\|Painkiller]]                                             | 2023 | <ul><li>Uzo Aduba</li><li>Matthew Broderick</li><li>Taylor Kitsch</li></ul>    | finished | Netflix                |
+
+{ .block-language-dataview}
+
+## Ireland
+
+| books                                                                | author               | status      | own              | rating |
+| -------------------------------------------------------------------- | -------------------- | ----------- | ---------------- | ------ |
+| [[Area/Reading/Normal People\|Normal People]]                     | Sally Rooney         | finished    | bought           | 5      |
+| [[Area/Reading/Say Nothing\|Say Nothing]]                         | Patrick Radden Keefe | finished    | bought           | 5      |
+| [[Area/Reading/We Don't Know Ourselves\|We Don't Know Ourselves]] | Fintan O'Toole       | finished    | bought           | 5      |
+| [[Area/Reading/The Rachel Incident\|The Rachel Incident]]         | Caroline O'Donoghue  | finished    | borrowed         | 4.5    |
+| [[Area/Reading/Small Things Like These\|Small Things Like These]] | Claire Keegan        | finished    | bought           | 4.5    |
+| [[Area/Reading/Brooklyn\|Brooklyn]]                               | Colm Toibin          | finished    | bought           | 4      |
+| [[Area/Reading/Dubliners\|Dubliners]]                             | James Joyce          | finished    | bought           | 4      |
+| [[Area/Reading/Foster\|Foster]]                                   | Claire Keegan        | finished    | bought           | 4      |
+| [[Area/Reading/So Late in the Day\|So Late in the Day]]           | Claire Keegan        | finished    | bought           | 4      |
+| [[Area/Reading/Hamnet\|Hamnet]]                                   | Maggie O'Farrell     | finished    | bought           | \-     |
+| [[Area/Reading/Homage to Barcelona\|Homage to Barcelona]]         | Colm Tóibín          | in progress | bought           | \-     |
+| [[Area/Reading/Milkman\|Milkman]]                                 | Anna Burns           | in progress | bought           | \-     |
+| [[Area/Reading/The Master\|The Master]]                           | Colm Toibin          | in progress | bought           | \-     |
+| [[Area/Reading/Antarctica\|Antarctica]]                           | Claire Keegan        | waiting     | bought           | \-     |
+| [[Area/Reading/Can Ireland Be One\|Can Ireland Be One]]           | Malachi O'Doherty    | waiting     | bought           | \-     |
+| [[Area/Reading/Intermezzo\|Intermezzo]]                           | Sally Rooney         | waiting     | bought           | \-     |
+| [[Area/Reading/Ireland\|Ireland]]                                 | Edward Rutherfurd    | waiting     | bought           | \-     |
+| [[Area/Reading/Long Island\|Long Island]]                         | Colm Toibin          | waiting     | bought           | \-     |
+| [[Area/Reading/Skippy Dies\|Skippy Dies]]                         | Paul Murray          | waiting     | bought           | \-     |
+| [[Area/Reading/The Magician\|The Magician]]                       | Colm Toibin          | waiting     | bought           | \-     |
+| [[Area/Reading/Walk the Blue Fields\|Walk the Blue Fields]]       | Claire Keegan        | waiting     | bought           | \-     |
+| [[Area/Reading/The Bee Sting\|The Bee Sting]]                     | Paul Murray          | waiting     | to buy or borrow | \-     |
+
+{ .block-language-dataview}
+
+| articles                                                                                                                                                | author                         | status      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------- |
+| [[+/ReadItLater/25 Best Books by Irish Authors\|25 Best Books by Irish Authors]]                                                                     | \-                             | waiting     |
+| [[+/ReadItLater/Loving the Limitations of the Novel\|Loving the Limitations of the Novel]]                                                           | Merve Emre                     | waiting     |
+| [[+/ReadItLater/《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史\|《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史]]                                                     | 陳榮彬                            | waiting     |
+| [[+/ReadItLater/「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價\|「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價]]                               | 楊詠翔                            | waiting     |
+| [[+/ReadItLater/不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》\|不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》]]                                                                           | 嘉世強                            | waiting     |
+| [[+/ReadItLater/在人與人的連結中輕輕搖晃──讀《聊天紀錄》\|在人與人的連結中輕輕搖晃──讀《聊天紀錄》]]                                                                                       | 廖梅璇                            | waiting     |
+| [[+/ReadItLater/尚未終章的北愛爾蘭悲劇，《什麼都別說》揭露北愛問題的心理創傷和記憶鬥爭\|尚未終章的北愛爾蘭悲劇，《什麼都別說》揭露北愛問題的心理創傷和記憶鬥爭]]                                                           | 江懷哲                            | waiting     |
+| [[+/ReadItLater/An Irish writing professor's seven-stop literary crawl of Dublin\|An Irish writing professor's seven-stop literary crawl of Dublin]] | Eva Sandoval                   | in progress |
+| [[+/ReadItLater/Ireland How to have the ultimate adventure\|Ireland How to have the ultimate adventure]]                                             | John O'Ceallaigh, Nicola Brady | in progress |
+| [[+/ReadItLater/因為痛苦，所以正常。許多愁憾，最終只能「欲說還休」──讀《正常人》\|因為痛苦，所以正常。許多愁憾，最終只能「欲說還休」──讀《正常人》]]                                                               | Emily Chan                     | finished    |
+| [[+/ReadItLater/為什麼書評盛讚《間奏棋》(Intermezzo)是莎莉．魯尼至今最動人的小說？故事在談什麼？\|為什麼書評盛讚《間奏棋》(Intermezzo)是莎莉．魯尼至今最動人的小說？故事在談什麼？]]                                     | 楊詠翔                            | finished    |
+
+{ .block-language-dataview}
+
+| movies and series                                                                              | cast                                                                                  | year      | status      | rating |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------- | ----------- | ------ |
+| [[Area/Entertainment/Blue Lights\|Blue Lights]]                                             | <ul><li>Nathan Braniff</li><li>Sian Brooke</li><li>Katherine Devlin</li></ul>         | 2023–     | waiting     | \-     |
+| [[Area/Entertainment/The Tourist\|The Tourist]]                                             | <ul><li>Jamie Dornan</li><li>Danielle Macdonald</li><li>Greg Larsen</li></ul>         | 2022–2024 | waiting     | \-     |
+| [[Area/Entertainment/Bad Sisters\|Bad Sisters]]                                             | <ul><li>Sharon Horgan</li><li>Eve Hewson</li><li>Sarah Greene</li></ul>               | 2022–     | waiting     | \-     |
+| [[Area/Entertainment/Bloodlands\|Bloodlands]]                                               | <ul><li>James Nesbitt</li><li>Lorcan Cranitch</li><li>Charlene McKenna</li></ul>      | 2021–2022 | waiting     | \-     |
+| [[Area/Entertainment/Kin\|Kin]]                                                             | <ul><li>Charlie Cox</li><li>Clare Dunne</li><li>Aidan Gillen</li></ul>                | 2021–     | waiting     | \-     |
+| [[Area/Entertainment/The Fall\|The Fall]]                                                   | <ul><li>Gillian Anderson</li><li>Jamie Dornan</li><li>John Lynch</li></ul>            | 2013–2016 | waiting     | \-     |
+| [[Area/Entertainment/Say Nothing\|Say Nothing]]                                             | <ul><li>Lola Petticrew</li><li>Hazel Doupe</li><li>Emily Healy</li></ul>              | 2024      | waiting     | \-     |
+| [[Area/Entertainment/'71\|'71]]                                                             | <ul><li>Jack O'Connell</li><li>Sam Reid</li><li>Sean Harris</li></ul>                 | 2014      | waiting     | \-     |
+| [[Area/Entertainment/The Importance of Being Earnest\|The Importance of Being Earnest]]     | <ul><li>Rupert Everett</li><li>Colin Firth</li><li>Frances O'Connor</li></ul>         | 2002      | waiting     | \-     |
+| [[Area/Entertainment/Michael Collins\|Michael Collins]]                                     | <ul><li>Liam Neeson</li><li>Aidan Quinn</li><li>Julia Roberts</li></ul>               | 1996      | waiting     | \-     |
+| [[Area/Entertainment/In the Name of the Father\|In the Name of the Father]]                 | <ul><li>Daniel Day-Lewis</li><li>Pete Postlethwaite</li><li>Alison Crosbie</li></ul>  | 1993      | waiting     | \-     |
+| [[Area/Entertainment/My Left Foot\|My Left Foot]]                                           | <ul><li>Daniel Day-Lewis</li><li>Brenda Fricker</li><li>Alison Whelan</li></ul>       | 1989      | waiting     | \-     |
+| [[Area/Entertainment/How to Get to Heaven from Belfast\|How to Get to Heaven from Belfast]] | <ul><li>Roisin Gallagher</li><li>Sinéad Keenan</li><li>Caoilfhionn Dunne</li></ul>    | 2026–     | in progress | 4.5    |
+| [[Area/Entertainment/Normal People\|Normal People]]                                         | <ul><li>Paul Mescal</li><li>Daisy Edgar-Jones</li><li>Desmond Eastwood</li></ul>      | 2020      | in progress | \-     |
+| [[Area/Entertainment/The Banshees of Inisherin\|The Banshees of Inisherin]]                 | <ul><li>Colin Farrell</li><li>Brendan Gleeson</li><li>Kerry Condon</li></ul>          | 2022      | finished    | 5      |
+| [[Area/Entertainment/Belfast\|Belfast]]                                                     | <ul><li>Jude Hill</li><li>Lewis McAskie</li><li>Caitríona Balfe</li></ul>             | 2021      | finished    | 5      |
+| [[Area/Entertainment/Sinners\|Sinners]]                                                     | <ul><li>Michael B. Jordan</li><li>Miles Caton</li><li>Saul Williams</li></ul>         | 2025      | finished    | 4.5    |
+| [[Area/Entertainment/The Wind that Shakes the Barley\|The Wind that Shakes the Barley]]     | <ul><li>Cillian Murphy</li><li>Pádraic Delaney</li><li>Liam Cunningham</li></ul>      | 2006      | finished    | 4.5    |
+| [[Area/Entertainment/Bodkin\|Bodkin]]                                                       | <ul><li>Siobhán Cullen</li><li>Robyn Cara</li><li>Chris Walley</li></ul>              | 2024–     | finished    | 4      |
+| [[Area/Entertainment/Sing Street\|Sing Street]]                                             | <ul><li>Ferdia Walsh-Peelo</li><li>Aidan Gillen</li><li>Maria Doyle Kennedy</li></ul> | 2016      | finished    | 4      |
+| [[Area/Entertainment/Breakfast on Pluto\|Breakfast on Pluto]]                               | <ul><li>Cillian Murphy</li><li>Morgan Jones</li><li>Eva Birthistle</li></ul>          | 2005      | finished    | 4      |
+
+{ .block-language-dataview}
+
+## Portugal
+
+| books                                                        | author               | status   | own    | rating |
+| ------------------------------------------------------------ | -------------------- | -------- | ------ | ------ |
+| [[Area/Reading/Blindness\|Blindness]]                     | José Saramago        | finished | bought | 4.5    |
+| [[Area/Reading/The Night in Lisbon\|The Night in Lisbon]] | Erich Marie Remarque | waiting  | bought | \-     |
+| [[Area/Reading/因為佩索亞，所以里斯本\|因為佩索亞，所以里斯本]]                 | Fernando Pessoa      | waiting  | bought | \-     |
+| [[Area/Reading/死神放長假\|死神放長假]]                             | José Saramago        | waiting  | bought | \-     |
+| [[Area/Reading/詩人里卡多逝世那一年\|詩人里卡多逝世那一年]]                   | Cassilda Duran       | waiting  | bought | \-     |
+| [[Area/Reading/里斯本，沒落的美感\|里斯本，沒落的美感]]                     | 細腿男                  | waiting  | bought | \-     |
+
+{ .block-language-dataview}
+
+| movies and series                                                      | cast                                                                       | year | status   | rating |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---- | -------- | ------ |
+| [[Area/Entertainment/Night Train to Lisbon\|Night Train to Lisbon]] | <ul><li>Jeremy Irons</li><li>Mélanie Laurent</li><li>Jack Huston</li></ul> | 2013 | finished | 4      |
 
 { .block-language-dataview}
 
@@ -254,77 +344,6 @@
 | [[Area/Entertainment/The Miracle Club\|The Miracle Club]]                                           | 2023      | <ul><li>Maggie Smith</li><li>Laura Linney</li><li>Kathy Bates</li></ul>                                                                                                                                                | waiting  | \-     |
 | [[Area/Entertainment/Downton Abbey\|Downton Abbey]]                                                 | 2010–2015 | <ul><li>Hugh Bonneville</li><li>Phyllis Logan</li><li>Elizabeth McGovern</li><li>Maggie Smith</li><li>Dan Stevens</li></ul>                                                                                            | finished | 5      |
 | [[Area/Entertainment/Tea With the Dames\|Tea With the Dames]]                                       | 2018      | <ul><li>Maggie Smith</li><li>Eileen Atkins</li><li>Judi Dench</li><li>Joan Plowright</li></ul>                                                                                                                         | finished | 4      |
-
-{ .block-language-dataview}
-
-## Ireland
-
-| books                                                                | author               | status      | own              | rating |
-| -------------------------------------------------------------------- | -------------------- | ----------- | ---------------- | ------ |
-| [[Area/Reading/Normal People\|Normal People]]                     | Sally Rooney         | finished    | bought           | 5      |
-| [[Area/Reading/Say Nothing\|Say Nothing]]                         | Patrick Radden Keefe | finished    | bought           | 5      |
-| [[Area/Reading/We Don't Know Ourselves\|We Don't Know Ourselves]] | Fintan O'Toole       | finished    | bought           | 5      |
-| [[Area/Reading/The Rachel Incident\|The Rachel Incident]]         | Caroline O'Donoghue  | finished    | borrowed         | 4.5    |
-| [[Area/Reading/Small Things Like These\|Small Things Like These]] | Claire Keegan        | finished    | bought           | 4.5    |
-| [[Area/Reading/Brooklyn\|Brooklyn]]                               | Colm Toibin          | finished    | bought           | 4      |
-| [[Area/Reading/Dubliners\|Dubliners]]                             | James Joyce          | finished    | bought           | 4      |
-| [[Area/Reading/Foster\|Foster]]                                   | Claire Keegan        | finished    | bought           | 4      |
-| [[Area/Reading/So Late in the Day\|So Late in the Day]]           | Claire Keegan        | finished    | bought           | 4      |
-| [[Area/Reading/Hamnet\|Hamnet]]                                   | Maggie O'Farrell     | finished    | bought           | \-     |
-| [[Area/Reading/Homage to Barcelona\|Homage to Barcelona]]         | Colm Tóibín          | in progress | bought           | \-     |
-| [[Area/Reading/Milkman\|Milkman]]                                 | Anna Burns           | in progress | bought           | \-     |
-| [[Area/Reading/The Master\|The Master]]                           | Colm Toibin          | in progress | bought           | \-     |
-| [[Area/Reading/Antarctica\|Antarctica]]                           | Claire Keegan        | waiting     | bought           | \-     |
-| [[Area/Reading/Can Ireland Be One\|Can Ireland Be One]]           | Malachi O'Doherty    | waiting     | bought           | \-     |
-| [[Area/Reading/Intermezzo\|Intermezzo]]                           | Sally Rooney         | waiting     | bought           | \-     |
-| [[Area/Reading/Ireland\|Ireland]]                                 | Edward Rutherfurd    | waiting     | bought           | \-     |
-| [[Area/Reading/Long Island\|Long Island]]                         | Colm Toibin          | waiting     | bought           | \-     |
-| [[Area/Reading/Skippy Dies\|Skippy Dies]]                         | Paul Murray          | waiting     | bought           | \-     |
-| [[Area/Reading/The Magician\|The Magician]]                       | Colm Toibin          | waiting     | bought           | \-     |
-| [[Area/Reading/Walk the Blue Fields\|Walk the Blue Fields]]       | Claire Keegan        | waiting     | bought           | \-     |
-| [[Area/Reading/The Bee Sting\|The Bee Sting]]                     | Paul Murray          | waiting     | to buy or borrow | \-     |
-
-{ .block-language-dataview}
-
-| articles                                                                                                                                                | author                         | status      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------- |
-| [[+/ReadItLater/25 Best Books by Irish Authors\|25 Best Books by Irish Authors]]                                                                     | \-                             | waiting     |
-| [[+/ReadItLater/Loving the Limitations of the Novel\|Loving the Limitations of the Novel]]                                                           | Merve Emre                     | waiting     |
-| [[+/ReadItLater/《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史\|《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史]]                                                     | 陳榮彬                            | waiting     |
-| [[+/ReadItLater/「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價\|「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價]]                               | 楊詠翔                            | waiting     |
-| [[+/ReadItLater/不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》\|不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》]]                                                                           | 嘉世強                            | waiting     |
-| [[+/ReadItLater/在人與人的連結中輕輕搖晃──讀《聊天紀錄》\|在人與人的連結中輕輕搖晃──讀《聊天紀錄》]]                                                                                       | 廖梅璇                            | waiting     |
-| [[+/ReadItLater/尚未終章的北愛爾蘭悲劇，《什麼都別說》揭露北愛問題的心理創傷和記憶鬥爭\|尚未終章的北愛爾蘭悲劇，《什麼都別說》揭露北愛問題的心理創傷和記憶鬥爭]]                                                           | 江懷哲                            | waiting     |
-| [[+/ReadItLater/An Irish writing professor's seven-stop literary crawl of Dublin\|An Irish writing professor's seven-stop literary crawl of Dublin]] | Eva Sandoval                   | in progress |
-| [[+/ReadItLater/Ireland How to have the ultimate adventure\|Ireland How to have the ultimate adventure]]                                             | John O'Ceallaigh, Nicola Brady | in progress |
-| [[+/ReadItLater/因為痛苦，所以正常。許多愁憾，最終只能「欲說還休」──讀《正常人》\|因為痛苦，所以正常。許多愁憾，最終只能「欲說還休」──讀《正常人》]]                                                               | Emily Chan                     | finished    |
-| [[+/ReadItLater/為什麼書評盛讚《間奏棋》(Intermezzo)是莎莉．魯尼至今最動人的小說？故事在談什麼？\|為什麼書評盛讚《間奏棋》(Intermezzo)是莎莉．魯尼至今最動人的小說？故事在談什麼？]]                                     | 楊詠翔                            | finished    |
-
-{ .block-language-dataview}
-
-| movies and series                                                                              | cast                                                                                  | year      | status      | rating |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------- | ----------- | ------ |
-| [[Area/Entertainment/Blue Lights\|Blue Lights]]                                             | <ul><li>Nathan Braniff</li><li>Sian Brooke</li><li>Katherine Devlin</li></ul>         | 2023–     | waiting     | \-     |
-| [[Area/Entertainment/The Tourist\|The Tourist]]                                             | <ul><li>Jamie Dornan</li><li>Danielle Macdonald</li><li>Greg Larsen</li></ul>         | 2022–2024 | waiting     | \-     |
-| [[Area/Entertainment/Bad Sisters\|Bad Sisters]]                                             | <ul><li>Sharon Horgan</li><li>Eve Hewson</li><li>Sarah Greene</li></ul>               | 2022–     | waiting     | \-     |
-| [[Area/Entertainment/Bloodlands\|Bloodlands]]                                               | <ul><li>James Nesbitt</li><li>Lorcan Cranitch</li><li>Charlene McKenna</li></ul>      | 2021–2022 | waiting     | \-     |
-| [[Area/Entertainment/Kin\|Kin]]                                                             | <ul><li>Charlie Cox</li><li>Clare Dunne</li><li>Aidan Gillen</li></ul>                | 2021–     | waiting     | \-     |
-| [[Area/Entertainment/The Fall\|The Fall]]                                                   | <ul><li>Gillian Anderson</li><li>Jamie Dornan</li><li>John Lynch</li></ul>            | 2013–2016 | waiting     | \-     |
-| [[Area/Entertainment/Say Nothing\|Say Nothing]]                                             | <ul><li>Lola Petticrew</li><li>Hazel Doupe</li><li>Emily Healy</li></ul>              | 2024      | waiting     | \-     |
-| [[Area/Entertainment/'71\|'71]]                                                             | <ul><li>Jack O'Connell</li><li>Sam Reid</li><li>Sean Harris</li></ul>                 | 2014      | waiting     | \-     |
-| [[Area/Entertainment/The Importance of Being Earnest\|The Importance of Being Earnest]]     | <ul><li>Rupert Everett</li><li>Colin Firth</li><li>Frances O'Connor</li></ul>         | 2002      | waiting     | \-     |
-| [[Area/Entertainment/Michael Collins\|Michael Collins]]                                     | <ul><li>Liam Neeson</li><li>Aidan Quinn</li><li>Julia Roberts</li></ul>               | 1996      | waiting     | \-     |
-| [[Area/Entertainment/In the Name of the Father\|In the Name of the Father]]                 | <ul><li>Daniel Day-Lewis</li><li>Pete Postlethwaite</li><li>Alison Crosbie</li></ul>  | 1993      | waiting     | \-     |
-| [[Area/Entertainment/My Left Foot\|My Left Foot]]                                           | <ul><li>Daniel Day-Lewis</li><li>Brenda Fricker</li><li>Alison Whelan</li></ul>       | 1989      | waiting     | \-     |
-| [[Area/Entertainment/How to Get to Heaven from Belfast\|How to Get to Heaven from Belfast]] | <ul><li>Roisin Gallagher</li><li>Sinéad Keenan</li><li>Caoilfhionn Dunne</li></ul>    | 2026–     | in progress | 4.5    |
-| [[Area/Entertainment/Normal People\|Normal People]]                                         | <ul><li>Paul Mescal</li><li>Daisy Edgar-Jones</li><li>Desmond Eastwood</li></ul>      | 2020      | in progress | \-     |
-| [[Area/Entertainment/The Banshees of Inisherin\|The Banshees of Inisherin]]                 | <ul><li>Colin Farrell</li><li>Brendan Gleeson</li><li>Kerry Condon</li></ul>          | 2022      | finished    | 5      |
-| [[Area/Entertainment/Belfast\|Belfast]]                                                     | <ul><li>Jude Hill</li><li>Lewis McAskie</li><li>Caitríona Balfe</li></ul>             | 2021      | finished    | 5      |
-| [[Area/Entertainment/Sinners\|Sinners]]                                                     | <ul><li>Michael B. Jordan</li><li>Miles Caton</li><li>Saul Williams</li></ul>         | 2025      | finished    | 4.5    |
-| [[Area/Entertainment/The Wind that Shakes the Barley\|The Wind that Shakes the Barley]]     | <ul><li>Cillian Murphy</li><li>Pádraic Delaney</li><li>Liam Cunningham</li></ul>      | 2006      | finished    | 4.5    |
-| [[Area/Entertainment/Bodkin\|Bodkin]]                                                       | <ul><li>Siobhán Cullen</li><li>Robyn Cara</li><li>Chris Walley</li></ul>              | 2024–     | finished    | 4      |
-| [[Area/Entertainment/Sing Street\|Sing Street]]                                             | <ul><li>Ferdia Walsh-Peelo</li><li>Aidan Gillen</li><li>Maria Doyle Kennedy</li></ul> | 2016      | finished    | 4      |
-| [[Area/Entertainment/Breakfast on Pluto\|Breakfast on Pluto]]                               | <ul><li>Cillian Murphy</li><li>Morgan Jones</li><li>Eva Birthistle</li></ul>          | 2005      | finished    | 4      |
 
 { .block-language-dataview}
 
