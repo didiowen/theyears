@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/x/home/","title":"The Years","tags":["gardenEntry"],"updated":"2026-04-29T21:46:30.570+08:00","dg-note-properties":{"title":"The Years","tags":"gardenEntry"}}
+---
+
+
+# The Years
+
+A garden of notes on what I read, watch, and study.
+
+## Maps
+
+- [[Effort/Themes\|Themes]]
+- [[Effort/Readings\|Readings]]
+- [[Effort/Watchlist\|Watchlist]]
+- [[Effort/英國莎士比亞與當代展演\|英國莎士比亞與當代展演]]
+- [[Effort/劇本閱讀與一點點（真的一點點）寫作練習\|劇本閱讀與一點點（真的一點點）寫作練習]]
