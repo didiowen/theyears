@@ -11,3 +11,11 @@ body {
     //   color: black;
     //  }
 }
+
+@media (max-width: 768px) {
+    .markdown-rendered table {
+        display: block;
+        max-width: 100%;
+        overflow-x: auto;
+    }
+}
