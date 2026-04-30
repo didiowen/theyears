@@ -12,5 +12,5 @@ A garden of notes on what I read, watch, and study.
 - [[Effort/Themes\|Themes]]
 - [[Effort/Readings\|Readings]]
 - [[Effort/Watchlist\|Watchlist]]
-- [[Effort/英國莎士比亞與當代展演\|英國莎士比亞與當代展演]]
-- [[Effort/劇本閱讀與一點點（真的一點點）寫作練習\|劇本閱讀與一點點（真的一點點）寫作練習]]
+- [[Area/Theatre/英國莎士比亞與當代展演\|英國莎士比亞與當代展演]]
+- [[Area/Theatre/劇本閱讀與一點點（真的一點點）寫作練習\|劇本閱讀與一點點（真的一點點）寫作練習]]
