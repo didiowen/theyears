@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Demon Copperhead.md","permalink":"//demon-copperhead/","title":"Demon Copperhead","tags":["reading"],"updated":"2026-04-29T22:05:05.137+08:00","dg-note-properties":{"title":"Demon Copperhead","subtitle":"Winner of the Women's Prize for Fiction","alt_title":"惡魔浮生錄","author":"Barbara Kingsolver","year":2022,"tags":"reading","own":"bought","status":"finished","rating":null,"date":{"created":"2024-12-31T12:42:19","updated":"2025-12-27T15:39:13","finished":"2026-03-18T11:35:14"},"platform":"Kindle, Audible_US","format":"ebook, audiobook","language":"en"}}
+{"dg-publish":true,"permalink":"/area/reading/demon-copperhead/","title":"Demon Copperhead","tags":["reading"],"dg-note-properties":{"title":"Demon Copperhead","subtitle":"Winner of the Women's Prize for Fiction","alt_title":"惡魔浮生錄","author":"Barbara Kingsolver","year":2022,"tags":"reading","own":"bought","status":"finished","rating":null,"date":{"created":"2024-12-31T12:42:19","updated":"2025-12-27T15:39:13","finished":"2026-03-18T11:35:14"},"platform":"Kindle, Audible_US","format":"ebook, audiobook","language":"en"}}
 ---
 
 # Demon Copperhead

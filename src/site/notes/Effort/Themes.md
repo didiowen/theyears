@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Themes.md","permalink":"//themes/","title":"Themes","tags":["map"],"updated":"2026-04-29T22:14:41.668+08:00","dg-note-properties":{"title":"Themes","date":{"created":"2024-10-14T18:02:36","updated":"2024-10-23T18:20:11"},"tags":"map"}}
+{"dg-publish":true,"permalink":"/effort/themes/","title":"Themes","tags":["map"],"dg-note-properties":{"title":"Themes","date":{"created":"2024-10-14T18:02:36","updated":"2024-10-23T18:20:11"},"tags":"map"}}
 ---
 
 # Themes
@@ -47,17 +47,17 @@
 | [[Area/Reading/Foster\|Foster]]                                   | Claire Keegan        | finished    | bought           | 4      |
 | [[Area/Reading/So Late in the Day\|So Late in the Day]]           | Claire Keegan        | finished    | bought           | 4      |
 | [[Area/Reading/Hamnet\|Hamnet]]                                   | Maggie O'Farrell     | finished    | bought           | \-     |
-| [[Area/Reading/Homage to Barcelona\|Homage to Barcelona]]         | Colm Tóibín          | in progress | bought           | \-     |
 | [[Area/Reading/Milkman\|Milkman]]                                 | Anna Burns           | in progress | bought           | \-     |
 | [[Area/Reading/The Master\|The Master]]                           | Colm Toibin          | in progress | bought           | \-     |
+| [[Area/Reading/Homage to Barcelona\|Homage to Barcelona]]         | Colm Tóibín          | in progress | bought           | \-     |
 | [[Area/Reading/Antarctica\|Antarctica]]                           | Claire Keegan        | waiting     | bought           | \-     |
-| [[Area/Reading/Can Ireland Be One\|Can Ireland Be One]]           | Malachi O'Doherty    | waiting     | bought           | \-     |
 | [[Area/Reading/Intermezzo\|Intermezzo]]                           | Sally Rooney         | waiting     | bought           | \-     |
 | [[Area/Reading/Ireland\|Ireland]]                                 | Edward Rutherfurd    | waiting     | bought           | \-     |
 | [[Area/Reading/Long Island\|Long Island]]                         | Colm Toibin          | waiting     | bought           | \-     |
 | [[Area/Reading/Skippy Dies\|Skippy Dies]]                         | Paul Murray          | waiting     | bought           | \-     |
 | [[Area/Reading/The Magician\|The Magician]]                       | Colm Toibin          | waiting     | bought           | \-     |
 | [[Area/Reading/Walk the Blue Fields\|Walk the Blue Fields]]       | Claire Keegan        | waiting     | bought           | \-     |
+| [[Area/Reading/Can Ireland Be One\|Can Ireland Be One]]           | Malachi O'Doherty    | waiting     | bought           | \-     |
 | [[Area/Reading/The Bee Sting\|The Bee Sting]]                     | Paul Murray          | waiting     | to buy or borrow | \-     |
 
 { .block-language-dataview}
@@ -109,11 +109,11 @@
 | books                                                        | author               | status   | own    | rating |
 | ------------------------------------------------------------ | -------------------- | -------- | ------ | ------ |
 | [[Area/Reading/Blindness\|Blindness]]                     | José Saramago        | finished | bought | 4.5    |
-| [[Area/Reading/The Night in Lisbon\|The Night in Lisbon]] | Erich Marie Remarque | waiting  | bought | \-     |
+| [[Area/Reading/里斯本，沒落的美感\|里斯本，沒落的美感]]                     | 細腿男                  | waiting  | bought | \-     |
 | [[Area/Reading/因為佩索亞，所以里斯本\|因為佩索亞，所以里斯本]]                 | Fernando Pessoa      | waiting  | bought | \-     |
 | [[Area/Reading/死神放長假\|死神放長假]]                             | José Saramago        | waiting  | bought | \-     |
 | [[Area/Reading/詩人里卡多逝世那一年\|詩人里卡多逝世那一年]]                   | Cassilda Duran       | waiting  | bought | \-     |
-| [[Area/Reading/里斯本，沒落的美感\|里斯本，沒落的美感]]                     | 細腿男                  | waiting  | bought | \-     |
+| [[Area/Reading/The Night in Lisbon\|The Night in Lisbon]] | Erich Marie Remarque | waiting  | bought | \-     |
 
 { .block-language-dataview}
 
@@ -139,8 +139,8 @@
 | [[+/ReadItLater/法國名導席瓦迪耶  將《人民公敵》化為當代警世寓言\|法國名導席瓦迪耶  將《人民公敵》化為當代警世寓言]]                       | 王世偉        | waiting     |
 | [[+/ReadItLater/經典搬演反映當下  集體創作顛覆文本傳統\|經典搬演反映當下  集體創作顛覆文本傳統]]                                 | 林冠吾        | waiting     |
 | [[+/ReadItLater/變性、變種、變革\|變性、變種、變革]]                                                         | 紀蔚然        | waiting     |
-| [[+/ReadItLater/變種同時的變革\|變種同時的變革]]                                                           | 紀蔚然        | waiting     |
 | [[+/ReadItLater/重譯、再現、肢解  易卜生與當代同在\|重譯、再現、肢解  易卜生與當代同在]]                                     | 陳思宏        | waiting     |
+| [[+/ReadItLater/變種同時的變革\|變種同時的變革]]                                                           | 紀蔚然        | waiting     |
 | [[+/ReadItLater/《人民公敵》在中國越禁越火、越批越香\|《人民公敵》在中國越禁越火、越批越香]]                                     | 秦胆         | in progress |
 | [[+/ReadItLater/Tove Ditlevsen’s Art of Estrangement\|Tove Ditlevsen’s Art of Estrangement]] | Condé Nast | finished    |
 | [[+/ReadItLater/《人民公敵》  在後民主時代演練公眾討論\|《人民公敵》  在後民主時代演練公眾討論]]                                 | 余岱融        | finished    |
@@ -198,9 +198,9 @@
 | [[Area/Reading/Don't Sleep There Are Snakes\|Don't Sleep There Are Snakes]]       | Daniel L. Everett                                                 | waiting     | bought           |
 | [[Area/Reading/English as a Global Language\|English as a Global Language]]       | David Crystal                                                     | waiting     | bought           |
 | [[Area/Reading/In Other Words\|In Other Words]]                                   | Jhumpa Lahiri                                                     | waiting     | bought           |
+| [[Area/Reading/Le latin ou L’empire d’un signe\|Le latin ou L’empire d’un signe]] | Françoise Waquet                                                  | waiting     | bought           |
 | [[Area/Reading/Language and Power\|Language and Power]]                           | Benedict R. O'G. Anderson                                         | waiting     | bought           |
 | [[Area/Reading/Language in Thought and Action\|Language in Thought and Action]]   | <ul><li>Samuel Ichiyé Hayakawa</li><li>Alan R. Hayakawa</li></ul> | waiting     | bought           |
-| [[Area/Reading/Le latin ou L’empire d’un signe\|Le latin ou L’empire d’un signe]] | Françoise Waquet                                                  | waiting     | bought           |
 | [[Area/Reading/The Mother Tongue\|The Mother Tongue]]                             | Bill Bryson                                                       | waiting     | bought           |
 | [[Area/Reading/Through the Language Glass\|Through the Language Glass]]           | Guy Deutscher                                                     | waiting     | bought           |
 | [[Area/Reading/Un Occident kidnappé\|Un Occident kidnappé]]                       | Milan Kundera                                                     | waiting     | bought           |
@@ -224,8 +224,8 @@
 | [[+/ReadItLater/來一場「語言旅行」，打開認知世界的窗口──讀《二十種語言，另眼看世界》\|來一場「語言旅行」，打開認知世界的窗口──讀《二十種語言，另眼看世界》]]                                                           | 翁稷安              | finished    |
 | [[+/ReadItLater/安德森與他筆下的印尼幽靈──讀《語言與權力：探索印尼的政治文化》\|安德森與他筆下的印尼幽靈──讀《語言與權力：探索印尼的政治文化》]]                                                                 | 阿潑               | finished    |
 | [[+/ReadItLater/我就是看到「方言」或「Pe̍h-ōe-jī」就心煩──讀《請說「國語」》\|我就是看到「方言」或「Pe̍h-ōe-jī」就心煩──讀《請說「國語」》]]                                                         | 蘇致亨              | finished    |
-| [[+/ReadItLater/真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》\|真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》]]                                               | OKAPI            | finished    |
 | [[+/ReadItLater/美國最暢銷字典編輯的秘密人生──讀《為單字安排座位的人》\|美國最暢銷字典編輯的秘密人生──讀《為單字安排座位的人》]]                                                                         | OKAPI編輯室         | finished    |
+| [[+/ReadItLater/真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》\|真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》]]                                               | OKAPI            | finished    |
 
 { .block-language-dataview}
 

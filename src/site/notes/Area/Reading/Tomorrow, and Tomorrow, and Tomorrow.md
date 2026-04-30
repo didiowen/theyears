@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Tomorrow, and Tomorrow, and Tomorrow.md","permalink":"//tomorrow-and-tomorrow-and-tomorrow/","title":"Tomorrow, and Tomorrow, and Tomorrow","tags":["reading"],"updated":"2026-04-29T22:04:23.734+08:00","dg-note-properties":{"title":"Tomorrow, and Tomorrow, and Tomorrow","alt_title":"明日，明日，又明日","author":"Gabrielle Zevin","year":2022,"platform":"Audible_US","format":"audiobook","language":"en","tags":"reading","own":"bought","status":"finished","rating":5,"date":{"created":"2024-07-17T17:46:11","updated":"2024-09-07T22:04:34","finished":"2024-01-21"}}}
+{"dg-publish":true,"permalink":"/area/reading/tomorrow-and-tomorrow-and-tomorrow/","title":"Tomorrow, and Tomorrow, and Tomorrow","tags":["reading"],"dg-note-properties":{"title":"Tomorrow, and Tomorrow, and Tomorrow","alt_title":"明日，明日，又明日","author":"Gabrielle Zevin","year":2022,"platform":"Audible_US","format":"audiobook","language":"en","tags":"reading","own":"bought","status":"finished","rating":5,"date":{"created":"2024-07-17T17:46:11","updated":"2024-09-07T22:04:34","finished":"2024-01-21"}}}
 ---
 
 # Tomorrow, and Tomorrow, and Tomorrow
@@ -15,7 +15,7 @@ ONE OF THE NEW YORK TIMES’ BEST BOOKS OF THE 21ST CENTURY • A NEW YORK TIMES
 ## Posts
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/100-best-books-of-the-21st-century/#tomorrow-and-tomorrow-and-tomorrow" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="//read-it-later/100-best-books-of-the-21st-century/#tomorrow-and-tomorrow-and-tomorrow" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

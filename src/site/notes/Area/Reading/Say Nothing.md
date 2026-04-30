@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Say Nothing.md","permalink":"//say-nothing/","title":"Say Nothing","tags":["Ireland","reading"],"updated":"2026-04-29T22:06:03.151+08:00","dg-note-properties":{"title":"Say Nothing","subtitle":"A True Story of Murder and Memory in Northern Ireland","alt_title":"什麼都別說","author":"Patrick Radden Keefe","year":2019,"platform":"Audible_US","format":"audiobook","language":"en","tags":["Ireland","reading"],"own":"bought","status":"finished","rating":5,"date":{"created":"2025-04-11T11:58:57","updated":"2025-04-11T11:59:00","finished":"2025-04-13T21:33:11"}}}
+{"dg-publish":true,"permalink":"/area/reading/say-nothing/","title":"Say Nothing","tags":["Ireland","reading"],"dg-note-properties":{"title":"Say Nothing","subtitle":"A True Story of Murder and Memory in Northern Ireland","alt_title":"什麼都別說","author":"Patrick Radden Keefe","year":2019,"platform":"Audible_US","format":"audiobook","language":"en","tags":["Ireland","reading"],"own":"bought","status":"finished","rating":5,"date":{"created":"2025-04-11T11:58:57","updated":"2025-04-11T11:59:00","finished":"2025-04-13T21:33:11"}}}
 ---
 
 # Say Nothing
@@ -118,7 +118,7 @@ actions:
 [[+/ReadItLater/Say Nothing｜什麼都別說\|Say Nothing｜什麼都別說]]
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/100-best-books-of-the-21st-century/#say-nothing" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="//read-it-later/100-best-books-of-the-21st-century/#say-nothing" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Københavnertrilogien.md","permalink":"//kobenhavnertrilogien/","title":"Københavnertrilogien","tags":["Nordic","毒與癮","reading"],"updated":"2026-04-29T22:04:42.972+08:00","dg-note-properties":{"title":"Københavnertrilogien","subtitle":"Barndom, Ungdom, Gift","alt_title":"The Copenhagen Trilogy:\\ Childhood; Youth; Dependency","author":"Tove Ditlevsen","year":2021,"platform":"Audible_UK","format":"audiobook","language":"en","tags":["Nordic","毒與癮","reading"],"own":"bought","status":"finished","rating":3,"date":{"created":"2024-09-04T09:52:56","finished":"2024-09-14"}}}
+{"dg-publish":true,"permalink":"/area/reading/kobenhavnertrilogien/","title":"Københavnertrilogien","tags":["Nordic","毒與癮","reading"],"dg-note-properties":{"title":"Københavnertrilogien","subtitle":"Barndom, Ungdom, Gift","alt_title":"The Copenhagen Trilogy:\\ Childhood; Youth; Dependency","author":"Tove Ditlevsen","year":2021,"platform":"Audible_UK","format":"audiobook","language":"en","tags":["Nordic","毒與癮","reading"],"own":"bought","status":"finished","rating":3,"date":{"created":"2024-09-04T09:52:56","finished":"2024-09-14"}}}
 ---
 
 # Københavnertrilogien

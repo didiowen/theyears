@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Stay True.md","permalink":"//stay-true/","title":"Stay True","tags":["reading"],"updated":"2026-04-29T22:05:13.493+08:00","dg-note-properties":{"title":"Stay True","alt_title":"保持真誠","author":"徐華","year":2022,"platform":"Audible_US","format":"audiobook","language":"en","tags":"reading","own":"bought","status":"finished","rating":4.5,"date":{"finished":"2024-03-13","created":"2024-07-17T17:57:04"}}}
+{"dg-publish":true,"permalink":"/area/reading/stay-true/","title":"Stay True","tags":["reading"],"dg-note-properties":{"title":"Stay True","alt_title":"保持真誠","author":"徐華","year":2022,"platform":"Audible_US","format":"audiobook","language":"en","tags":"reading","own":"bought","status":"finished","rating":4.5,"date":{"finished":"2024-03-13","created":"2024-07-17T17:57:04"}}}
 ---
 
 # Stay True
@@ -15,7 +15,7 @@ Winner of the Pulitzer Prize Winner of the National Book Critics Circle Award On
 ## Posts
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/100-best-books-of-the-21st-century/#stay-true" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="//read-it-later/100-best-books-of-the-21st-century/#stay-true" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

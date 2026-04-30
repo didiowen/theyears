@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Americanah.md","permalink":"//americanah/","title":"Americanah","tags":["reading"],"updated":"2026-04-29T22:05:55.417+08:00","dg-note-properties":{"title":"Americanah","alt_title":"美國佬","author":"Chimamanda Ngozi Adichie","year":2013,"tags":["reading"],"own":"borrowed","status":"finished","rating":5,"categories":["reading"],"date":{"created":"2024-07-17T18:06:23","updated":"2024-09-06T12:24:34","finished":"2024-08-30"},"platform":"Audible_UK","format":"audiobook","language":"en"}}
+{"dg-publish":true,"permalink":"/area/reading/americanah/","title":"Americanah","tags":["reading"],"dg-note-properties":{"title":"Americanah","alt_title":"美國佬","author":"Chimamanda Ngozi Adichie","year":2013,"tags":["reading"],"own":"borrowed","status":"finished","rating":5,"categories":["reading"],"date":{"created":"2024-07-17T18:06:23","updated":"2024-09-06T12:24:34","finished":"2024-08-30"},"platform":"Audible_UK","format":"audiobook","language":"en"}}
 ---
 
 # Americanah
@@ -26,7 +26,7 @@
 ## Related
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/100-best-books-of-the-21st-century/#americanah" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="//read-it-later/100-best-books-of-the-21st-century/#americanah" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /Never Let Me Go.md","permalink":"//never-let-me-go/","title":"Never Let Me Go","tags":["reading"],"updated":"2026-04-29T22:06:23.649+08:00","dg-note-properties":{"title":"Never Let Me Go","subtitle":"20th anniversary edition","alt_title":"別讓我走","tags":"reading","own":"bought","status":"finished","rating":null,"date":{"created":"2024-09-25T15:49:13","updated":"2026-04-29T20:54:38","finished":"2026-04-29T20:54:39"},"platform":"Audible_UK","format":"audiobook","language":"en","author":"Kazuo Ishiguro","year":2009}}
+{"dg-publish":true,"permalink":"/area/reading/never-let-me-go/","title":"Never Let Me Go","tags":["reading"],"dg-note-properties":{"title":"Never Let Me Go","subtitle":"20th anniversary edition","alt_title":"別讓我走","tags":"reading","own":"bought","status":"finished","rating":null,"date":{"created":"2024-09-25T15:49:13","updated":"2026-04-29T20:54:38","finished":"2026-04-29T20:54:39"},"platform":"Audible_UK","format":"audiobook","language":"en","author":"Kazuo Ishiguro","year":2009}}
 ---
 
 # Never Let Me Go
@@ -53,7 +53,7 @@ actions:
 ## Posts
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/100-best-books-of-the-21st-century/#never-let-me-go" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="//read-it-later/100-best-books-of-the-21st-century/#never-let-me-go" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

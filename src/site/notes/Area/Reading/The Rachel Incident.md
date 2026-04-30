@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" /The Rachel Incident.md","permalink":"//the-rachel-incident/","title":"The Rachel Incident","tags":["LGBT","Ireland","reading"],"updated":"2026-04-29T22:00:19.971+08:00","dg-note-properties":{"title":"The Rachel Incident","alt_title":"瑞秋的青春事件簿","author":"Caroline O'Donoghue","year":2023,"platform":"Audible_UK","format":"audiobook","language":"en","tags":["LGBT","Ireland","reading"],"own":"borrowed","status":"finished","rating":4.5,"date":{"created":"2024-07-17T20:53:58","updated":"2024-09-06T12:25:18","finished":"2024-07-29"}}}
+{"dg-publish":true,"permalink":"/area/reading/the-rachel-incident/","title":"The Rachel Incident","tags":["LGBT","Ireland","reading"],"dg-note-properties":{"title":"The Rachel Incident","alt_title":"瑞秋的青春事件簿","author":"Caroline O'Donoghue","year":2023,"platform":"Audible_UK","format":"audiobook","language":"en","tags":["LGBT","Ireland","reading"],"own":"borrowed","status":"finished","rating":4.5,"date":{"created":"2024-07-17T20:53:58","updated":"2024-09-06T12:25:18","finished":"2024-07-29"}}}
 ---
 
 # The Rachel Incident
