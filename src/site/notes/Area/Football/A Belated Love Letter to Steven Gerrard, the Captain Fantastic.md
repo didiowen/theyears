@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/area/football/a-belated-love-letter-to-steven-gerrard-the-captain-fantastic/","title":"A Belated Love Letter to Steven Gerrard, the Captain Fantastic","tags":["writing","football","Language/English"],"dg-note-properties":{"title":"A Belated Love Letter to Steven Gerrard, the Captain Fantastic","author":"didiowen","tags":["writing","football","Language/English"],"date":{"created":"2022-05-16","updated":"2026-06-16"}}}
+{"dg-publish":true,"permalink":"/area/football/a-belated-love-letter-to-steven-gerrard-the-captain-fantastic/","title":"A Belated Love Letter to Steven Gerrard, the Captain Fantastic","tags":["writing","football","Language/English"],"dg-note-properties":{"title":"A Belated Love Letter to Steven Gerrard, the Captain Fantastic","author":"didiowen","tags":["writing","football","Language/English"],"created":"2022-05-16"}}
 ---
 
 # A Belated Love Letter to Steven Gerrard, the Captain Fantastic

@@ -61,8 +61,8 @@
 | [[Area/Reading/Antarctica\|Antarctica]]                                             | Claire Keegan              | waiting     | bought           | \-     |
 | [[Area/Reading/Can Ireland Be One\|Can Ireland Be One]]                             | Malachi O'Doherty          | waiting     | bought           | \-     |
 | [[Area/Reading/For and Against a United Ireland\|For and Against a United Ireland]] | Sam McBride,Fintan O'Toole | waiting     | bought           | \-     |
-| [[Area/Reading/Ireland\|Ireland]]                                                   | Edward Rutherfurd          | waiting     | bought           | \-     |
 | [[Area/Reading/Intermezzo\|Intermezzo]]                                             | Sally Rooney               | waiting     | bought           | \-     |
+| [[Area/Reading/Ireland\|Ireland]]                                                   | Edward Rutherfurd          | waiting     | bought           | \-     |
 | [[Area/Reading/Long Island\|Long Island]]                                           | Colm Toibin                | waiting     | bought           | \-     |
 | [[Area/Reading/Prophet Song\|Prophet Song]]                                         | Paul Lynch                 | waiting     | bought           | \-     |
 | [[Area/Reading/Skippy Dies\|Skippy Dies]]                                           | Paul Murray                | waiting     | bought           | \-     |
@@ -82,8 +82,8 @@
 | [[+/ReadItLater/Loving the Limitations of the Novel\|Loving the Limitations of the Novel]]                                                           | Merve Emre                     | waiting     |
 | [[+/ReadItLater/Reading guide - Milkman by Anna Burns\|Reading guide - Milkman by Anna Burns]]                                                       | \-                             | waiting     |
 | [[+/ReadItLater/《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史\|《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史]]                                                     | 陳榮彬                            | waiting     |
-| [[+/ReadItLater/不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》\|不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》]]                                                                           | 嘉世強                            | waiting     |
 | [[+/ReadItLater/「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價\|「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價]]                               | 楊詠翔                            | waiting     |
+| [[+/ReadItLater/不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》\|不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》]]                                                                           | 嘉世強                            | waiting     |
 | [[+/ReadItLater/在人與人的連結中輕輕搖晃──讀《聊天紀錄》\|在人與人的連結中輕輕搖晃──讀《聊天紀錄》]]                                                                                       | 廖梅璇                            | waiting     |
 | [[+/ReadItLater/尚未終章的北愛爾蘭悲劇，《什麼都別說》揭露北愛問題的心理創傷和記憶鬥爭\|尚未終章的北愛爾蘭悲劇，《什麼都別說》揭露北愛問題的心理創傷和記憶鬥爭]]                                                           | 江懷哲                            | waiting     |
 | [[+/ReadItLater/An Irish writing professor's seven-stop literary crawl of Dublin\|An Irish writing professor's seven-stop literary crawl of Dublin]] | Eva Sandoval                   | in progress |
@@ -180,8 +180,8 @@
 | [[+/ReadItLater/易卜生的「晚期風格」\|易卜生的「晚期風格」]]                                                     | 葉根泉        | waiting     |
 | [[+/ReadItLater/法國名導席瓦迪耶  將《人民公敵》化為當代警世寓言\|法國名導席瓦迪耶  將《人民公敵》化為當代警世寓言]]                       | 王世偉        | waiting     |
 | [[+/ReadItLater/經典搬演反映當下  集體創作顛覆文本傳統\|經典搬演反映當下  集體創作顛覆文本傳統]]                                 | 林冠吾        | waiting     |
-| [[+/ReadItLater/變性、變種、變革\|變性、變種、變革]]                                                         | 紀蔚然        | waiting     |
 | [[+/ReadItLater/變種同時的變革\|變種同時的變革]]                                                           | 紀蔚然        | waiting     |
+| [[+/ReadItLater/變性、變種、變革\|變性、變種、變革]]                                                         | 紀蔚然        | waiting     |
 | [[+/ReadItLater/重譯、再現、肢解  易卜生與當代同在\|重譯、再現、肢解  易卜生與當代同在]]                                     | 陳思宏        | waiting     |
 | [[+/ReadItLater/《人民公敵》在中國越禁越火、越批越香\|《人民公敵》在中國越禁越火、越批越香]]                                     | 秦胆         | in progress |
 | [[+/ReadItLater/Tove Ditlevsen’s Art of Estrangement\|Tove Ditlevsen’s Art of Estrangement]] | Condé Nast | finished    |
@@ -245,8 +245,8 @@
 | [[Area/Reading/The Mother Tongue\|The Mother Tongue]]                             | Bill Bryson                                                       | waiting     | bought           |
 | [[Area/Reading/Through the Language Glass\|Through the Language Glass]]           | Guy Deutscher                                                     | waiting     | bought           |
 | [[Area/Reading/Un Occident kidnappé\|Un Occident kidnappé]]                       | Milan Kundera                                                     | waiting     | bought           |
-| [[Area/Reading/Words of Wonder\|Words of Wonder]]                                 | Nicholas Evans                                                    | waiting     | bought           |
 | [[Area/Reading/Word by Word\|Word by Word]]                                       | Kory Stamper                                                      | waiting     | bought           |
+| [[Area/Reading/Words of Wonder\|Words of Wonder]]                                 | Nicholas Evans                                                    | waiting     | bought           |
 | [[Area/Reading/You Say Potato\|You Say Potato]]                                   | <ul><li>Ben Crystal</li><li>David Crystal</li></ul>               | waiting     | bought           |
 | [[Area/Reading/我說，所以我存在\|我說，所以我存在]]                                               | Kübra Gümüşay                                                     | waiting     | bought           |
 | [[Area/Reading/語言學家解破台語\|語言學家解破台語]]                                               | 劉承賢                                                               | waiting     | bought           |
@@ -382,8 +382,8 @@
 | [[Area/Entertainment/Ladies in Lavender\|Ladies in Lavender]]                                       | 2004      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Daniel Brühl</li></ul>                                                                                                                                                 | waiting  | \-     |
 | [[Area/Entertainment/The Best Exotic Marigold Hotel\|The Best Exotic Marigold Hotel]]               | 2011      | <ul><li>Judi Dench</li><li>Bill Nighy</li><li>Maggie Smith</li></ul>                                                                                                                                                   | waiting  | \-     |
 | [[Area/Entertainment/Fifty Years on Stage\|Fifty Years on Stage]]                                   | 2013      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Helen Mirren</li><li>Simon Russell Beale</li><li>Michael Gambon</li><li>Ian McKellen</li><li>Ralph Fiennes</li><li>Benedict Cumberbatch</li><li>Andrew Scott</li></ul> | waiting  | \-     |
-| [[Area/Entertainment/The Second Best Exotic Marigold Hotel\|The Second Best Exotic Marigold Hotel]] | 2015      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Bill Nighy</li></ul>                                                                                                                                                   | waiting  | \-     |
 | [[Area/Entertainment/The Lady in the Van\|The Lady in the Van]]                                     | 2015      | <ul><li>Maggie Smith</li><li>Alex Jennings</li><li>Jim Broadbent</li></ul>                                                                                                                                             | waiting  | \-     |
+| [[Area/Entertainment/The Second Best Exotic Marigold Hotel\|The Second Best Exotic Marigold Hotel]] | 2015      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Bill Nighy</li></ul>                                                                                                                                                   | waiting  | \-     |
 | [[Area/Entertainment/The Miracle Club\|The Miracle Club]]                                           | 2023      | <ul><li>Maggie Smith</li><li>Laura Linney</li><li>Kathy Bates</li></ul>                                                                                                                                                | waiting  | \-     |
 | [[Area/Entertainment/Downton Abbey\|Downton Abbey]]                                                 | 2010–2015 | <ul><li>Hugh Bonneville</li><li>Phyllis Logan</li><li>Elizabeth McGovern</li><li>Maggie Smith</li><li>Dan Stevens</li></ul>                                                                                            | finished | 5      |
 | [[Area/Entertainment/Tea With the Dames\|Tea With the Dames]]                                       | 2018      | <ul><li>Maggie Smith</li><li>Eileen Atkins</li><li>Judi Dench</li><li>Joan Plowright</li></ul>                                                                                                                         | finished | 4      |
@@ -418,8 +418,8 @@
 | [[+/ReadItLater/Rebecca Makkai Art for Heart’s Sake\|Rebecca Makkai Art for Heart’s Sake]]                       | Shireen Quadri        | in progress |
 | [[+/ReadItLater/生死歸所不由己──楊曜愷《從今以後》女同志「家庭」的現實寓言\|生死歸所不由己──楊曜愷《從今以後》女同志「家庭」的現實寓言]]                                 | 張士達                   | in progress |
 | [[+/ReadItLater/台灣立委吳沛憶專訪：替同志伴侶許家蓓「說一個完整的故事」\|台灣立委吳沛憶專訪：替同志伴侶許家蓓「說一個完整的故事」]]                                     | \-                    | finished    |
-| [[+/ReadItLater/雙子之愛\|雙子之愛]]                                                                                     | 陳又津                   | finished    |
 | [[+/ReadItLater/跨性別\|跨性別]]                                                                                       | 陳彥成                   | finished    |
+| [[+/ReadItLater/雙子之愛\|雙子之愛]]                                                                                     | 陳又津                   | finished    |
 | [[+/ReadItLater/同志沒有不一樣，跟所有人都一樣──五月選書《分手去旅行》\|同志沒有不一樣，跟所有人都一樣──五月選書《分手去旅行》]]                                     | <ul><li>陳伯昌</li></ul> | \-          |
 
 { .block-language-dataview}

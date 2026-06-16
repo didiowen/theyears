@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/area/tami-fisk/","title":"Tami Fisk","tags":["writing","history"],"dg-note-properties":{"title":"Tami Fisk","author":"didiowen","tags":["writing","history"],"date":{"created":"2021-09-13","updated":"2026-06-16T16:19:55"}}}
+{"dg-publish":true,"permalink":"/area/tami-fisk/","title":"Tami Fisk","tags":["writing","history"],"dg-note-properties":{"title":"Tami Fisk","author":"didiowen","tags":["writing","history"],"created":"2021-09-13"}}
 ---
 
 # Tami Fisk
