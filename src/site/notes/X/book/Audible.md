@@ -134,7 +134,7 @@
 - [ ] [[Area/Reading/The Anarchy\|The Anarchy]] — William Dalrymple
 - [ ] [[Area/Reading/Sex, Love, and Marriage from the Middle Ages to the Enlightenment\|Sex, Love, and Marriage from the Middle Ages to the Enlightenment]] — Jennifer McNabb
 - [ ] [[Area/Reading/The Virginia Woolf Collection\|The Virginia Woolf Collection]] — Virginia Woolf
-- [/] [[Area/Reading/The Windup Girl\|The Windup Girl]] — Paolo Bacigalupi
+- [x] [[Area/Reading/The Windup Girl\|The Windup Girl]] — Paolo Bacigalupi
 - [ ] [[Area/Reading/Snow Crash\|Snow Crash]] — Neal Stephenson
 - [ ] [[Area/Reading/The Nights Are Quiet in Tehran\|The Nights Are Quiet in Tehran]] — Shida Bazyar
 - [ ] [[Area/Reading/For and Against a United Ireland\|For and Against a United Ireland]] — Fintan O'Toole
@@ -288,7 +288,7 @@
 - [ ] [[Area/Reading/The Judgment of Paris\|The Judgment of Paris]] — Ross King
 - [ ] [[Area/Reading/In the Weeds\|In the Weeds]] — Tom Vitale
 - [ ] [[Area/Reading/This Is Your Mind on Plants\|This Is Your Mind on Plants]] — Michael Pollan
-- [ ] [[Spanish Short Stories\|Spanish Short Stories]] — Charles Mendel
+- [ ] [[Area/Reading/Spanish Short Stories\|Spanish Short Stories]] — Charles Mendel
 - [ ] [[Area/Reading/A Woman of the World\|A Woman of the World]] — Rebecca Gilman
 - [ ] [[Area/Reading/The Man on the Mountaintop\|The Man on the Mountaintop]] — Susan Trott, Libby Spurrier
 - [ ] [[Area/Reading/Birds, Beasts and Relatives\|Birds, Beasts and Relatives]] — Gerald Durrell
@@ -342,4 +342,5 @@
 - [ ] [[Area/Reading/Born a Crime\|Born a Crime]] — Trevor Noah
 - [ ] [[Area/Reading/The Soul of a Chef\|The Soul of a Chef]] — Michael Ruhlman
 - [ ] [[Area/Reading/Shoe Dog\|Shoe Dog]] — Phil Knight
-- [ ] [[Area/Reading/Oryx and Crake\|Oryx and Crake]] — Margaret Atwood
+- [/] [[Area/Reading/Oryx and Crake\|Oryx and Crake]] — Margaret Atwood
+- [ ] [[Area/Reading/A Man of Two Faces\|A Man of Two Faces]] — Viet Thanh Nguyen

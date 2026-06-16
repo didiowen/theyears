@@ -9,18 +9,20 @@
 
 | File                                                                                             | author                           | year | rating | status      |
 | ------------------------------------------------------------------------------------------------ | -------------------------------- | ---- | ------ | ----------- |
+| [[Area/Reading/臺灣漫遊錄\|臺灣漫遊錄]]                                                                 | <ul><li>楊双子</li><li>金翎</li></ul> | 2020 | 5      | finished    |
 | [[Area/Reading/A Little Life\|A Little Life]]                                                 | Hanya Yanagihara                 | 2015 | 5      | finished    |
 | [[Area/Reading/Hamnet\|Hamnet]]                                                               | Maggie O'Farrell                 | 2023 | 5      | finished    |
 | [[Area/Reading/Normal People\|Normal People]]                                                 | Sally Rooney                     | 2019 | 5      | finished    |
 | [[Area/Reading/The Remains of the Day\|The Remains of the Day]]                               | Kazuo Ishiguro                   | 2009 | 5      | finished    |
 | [[Area/Reading/The Safekeep\|The Safekeep]]                                                   | Yael van der Wouden              | 2025 | 5      | finished    |
-| [[Area/Reading/臺灣漫遊錄\|臺灣漫遊錄]]                                                                 | <ul><li>楊双子</li><li>金翎</li></ul> | 2020 | 5      | finished    |
 | [[Area/Reading/Anil's Ghost\|Anil's Ghost]]                                                   | Michael Ondaatje                 | 2001 | 4.5    | finished    |
 | [[Area/Reading/Flesh\|Flesh]]                                                                 | David Szalay                     | 2025 | 4.5    | finished    |
 | [[Area/Reading/Kairos\|Kairos]]                                                               | Jenny Erpenbeck                  | 2023 | 4.5    | finished    |
 | [[Area/Reading/Never Let Me Go\|Never Let Me Go]]                                             | Kazuo Ishiguro                   | 2009 | 4.5    | finished    |
 | [[Area/Reading/Small Things Like These\|Small Things Like These]]                             | Claire Keegan                    | 2021 | 4.5    | finished    |
 | [[Area/Reading/Brooklyn\|Brooklyn]]                                                           | Colm Toibin                      | 2009 | 4      | finished    |
+| [[Area/Reading/素食者\|素食者]]                                                                     | 韓江                               | 2019 | \-     | waiting     |
+| [[Area/Reading/鯨\|鯨]]                                                                         | 千明官                              | 2025 | \-     | waiting     |
 | [[Area/Reading/A Brief History of Seven Killings\|A Brief History of Seven Killings]]         | Marlon James                     | 2014 | \-     | waiting     |
 | [[Area/Reading/All That Man Is\|All That Man Is]]                                             | David Szalay                     | 2016 | \-     | waiting     |
 | [[Area/Reading/Bring Up the Bodies\|Bring Up the Bodies]]                                     | Hilary Mantel                    | 2012 | \-     | waiting     |
@@ -53,8 +55,6 @@
 | [[Area/Reading/The Years\|The Years]]                                                         | Annie Ernaux                     | 2017 | \-     | waiting     |
 | [[Area/Reading/Trust\|Trust]]                                                                 | Hernan Diaz                      | 2022 | \-     | waiting     |
 | [[Area/Reading/Wolf Hall\|Wolf Hall]]                                                         | Hilary Mantel                    | 2009 | \-     | in progress |
-| [[Area/Reading/素食者\|素食者]]                                                                     | 韓江                               | 2019 | \-     | waiting     |
-| [[Area/Reading/鯨\|鯨]]                                                                         | 千明官                              | 2025 | \-     | waiting     |
 
 { .block-language-dataview}
 

@@ -10,19 +10,20 @@
 
 | books                                                                    | author            | status      | own              | rating |
 | ------------------------------------------------------------------------ | ----------------- | ----------- | ---------------- | ------ |
-| [[Area/Reading/Oryx and Crake\|Oryx and Crake]]                       | Margaret Atwood   | waiting     | bought           | \-     |
-| [[Area/Reading/Poor Things\|Poor Things]]                             | Alasdair Gray     | waiting     | bought           | \-     |
-| [[Area/Reading/Snow Crash\|Snow Crash]]                               | Neal Stephenson   | waiting     | bought           | \-     |
-| [[Area/Reading/The Left Hand of Darkness\|The Left Hand of Darkness]] | Ursula K. Le Guin | waiting     | to buy or borrow | \-     |
 | [[Area/Reading/銀翼殺手\|銀翼殺手]]                                           | Philip K. Dick    | waiting     | bought           | \-     |
-| [[Area/Reading/階級病院\|階級病院]]                                           | 馬欣                | waiting     | bought           | \-     |
+| [[Area/Reading/The Left Hand of Darkness\|The Left Hand of Darkness]] | Ursula K. Le Guin | waiting     | to buy or borrow | \-     |
+| [[Area/Reading/Snow Crash\|Snow Crash]]                               | Neal Stephenson   | waiting     | bought           | \-     |
+| [[Area/Reading/Poor Things\|Poor Things]]                             | Alasdair Gray     | waiting     | bought           | \-     |
 | [[Area/Reading/麻風醫生與巨變中國\|麻風醫生與巨變中國]]                                 | 劉紹華               | waiting     | bought           | \-     |
-| [[Area/Reading/The Windup Girl\|The Windup Girl]]                     | Paolo Bacigalupi  | in progress | bought           | \-     |
+| [[Area/Reading/階級病院\|階級病院]]                                           | 馬欣                | waiting     | bought           | \-     |
+| [[Area/Reading/The Year of the Flood\|The Year of the Flood]]         | Margaret Atwood   | in progress | bought           | \-     |
 | [[Area/Reading/Never Let Me Go\|Never Let Me Go]]                     | Kazuo Ishiguro    | finished    | bought           | 4.5    |
 | [[Area/Reading/George Orwell’s 1984\|George Orwell’s 1984]]           | George Orwell     | finished    | bought           | 4.5    |
-| [[Area/Reading/Murder by Other Means\|Murder by Other Means]]         | John Scalzi       | finished    | bought           | 3.5    |
-| [[Area/Reading/The Dispatcher\|The Dispatcher]]                       | John Scalzi       | finished    | bought           | 3.5    |
 | [[Area/Reading/Travel by Bullet\|Travel by Bullet]]                   | John Scalzi       | finished    | bought           | 3.5    |
+| [[Area/Reading/The Dispatcher\|The Dispatcher]]                       | John Scalzi       | finished    | bought           | 3.5    |
+| [[Area/Reading/Murder by Other Means\|Murder by Other Means]]         | John Scalzi       | finished    | bought           | 3.5    |
+| [[Area/Reading/The Windup Girl\|The Windup Girl]]                     | Paolo Bacigalupi  | finished    | bought           | \-     |
+| [[Area/Reading/Oryx and Crake\|Oryx and Crake]]                       | Margaret Atwood   | finished    | bought           | \-     |
 
 { .block-language-dataview}
 
@@ -79,9 +80,10 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------- |
 | [[+/ReadItLater/25 Best Books by Irish Authors\|25 Best Books by Irish Authors]]                                                                     | \-                             | waiting     |
 | [[+/ReadItLater/Loving the Limitations of the Novel\|Loving the Limitations of the Novel]]                                                           | Merve Emre                     | waiting     |
+| [[+/ReadItLater/Reading guide - Milkman by Anna Burns\|Reading guide - Milkman by Anna Burns]]                                                       | \-                             | waiting     |
 | [[+/ReadItLater/《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史\|《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史]]                                                     | 陳榮彬                            | waiting     |
-| [[+/ReadItLater/「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價\|「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價]]                               | 楊詠翔                            | waiting     |
 | [[+/ReadItLater/不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》\|不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》]]                                                                           | 嘉世強                            | waiting     |
+| [[+/ReadItLater/「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價\|「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價]]                               | 楊詠翔                            | waiting     |
 | [[+/ReadItLater/在人與人的連結中輕輕搖晃──讀《聊天紀錄》\|在人與人的連結中輕輕搖晃──讀《聊天紀錄》]]                                                                                       | 廖梅璇                            | waiting     |
 | [[+/ReadItLater/尚未終章的北愛爾蘭悲劇，《什麼都別說》揭露北愛問題的心理創傷和記憶鬥爭\|尚未終章的北愛爾蘭悲劇，《什麼都別說》揭露北愛問題的心理創傷和記憶鬥爭]]                                                           | 江懷哲                            | waiting     |
 | [[+/ReadItLater/An Irish writing professor's seven-stop literary crawl of Dublin\|An Irish writing professor's seven-stop literary crawl of Dublin]] | Eva Sandoval                   | in progress |
@@ -238,13 +240,13 @@
 | [[Area/Reading/English as a Global Language\|English as a Global Language]]       | David Crystal                                                     | waiting     | bought           |
 | [[Area/Reading/In Other Words\|In Other Words]]                                   | Jhumpa Lahiri                                                     | waiting     | bought           |
 | [[Area/Reading/Language and Power\|Language and Power]]                           | Benedict R. O'G. Anderson                                         | waiting     | bought           |
-| [[Area/Reading/Le latin ou L’empire d’un signe\|Le latin ou L’empire d’un signe]] | Françoise Waquet                                                  | waiting     | bought           |
 | [[Area/Reading/Language in Thought and Action\|Language in Thought and Action]]   | <ul><li>Samuel Ichiyé Hayakawa</li><li>Alan R. Hayakawa</li></ul> | waiting     | bought           |
+| [[Area/Reading/Le latin ou L’empire d’un signe\|Le latin ou L’empire d’un signe]] | Françoise Waquet                                                  | waiting     | bought           |
 | [[Area/Reading/The Mother Tongue\|The Mother Tongue]]                             | Bill Bryson                                                       | waiting     | bought           |
 | [[Area/Reading/Through the Language Glass\|Through the Language Glass]]           | Guy Deutscher                                                     | waiting     | bought           |
 | [[Area/Reading/Un Occident kidnappé\|Un Occident kidnappé]]                       | Milan Kundera                                                     | waiting     | bought           |
-| [[Area/Reading/Word by Word\|Word by Word]]                                       | Kory Stamper                                                      | waiting     | bought           |
 | [[Area/Reading/Words of Wonder\|Words of Wonder]]                                 | Nicholas Evans                                                    | waiting     | bought           |
+| [[Area/Reading/Word by Word\|Word by Word]]                                       | Kory Stamper                                                      | waiting     | bought           |
 | [[Area/Reading/You Say Potato\|You Say Potato]]                                   | <ul><li>Ben Crystal</li><li>David Crystal</li></ul>               | waiting     | bought           |
 | [[Area/Reading/我說，所以我存在\|我說，所以我存在]]                                               | Kübra Gümüşay                                                     | waiting     | bought           |
 | [[Area/Reading/語言學家解破台語\|語言學家解破台語]]                                               | 劉承賢                                                               | waiting     | bought           |
@@ -346,13 +348,14 @@
 
 { .block-language-dataview}
 
-| articles                                                                                                                          | author         | status   |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- |
-| [[+/ReadItLater/Andrew Scott Plays Every Part in ‘Vanya’\|Andrew Scott Plays Every Part in ‘Vanya’]]                           | Houman Barekat | finished |
-| [[+/ReadItLater/Vanya review – Andrew Scott excels in one-man Chekhov\|Vanya review – Andrew Scott excels in one-man Chekhov]] | Arifa Akbar    | finished |
-| [[+/ReadItLater/人生裡傷你最深的，通常是最微小的事 ──游孟儒、陳夏民談《凡尼亞舅舅》\|人生裡傷你最深的，通常是最微小的事 ──游孟儒、陳夏民談《凡尼亞舅舅》]]                                     | 沈眠             | finished |
-| [[+/ReadItLater/凡尼亞本來就有黑暗毀滅性 《在車上》與契訶夫\|凡尼亞本來就有黑暗毀滅性 《在車上》與契訶夫]]                                                               | 張亦絢            | finished |
-| [[+/ReadItLater/邊喝茶邊抱怨人生—契訶夫《凡尼亞舅舅》\|邊喝茶邊抱怨人生—契訶夫《凡尼亞舅舅》]]                                                                     | Gem Wu         | finished |
+| articles                                                                                                                          | author                | status   |
+| --------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------- |
+| [[+/ReadItLater/Andrew Scott Plays Every Part in ‘Vanya’\|Andrew Scott Plays Every Part in ‘Vanya’]]                           | Houman Barekat        | finished |
+| [[+/ReadItLater/Vanya review – Andrew Scott excels in one-man Chekhov\|Vanya review – Andrew Scott excels in one-man Chekhov]] | Arifa Akbar           | finished |
+| [[+/ReadItLater/人生裡傷你最深的，通常是最微小的事 ──游孟儒、陳夏民談《凡尼亞舅舅》\|人生裡傷你最深的，通常是最微小的事 ──游孟儒、陳夏民談《凡尼亞舅舅》]]                                     | 沈眠                    | finished |
+| [[+/ReadItLater/凡尼亞本來就有黑暗毀滅性 《在車上》與契訶夫\|凡尼亞本來就有黑暗毀滅性 《在車上》與契訶夫]]                                                               | 張亦絢                   | finished |
+| [[+/ReadItLater/邊喝茶邊抱怨人生—契訶夫《凡尼亞舅舅》\|邊喝茶邊抱怨人生—契訶夫《凡尼亞舅舅》]]                                                                     | Gem Wu                | finished |
+| [[+/ReadItLater/母親的助行器\|母親的助行器]]                                                                                               | <ul><li>賴香吟</li></ul> | \-       |
 
 { .block-language-dataview}
 
@@ -379,8 +382,8 @@
 | [[Area/Entertainment/Ladies in Lavender\|Ladies in Lavender]]                                       | 2004      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Daniel Brühl</li></ul>                                                                                                                                                 | waiting  | \-     |
 | [[Area/Entertainment/The Best Exotic Marigold Hotel\|The Best Exotic Marigold Hotel]]               | 2011      | <ul><li>Judi Dench</li><li>Bill Nighy</li><li>Maggie Smith</li></ul>                                                                                                                                                   | waiting  | \-     |
 | [[Area/Entertainment/Fifty Years on Stage\|Fifty Years on Stage]]                                   | 2013      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Helen Mirren</li><li>Simon Russell Beale</li><li>Michael Gambon</li><li>Ian McKellen</li><li>Ralph Fiennes</li><li>Benedict Cumberbatch</li><li>Andrew Scott</li></ul> | waiting  | \-     |
-| [[Area/Entertainment/The Lady in the Van\|The Lady in the Van]]                                     | 2015      | <ul><li>Maggie Smith</li><li>Alex Jennings</li><li>Jim Broadbent</li></ul>                                                                                                                                             | waiting  | \-     |
 | [[Area/Entertainment/The Second Best Exotic Marigold Hotel\|The Second Best Exotic Marigold Hotel]] | 2015      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Bill Nighy</li></ul>                                                                                                                                                   | waiting  | \-     |
+| [[Area/Entertainment/The Lady in the Van\|The Lady in the Van]]                                     | 2015      | <ul><li>Maggie Smith</li><li>Alex Jennings</li><li>Jim Broadbent</li></ul>                                                                                                                                             | waiting  | \-     |
 | [[Area/Entertainment/The Miracle Club\|The Miracle Club]]                                           | 2023      | <ul><li>Maggie Smith</li><li>Laura Linney</li><li>Kathy Bates</li></ul>                                                                                                                                                | waiting  | \-     |
 | [[Area/Entertainment/Downton Abbey\|Downton Abbey]]                                                 | 2010–2015 | <ul><li>Hugh Bonneville</li><li>Phyllis Logan</li><li>Elizabeth McGovern</li><li>Maggie Smith</li><li>Dan Stevens</li></ul>                                                                                            | finished | 5      |
 | [[Area/Entertainment/Tea With the Dames\|Tea With the Dames]]                                       | 2018      | <ul><li>Maggie Smith</li><li>Eileen Atkins</li><li>Judi Dench</li><li>Joan Plowright</li></ul>                                                                                                                         | finished | 4      |
@@ -415,8 +418,8 @@
 | [[+/ReadItLater/Rebecca Makkai Art for Heart’s Sake\|Rebecca Makkai Art for Heart’s Sake]]                       | Shireen Quadri        | in progress |
 | [[+/ReadItLater/生死歸所不由己──楊曜愷《從今以後》女同志「家庭」的現實寓言\|生死歸所不由己──楊曜愷《從今以後》女同志「家庭」的現實寓言]]                                 | 張士達                   | in progress |
 | [[+/ReadItLater/台灣立委吳沛憶專訪：替同志伴侶許家蓓「說一個完整的故事」\|台灣立委吳沛憶專訪：替同志伴侶許家蓓「說一個完整的故事」]]                                     | \-                    | finished    |
-| [[+/ReadItLater/跨性別\|跨性別]]                                                                                       | 陳彥成                   | finished    |
 | [[+/ReadItLater/雙子之愛\|雙子之愛]]                                                                                     | 陳又津                   | finished    |
+| [[+/ReadItLater/跨性別\|跨性別]]                                                                                       | 陳彥成                   | finished    |
 | [[+/ReadItLater/同志沒有不一樣，跟所有人都一樣──五月選書《分手去旅行》\|同志沒有不一樣，跟所有人都一樣──五月選書《分手去旅行》]]                                     | <ul><li>陳伯昌</li></ul> | \-          |
 
 { .block-language-dataview}
@@ -437,8 +440,8 @@
 | [[Area/Entertainment/All of Us Strangers\|All of Us Strangers]]                                                           | <ul><li>Andrew Scott</li><li>Paul Mescal</li><li>Carter John Grout</li></ul>       | 2023      | finished    | 4.5    |
 | [[Area/Entertainment/Tell It to the Bees\|Tell It to the Bees]]                                                           | <ul><li>Billy Boyd</li><li>Gregor Selkirk</li><li>Anna Paquin</li></ul>            | 2018      | finished    | 4.5    |
 | [[Area/Entertainment/The Favourite\|The Favourite]]                                                                       | <ul><li>Olivia Colman</li><li>Emma Stone</li><li>Rachel Weisz</li></ul>            | 2018      | finished    | 4.5    |
-| [[Area/Entertainment/Angels in America Part II - Perestroika\|Angels in America Part II - Perestroika]]                   | <ul><li>Andrew Garfield</li><li>Denise Gough</li><li>Nathan Lane</li></ul>         | 2017      | finished    | 4.5    |
 | [[Area/Entertainment/Angels in America Part I - Millennium Approaches\|Angels in America Part I - Millennium Approaches]] | <ul><li>Andrew Garfield</li><li>Nathan Lane</li><li>Denise Gough</li></ul>         | 2017      | finished    | 4.5    |
+| [[Area/Entertainment/Angels in America Part II - Perestroika\|Angels in America Part II - Perestroika]]                   | <ul><li>Andrew Garfield</li><li>Denise Gough</li><li>Nathan Lane</li></ul>         | 2017      | finished    | 4.5    |
 | [[Area/Entertainment/Disobedience\|Disobedience]]                                                                         | <ul><li>Rachel Weisz</li><li>Rachel McAdams</li><li>Alessandro Nivola</li></ul>    | 2017      | finished    | 4.5    |
 | [[Area/Entertainment/Gypsy\|Gypsy]]                                                                                       | <ul><li>Naomi Watts</li><li>Billy Crudup</li><li>Sophie Cookson</li></ul>          | 2017      | finished    | 4.5    |
 | [[Area/Entertainment/A Single Man\|A Single Man]]                                                                         | <ul><li>Colin Firth</li><li>Julianne Moore</li><li>Matthew Goode</li></ul>         | 2009      | finished    | 4.5    |
