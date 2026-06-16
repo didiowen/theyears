@@ -16,6 +16,11 @@ const matterOptions = {
   },
 };
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
+const normalizeFavicon = require("./src/site/normalize-favicon.js");
+
+const FAVICON_SOURCE = "./src/site/favicon.jpeg";
+const FAVICON_NORMALIZED = "./.cache/favicon.normalized.svg";
+normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
@@ -52,14 +57,14 @@ function getAnchorAttributes(filePath, linkTitle) {
   let fileName = filePath.replaceAll("&amp;", "&");
   let header = "";
   let headerLinkPath = "";
-  if (filePath.includes("#")) {
-    [fileName, header] = filePath.split("#");
+  if (fileName.includes("#")) {
+    [fileName, header] = fileName.split("#");
     headerLinkPath = `#${headerToId(header)}`;
   }
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(filePath)}`;
+  let permalink = `/notes/${slugify(fileName)}`;
   let deadLink = false;
   try {
     const startPath = "./src/site/notes/";
@@ -72,7 +77,7 @@ function getAnchorAttributes(filePath, linkTitle) {
     const file = fs.readFileSync(fullPath, "utf8");
     const frontMatter = matter(file, matterOptions);
     if (frontMatter.data.permalink) {
-      permalink = frontMatter.data.permalink.replace(/\/+/g, "/");
+      permalink = frontMatter.data.permalink;
     }
     if (
       frontMatter.data.tags &&
@@ -472,7 +477,7 @@ module.exports = function(eleventyConfig) {
               .substring(1)
               .toLowerCase()}`;
           const fold = isCollapsable
-            ? `<div class="callout-fold"><i data-lucide="chevron-down"></i></div>`
+            ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
             : ``;
 
           calloutType = callout;
@@ -715,6 +720,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/scripts");
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
+  eleventyConfig.on("eleventy.before", () => {
+    normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
+  });
+  eleventyConfig.addWatchTarget(FAVICON_SOURCE);
   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   eleventyConfig.addPlugin(tocPlugin, {
     ul: true,
