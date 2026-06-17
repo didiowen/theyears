@@ -8,10 +8,11 @@
 A garden of notes on what I read, watch, and study.
 
 ## World Cup 2026
-| title                                                                   | Date       |
-| ----------------------------------------------------------------------- | ---------- |
-| [[Area/Football/World Cup 2026\|World Cup 2026]]                     | 2026-06-12 |
-| [[Area/Football/維德角 vs 庫拉索 - 2026世界盃球員比較\|維德角 vs 庫拉索 - 2026世界盃球員比較]] | 2026-06-16 |
+| title                                                                                     | Date       |
+| ----------------------------------------------------------------------------------------- | ---------- |
+| [[Area/Football/World Cup 2026\|World Cup 2026]]                                       | 2026-06-12 |
+| [[Area/Football/維德角 vs 庫拉索 - 2026世界盃球員比較\|維德角 vs 庫拉索 - 2026世界盃球員比較]]                   | 2026-06-16 |
+| [[Area/Football/LFCxBVB Players at World Cup 2026\|LFCxBVB Players at World Cup 2026]] | 2026-06-17 |
 
 { .block-language-dataview}
 
