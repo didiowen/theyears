@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"wc2026","permalink":"/wc2026/","tags":["football","WorldCup2026"],"dg-note-properties":{"created":"2026-06-12","tags":["football","WorldCup2026"]}}
+{"dg-publish":true,"dg-permalink":"wc2026","permalink":"/wc2026/","tags":["football","WorldCup2026"],"dg-note-properties":{"created":"2026-06-12","updated":"2026-06-17","author":"Claude Code","tags":["football","WorldCup2026"]}}
 ---
 
 # FIFA World Cup 2026
@@ -106,7 +106,7 @@
 
 ### Group I
 
-- [/] 03:00-05:00 France 3-1 Senegal ⏳ 2026-06-17
+- [x] 03:00-05:00 France 3-1 Senegal ⏳ 2026-06-17 ✅ 2026-06-17
     - ⚽ France: Mbappé 66', Barcola 82', Mbappé 90'+6'
     - ⚽ Senegal: Mbaye 90'+5'
 - [/] 06:00-08:00 Iraq vs Norway ⏳ 2026-06-17
@@ -118,7 +118,7 @@
 ### Group J
 
 - [x] 09:00-11:00 Argentina vs Algeria ⏳ 2026-06-17 ✅ 2026-06-17
-- [ ] 12:00-14:00 Austria vs Jordan ⏳ 2026-06-17
+- [/] 12:00-14:00 Austria vs Jordan ⏳ 2026-06-17
 - [/] 01:00-03:00 Argentina vs Austria ⏳ 2026-06-23
 - [ ] 11:00-13:00 Jordan vs Algeria ⏳ 2026-06-23
 - [/] 10:00-12:00 Algeria vs Austria ⏳ 2026-06-28

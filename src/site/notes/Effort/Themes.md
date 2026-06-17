@@ -10,12 +10,12 @@
 
 | books                                                                    | author            | status      | own              | rating |
 | ------------------------------------------------------------------------ | ----------------- | ----------- | ---------------- | ------ |
+| [[Area/Reading/銀翼殺手\|銀翼殺手]]                                           | Philip K. Dick    | waiting     | bought           | \-     |
 | [[Area/Reading/The Left Hand of Darkness\|The Left Hand of Darkness]] | Ursula K. Le Guin | waiting     | to buy or borrow | \-     |
 | [[Area/Reading/Snow Crash\|Snow Crash]]                               | Neal Stephenson   | waiting     | bought           | \-     |
 | [[Area/Reading/Poor Things\|Poor Things]]                             | Alasdair Gray     | waiting     | bought           | \-     |
-| [[Area/Reading/銀翼殺手\|銀翼殺手]]                                           | Philip K. Dick    | waiting     | bought           | \-     |
-| [[Area/Reading/階級病院\|階級病院]]                                           | 馬欣                | waiting     | bought           | \-     |
 | [[Area/Reading/麻風醫生與巨變中國\|麻風醫生與巨變中國]]                                 | 劉紹華               | waiting     | bought           | \-     |
+| [[Area/Reading/階級病院\|階級病院]]                                           | 馬欣                | waiting     | bought           | \-     |
 | [[Area/Reading/The Year of the Flood\|The Year of the Flood]]         | Margaret Atwood   | in progress | bought           | \-     |
 | [[Area/Reading/Never Let Me Go\|Never Let Me Go]]                     | Kazuo Ishiguro    | finished    | bought           | 4.5    |
 | [[Area/Reading/George Orwell’s 1984\|George Orwell’s 1984]]           | George Orwell     | finished    | bought           | 4.5    |

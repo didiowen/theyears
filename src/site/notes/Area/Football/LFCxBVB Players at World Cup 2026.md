@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lfc-bvb-wc2026","permalink":"/lfc-bvb-wc2026/","tags":["football","WorldCup2026"],"dg-note-properties":{"created":"2026-06-17","tags":["football","WorldCup2026"]}}
+{"dg-publish":true,"dg-permalink":"lfc-bvb-wc2026","permalink":"/lfc-bvb-wc2026/","tags":["football","WorldCup2026"],"dg-note-properties":{"created":"2026-06-13","updated":"2026-06-17","authour":"Claude Code","tags":["football","WorldCup2026"]}}
 ---
 
 # 紅軍/大黃蜂球員WC 2026追蹤
