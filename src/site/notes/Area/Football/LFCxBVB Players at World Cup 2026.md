@@ -35,10 +35,10 @@ WC2026 LFC/BVB 球員：10人出賽
 - Virgil van Dijk 先發 · ⚽1（51'） — Netherlands 2-2 Japan，下半場開賽接 Gravenberch 精準傳中頭槌破門，攻進世界盃生涯首球；34 歲又 318 天成為荷蘭隊史第二老的世界盃進球者（FOX Sports／Read Liverpool FC）。
 - Ryan Gravenberch 先發 · 🅰2 — Netherlands 2-2 Japan，SportsDunia 8.0/10 全場宰制中場，先傳中助 van Dijk 頭槌、再策動 Summerville 進球，被評為「absolutely superb」（SportsDunia／Liverpool FC 官網／Liverpool Lookout）。
 - Florian Wirtz 先發 · 🅰1 — Germany 7-1 Curaçao，6 分鐘助攻 Nmecha 開齋；整體偏淡，Liverpool.com 評為「Germany 攻擊群中最沉寂的一位」、20 碼遠射偏出（Liverpool.com／Goal.com）。
-- Waldemar Anton 替補 — Germany 7-1 Curaçao
-- Daniel Svensson 替補 — Sweden 5-1 Tunisia
-- Donyell Malen 先發 — Netherlands 2-2 Japan
-- Cody Gakpo 先發 — Netherlands 2-2 Japan
+- Waldemar Anton 替補 — Germany 7-1 Curaçao，晚場替補上陣，出場時間極短，Get German Football News 與 BuliNews 均列為「N/A」，無法評分。
+- Daniel Svensson 替補 — Sweden 5-1 Tunisia，替補出場時間不足，Football Park 列為 N/A，無具體評分可參考。
+- Donyell Malen 先發 — Netherlands 2-2 Japan，上半場最積極的荷蘭攻擊手，3 次射門全部射正（xGOT 0.74），三度被門將 Suzuki 神撲化解；70 分鐘被換下，SI 給 6.9，反映機會把握欠佳但威脅製造不少。
+- Cody Gakpo 先發 — Netherlands 2-2 Japan，左路活躍但日本防線將他切入慣用右腳的路線封死，整場大半被壓制；SofaScore 7.5（兩次射門、一次關鍵傳球、七次對抗勝出），Athlon 較嚴格給 6/10，SI 折中給 7.2。
 
 ## 2026-06-14
 
@@ -47,11 +47,11 @@ WC2026 LFC/BVB 球員：8人出賽
 - Gregor Kobel 先發 · 🧤3撲救/失1 — Qatar 1-1 Switzerland，第 2 分鐘 1v1 撲掉 Edmilson 突破、半場補時再次封堵 Edmilson、90 分鐘並化解 Alaaeldin 近距離射門，全場幾近守成清白，僅 Muheim 第 94 分鐘烏龍葬送 clean sheet（BVB Buzz）。
 - Alisson Becker 先發 · 🧤2撲救/失1 — Brazil 1-1 Morocco，第 21 分鐘出擊過遠遭 Saibari 挑射破門（Liverpool.com 直指責任）；補時禁區內連兩次神撲化解 Morocco 致勝機會，將功補過保住一分（FOX Sports／Opta Analyst）。
 - Achraf Hakimi 先發 — Brazil 1-1 Morocco，賽後成為摩洛哥隊史世界盃出賽最多球員（11 場），同時追平非洲球員世界盃出場紀錄（Hespress）。
-- Manuel Akanji 先發 — Qatar 1-1 Switzerland
-- Salih Özcan 替補 — Australia 2-0 Türkiye
-- Andy Robertson 先發 — Haiti 0-1 Scotland
-- Ben Gannon-Doak 先發 — Haiti 0-1 Scotland
-- Fabinho 替補 — Brazil 1-1 Morocco
+- Manuel Akanji 先發 — Qatar 1-1 Switzerland，開賽不到兩分鐘即出現致命失誤，放球後 Edmilson 單刀直入，幸有 Kobel 神撲化解；整場與 Edmilson 周旋壓力不小（blue News）。瑞士終場被補時頭槌打平，Akanji 是失球前 chain 中的一環。
+- Salih Özcan 替補（81'） — Australia 2-0 Türkiye，81 分鐘入替，出場時間過短無法評分；各家評分均未列入。
+- Andy Robertson 先發 — Haiti 0-1 Scotland，在 McGinn 進球前的反擊中扮演中繼角色；Goal.com 給 6/10，指他有幾次不舒服的防守瞬間，但關鍵時刻仍有貢獻；Raw Chili 較寬鬆給 7/10，稱其左路傳中質量不錯。
+- Ben Gannon-Doak 先發 — Haiti 0-1 Scotland，全場積極跑動，進球前策動反擊：他將球送給 Adams，Adams 再找回 McGinn 完成破門；LiveScore 給 7.5/10，Goal.com 給 7/10，讚其工作量與防守回追，但認為進攻端還有更多空間可挖掘。
+- Fabinho 替補 — Brazil 1-1 Morocco，半場取代狀態糟糕的 Casemiro，帶來更多積極性，幫助巴西在下半場對摩洛哥防線形成持續壓力；Sports Mole 給 6/10，評為「較 Casemiro 明顯進步，移動目的性更強」。
 
 ## 2026-06-13
 
