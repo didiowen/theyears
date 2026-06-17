@@ -109,7 +109,9 @@
 - [x] 03:00-05:00 France 3-1 Senegal ⏳ 2026-06-17 ✅ 2026-06-17
     - ⚽ France: Mbappé 66', Barcola 82', Mbappé 90'+6'
     - ⚽ Senegal: Mbaye 90'+5'
-- [/] 06:00-08:00 Iraq vs Norway ⏳ 2026-06-17
+- [ ] 06:00-08:00 Iraq 1-4 Norway ⏳ 2026-06-17
+    - ⚽ Iraq: Hussein 39'
+    - ⚽ Norway: Haaland 29', Haaland 43', Østigard 76', Hussein 90'+6' (OG)
 - [/] 05:00-07:00 France vs Iraq ⏳ 2026-06-23
 - [/] 08:00-10:00 Norway vs Senegal ⏳ 2026-06-23
 - [/] 03:00-05:00 Norway vs France ⏳ 2026-06-27
@@ -117,8 +119,11 @@
 
 ### Group J
 
-- [x] 09:00-11:00 Argentina vs Algeria ⏳ 2026-06-17 ✅ 2026-06-17
-- [/] 12:00-14:00 Austria vs Jordan ⏳ 2026-06-17
+- [x] 09:00-11:00 Argentina 3-0 Algeria ⏳ 2026-06-17 ✅ 2026-06-17
+    - ⚽ Argentina: Messi 17', Messi 60', Messi 76'
+- [ ] 12:00-14:00 Austria 3-1 Jordan ⏳ 2026-06-17
+    - ⚽ Austria: Schmid 21', Al-Arab 76' (OG), Arnautovic 90'+12' (P)
+    - ⚽ Jordan: Olwan 50'
 - [/] 01:00-03:00 Argentina vs Austria ⏳ 2026-06-23
 - [ ] 11:00-13:00 Jordan vs Algeria ⏳ 2026-06-23
 - [/] 10:00-12:00 Algeria vs Austria ⏳ 2026-06-28

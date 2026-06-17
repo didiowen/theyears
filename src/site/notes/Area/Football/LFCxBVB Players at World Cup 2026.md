@@ -4,6 +4,19 @@
 
 # 紅軍/大黃蜂球員WC 2026追蹤
 
+## 2026-06-17
+
+WC2026 LFC/BVB 球員：8人出賽
+
+- Erling Haaland 先發 · ⚽2（29', 43'） — Iraq 1-4 Norway，世界盃初登場就梅開二度，上半場連下兩城，Heavy.com 打出 9.2 分封 MOTM，SofaScore 8.1。5 次射門 4 腳射正，第一球搶門將出擊錯誤的漏球補射，第二球精準左腳低射；雖然傳球次數少（9 次），但禁區內的「獵食者」本能一覽無遺。
+- Alexis Mac Allister 先發 — Argentina 3-0 Algeria，兩側兼顧、覆蓋無數公里，SI 給 7.2，Goal.com 給 7/10；關鍵時刻一腳遠射迫使 Luca Zidane 出包，讓 Messi 補射攻進第 2 球（是 Mac Allister 助推了歷史性時刻）。
+- Marcel Sabitzer 先發 · 🟨 — Austria 3-1 Jordan，定位球主罰核心，助奧地利 3-1 開門紅；角球傳中製造 Jordan 後衛 Al-Arab 烏龍球，是奧地利逆轉的轉捩點。領到黃牌；具體評分各家尚未公布，Football Park 賽後報告確認其關鍵設計球角色。
+- Julian Ryerson 先發 — Iraq 1-4 Norway，全場攻守兼備，FIFA 官方數據 8 次傳中、32 次嘗試突破防線、19 次成功——進攻貢獻紮實。防守端有些漏洞，Sports Mole 給 5/10，Heavy.com 較寬鬆給 7.2，Athlon 給 6/10，整體是功過並存的一場。
+- Ramy Bensebaini 先發 — Argentina 3-0 Algeria，賽前傳出踝傷仍上場先發，但難擋 Messi 帽子戲法；球隊失 3 球，他身為後衛壓力頗大。Athlon 給 6/10。
+- Ousmane Dembélé 先發 — France 3-1 Senegal，頂著金球獎光環先發卻打得沉悶，80 分鐘被換下。Heavy.com 6.8、SI 7.1、SofaScore 半場 6.9——各家評分一致偏低，其中 SI 直言他「始終未能入戲」，拿球位置始終遠離要害。
+- Sadio Mané 先發 — France 3-1 Senegal，積極拼搶、第 57 分鐘在禁區內撞倒 Mbappé，VAR 介入後未判點；Sports Mole 給 6.8，但塞內加爾整體崩盤，Mané 也難以力挽狂瀾。AOL/Athlon 賽後評語亦指他在最後三分之一效率欠佳。
+- Carney Chukwuemeka 替補（59'） — Austria 3-1 Jordan，替補入場後 63 分鐘獲得一次好機會，可惜一腳強射被擋在門線。戲份短暫，無具體評分，FOX Sports boxscore 有記錄其射門。
+
 ## 2026-06-16
 
 WC2026 LFC/BVB 球員：3人出賽
