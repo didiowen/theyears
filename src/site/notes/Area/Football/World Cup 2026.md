@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/area/football/world-cup-2026/","tags":["football"],"dg-note-properties":{"date":{"created":"2026-06-16T16:06:35","updated":"2026-06-16T16:13:10"},"tags":"football"}}
+{"dg-publish":true,"dg-permalink":"wc2026","permalink":"/wc2026/","tags":["football","WorldCup2026"],"dg-note-properties":{"created":"2026-06-12","tags":["football","WorldCup2026"]}}
 ---
 
 # FIFA World Cup 2026
@@ -82,7 +82,7 @@
 
 ### Group G
 
-- [x] 03:00-05:00 Belgium 1-1 Egypt ⏳ 2026-06-16 ✅ 2026-06-16
+- [/] 03:00-05:00 Belgium 1-1 Egypt ⏳ 2026-06-16
     - ⚽ Belgium: Hany 66' (OG)
     - ⚽ Egypt: Ashour 19'
 - [ ] 09:00-11:00 Iran 2-2 New Zealand ⏳ 2026-06-16
@@ -106,8 +106,10 @@
 
 ### Group I
 
-- [/] 03:00-05:00 France vs Senegal ⏳ 2026-06-17
-- [ ] 06:00-08:00 Iraq vs Norway ⏳ 2026-06-17
+- [/] 03:00-05:00 France 3-1 Senegal ⏳ 2026-06-17
+    - ⚽ France: Mbappé 66', Barcola 82', Mbappé 90'+6'
+    - ⚽ Senegal: Mbaye 90'+5'
+- [/] 06:00-08:00 Iraq vs Norway ⏳ 2026-06-17
 - [/] 05:00-07:00 France vs Iraq ⏳ 2026-06-23
 - [/] 08:00-10:00 Norway vs Senegal ⏳ 2026-06-23
 - [/] 03:00-05:00 Norway vs France ⏳ 2026-06-27
@@ -140,8 +142,6 @@
 - [/] 05:00-07:00 Panama vs England ⏳ 2026-06-28
 - [ ] 05:00-07:00 Croatia vs Ghana ⏳ 2026-06-28
 
----
-
 ## Round of 32
 
 - [ ] 03:00-05:00 Runner-up A vs Runner-up B ⏳ 2026-06-29
@@ -161,8 +161,6 @@
 - [ ] 06:00-08:00 Winner J vs Runner-up H ⏳ 2026-07-04
 - [ ] 09:30-11:30 Winner K vs 3rd D/E/I/J/L ⏳ 2026-07-04
 
----
-
 ## Round of 16
 
 - [ ] 01:00-03:00 Winner 73 vs Winner 75 ⏳ 2026-07-05
@@ -174,8 +172,6 @@
 - [ ] 00:00-02:00 Winner 86 vs Winner 88 ⏳ 2026-07-08
 - [ ] 04:00-06:00 Winner 85 vs Winner 87 ⏳ 2026-07-08
 
----
-
 ## Quarterfinals
 
 - [ ] 04:00-06:00 Winner 89 vs Winner 90 ⏳ 2026-07-10
@@ -183,20 +179,14 @@
 - [ ] 05:00-07:00 Winner 91 vs Winner 92 ⏳ 2026-07-12
 - [ ] 09:00-11:00 Winner 95 vs Winner 96 ⏳ 2026-07-12
 
----
-
 ## Semifinals
 
 - [ ] 03:00-05:00 Winner 97 vs Winner 98 ⏳ 2026-07-15
 - [ ] 03:00-05:00 Winner 99 vs Winner 100 ⏳ 2026-07-16
 
----
-
 ## Third Place
 
 - [ ] 05:00-07:00 Loser 101 vs Loser 102 ⏳ 2026-07-19
-
----
 
 ## Final
 
@@ -208,44 +198,43 @@
 
 ### 2026-06-16
 
-WC2026 LFC/BVB 球員：3 人出賽
+WC2026 LFC/BVB 球員 · 2026-06-16（3 人出賽）
 
-• Mohamed Salah 先發 · 🅰1 — Belgium 1-1 Egypt，34 歲生日當天助攻 Ashour 第 19 分鐘破門，成為 1966 年以來首位「生日當天有進球參與」的非洲球員；全場創造 3 次機會（最多）、傳球 17/18、1 次射正，雖 MOTM 由 Ashour 拿下，仍是埃及進攻發動機（Yahoo Sports／Yardbarker）。
-• Darwin Núñez 先發 — Saudi Arabia 1-1 Uruguay，上半場僅 3 次傳球、中場就被換下，表現低迷（Athlon）。
-• Thomas Meunier 先發 — Belgium 1-1 Egypt，後衛先發，這場功過參半：Goal.com 只給 5/10，直指他在 Ashour 進球前的站位「糟糕透頂」，給對手太大空間；但他下半場將功補過，一記危險傳中造成埃及門將同隊烏龍（Mohamed Hany，66'）替比利時扳平，終場前自己也險些破門（[Goal.com](https://www.goal.com/en-ae/lists/belgium-player-ratings-vs-egypt-big-romelu-lukaku-thibaut-courtois-world-cup-opener/blt305c82fd2ca30574)）。數據上未記助攻，但那記傳中實質促成了平局。
+- Mohamed Salah 先發 · 🅰1 — Belgium 1-1 Egypt，34 歲生日當天助攻 Ashour 第 19 分鐘破門，成為 1966 年以來首位「生日當天有進球參與」的非洲球員；全場創造 3 次機會（最多）、傳球 17/18、1 次射正，雖 MOTM 由 Ashour 拿下，仍是埃及進攻發動機（Yahoo Sports／Yardbarker）。
+- Thomas Meunier 先發 — Belgium 1-1 Egypt，後衛先發，這場是功過參半：Goal.com 只給 5/10，直指他在 Ashour 進球前的站位「糟糕透頂」，給對手太大空間；但他下半場將功補過，一記危險傳中造成埃及門將同隊烏龍（Mohamed Hany，66'）替比利時扳平，終場前自己也險些破門。數據上未記助攻，但那記傳中實質促成了平局。
+- Darwin Núñez 先發 — Saudi Arabia 1-1 Uruguay，上半場僅 3 次傳球、中場就被換下，表現低迷（Athlon）。
 
 ### 2026-06-15
 
-WC2026 LFC/BVB 球員：10 人出賽
+WC2026 LFC/BVB 球員 · 2026-06-15（10 人出賽）
 
-• Alexander Isak 先發 · ⚽1（30'） 🅰2 — Sweden 5-1 Tunisia，SofaScore 8.8 全場最佳，直接參與 3 球，利物浦新援火力全開。
-• Felix Nmecha 先發 · ⚽1（6'） — Germany 7-1 Curaçao，接 Wirtz 妙傳弧線破門又造點，SofaScore 8.7。
-• Nico Schlotterbeck 先發 · ⚽1（38'） — Germany 7-1 Curaçao，攻進國家隊生涯首球。
-• Virgil van Dijk 先發 · ⚽1（51'） — Netherlands 2-2 Japan，頭槌先拔頭籌，SI 7.9，荷蘭史上第二老進球者。
-• Ryan Gravenberch 先發 · 🅰2 — Netherlands 2-2 Japan，中場核心，多家評 8.0。
-• Florian Wirtz 先發 · 🅰1 — Germany 7-1 Curaçao，助攻 Nmecha＋多次關鍵傳球。
-• Daniel Svensson 替補 — Sweden 5-1 Tunisia
-• Donyell Malen 先發 — Netherlands 2-2 Japan
-• Waldemar Anton 替補 — Germany 7-1 Curaçao
-• Cody Gakpo 先發 — Netherlands 2-2 Japan
+- Alexander Isak 先發 · ⚽1（30'） 🅰2 — Sweden 5-1 Tunisia，SofaScore 8.8 全場最佳，直接參與 3 球，利物浦新援火力全開。
+- Felix Nmecha 先發 · ⚽1（6'） — Germany 7-1 Curaçao，接 Wirtz 妙傳弧線破門又造點，SofaScore 8.7。
+- Nico Schlotterbeck 先發 · ⚽1（38'） — Germany 7-1 Curaçao，攻進國家隊生涯首球。
+- Virgil van Dijk 先發 · ⚽1（51'） — Netherlands 2-2 Japan，頭槌先拔頭籌，SI 7.9，荷蘭史上第二老進球者。
+- Ryan Gravenberch 先發 · 🅰2 — Netherlands 2-2 Japan，中場核心，多家評 8.0。
+- Florian Wirtz 先發 · 🅰1 — Germany 7-1 Curaçao，助攻 Nmecha＋多次關鍵傳球。
+- Waldemar Anton 替補 — Germany 7-1 Curaçao
+- Daniel Svensson 替補 — Sweden 5-1 Tunisia
+- Donyell Malen 先發 — Netherlands 2-2 Japan
+- Cody Gakpo 先發 — Netherlands 2-2 Japan
 
 ### 2026-06-14
 
-WC2026 LFC/BVB 球員：8 人出賽
+WC2026 LFC/BVB 球員 · 2026-06-14（8 人出賽）
 
-• Achraf Hakimi 先發 — Brazil 1-1 Morocco
-• Gregor Kobel 先發 · 🧤3撲救/失1 — Qatar 1-1 Switzerland
-• Manuel Akanji 先發 — Qatar 1-1 Switzerland
-• Salih Özcan 替補 — Australia 2-0 Türkiye
-• Alisson Becker 先發 · 🧤2撲救/失1 — Brazil 1-1 Morocco
-• Andy Robertson 先發 — Haiti 0-1 Scotland
-• Ben Gannon-Doak 先發 — Haiti 0-1 Scotland
-• Fabinho 替補 — Brazil 1-1 Morocco
+- Achraf Hakimi 先發 — Brazil 1-1 Morocco
+- Gregor Kobel 先發 · 🧤3撲救/失1 — Qatar 1-1 Switzerland
+- Manuel Akanji 先發 — Qatar 1-1 Switzerland
+- Salih Özcan 替補 — Australia 2-0 Türkiye
+- Alisson Becker 先發 · 🧤2撲救/失1 — Brazil 1-1 Morocco
+- Andy Robertson 先發 — Haiti 0-1 Scotland
+- Ben Gannon-Doak 先發 — Haiti 0-1 Scotland
+- Fabinho 替補 — Brazil 1-1 Morocco
 
 ### 2026-06-13
 
-WC2026 LFC/BVB 球員：2 人出賽
+WC2026 LFC/BVB 球員 · 2026-06-13（2 人出賽）
 
-• Giovanni Reyna 替補 · ⚽1（90'+8'） — United States 4-1 Paraguay，外腳背破門收尾，7.5。
-• Christian Pulisic 先發 · 🅰1 — United States 4-1 Paraguay，上半場左路予取予求，只踢半場仍拿 8.0（CBS）。
-
+- Christian Pulisic 先發 · 🅰1 — United States 4-1 Paraguay，上半場左路予取予求，只踢半場仍拿 8.0（CBS）。
+- Giovanni Reyna 替補 · ⚽1（90'+8'） — United States 4-1 Paraguay，外腳背破門收尾，7.5。
