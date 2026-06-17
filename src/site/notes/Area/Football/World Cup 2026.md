@@ -82,10 +82,10 @@
 
 ### Group G
 
-- [x] 03:00-05:00 Belgium 1-1 Egypt ⏳ 2026-06-16 ✅ 2026-06-16
+- [/] 03:00-05:00 Belgium 1-1 Egypt ⏳ 2026-06-16
     - ⚽ Belgium: Hany 66' (OG)
     - ⚽ Egypt: Ashour 19'
-- [x] 09:00-11:00 Iran 2-2 New Zealand ⏳ 2026-06-16
+- [ ] 09:00-11:00 Iran 2-2 New Zealand ⏳ 2026-06-16
     - ⚽ Iran: Rezaeian 32', Mohebbi 64'
     - ⚽ New Zealand: Just 7', Just 54'
 - [ ] 03:00-05:00 Belgium vs Iran ⏳ 2026-06-22
@@ -95,7 +95,7 @@
 
 ### Group H
 
-- [x] 00:00-02:00 Spain 0-0 Cape Verde ⏳ 2026-06-16 ✅ 2026-06-16
+- [/] 00:00-02:00 Spain 0-0 Cape Verde ⏳ 2026-06-16
 - [x] 06:00-08:00 Saudi Arabia 1-1 Uruguay ⏳ 2026-06-16 ✅ 2026-06-16
     - ⚽ Saudi Arabia: Al-Amri 41'
     - ⚽ Uruguay: Araújo 80'
@@ -106,7 +106,7 @@
 
 ### Group I
 
-- [x] 03:00-05:00 France 3-1 Senegal ⏳ 2026-06-17 ✅ 2026-06-17
+- [/] 03:00-05:00 France 3-1 Senegal ⏳ 2026-06-17
     - ⚽ France: Mbappé 66', Barcola 82', Mbappé 90'+6'
     - ⚽ Senegal: Mbaye 90'+5'
 - [ ] 06:00-08:00 Iraq 1-4 Norway ⏳ 2026-06-17
@@ -147,6 +147,8 @@
 - [/] 05:00-07:00 Panama vs England ⏳ 2026-06-28
 - [ ] 05:00-07:00 Croatia vs Ghana ⏳ 2026-06-28
 
+---
+
 ## Round of 32
 
 - [ ] 03:00-05:00 Runner-up A vs Runner-up B ⏳ 2026-06-29
@@ -166,6 +168,8 @@
 - [ ] 06:00-08:00 Winner J vs Runner-up H ⏳ 2026-07-04
 - [ ] 09:30-11:30 Winner K vs 3rd D/E/I/J/L ⏳ 2026-07-04
 
+---
+
 ## Round of 16
 
 - [ ] 01:00-03:00 Winner 73 vs Winner 75 ⏳ 2026-07-05
@@ -177,6 +181,8 @@
 - [ ] 00:00-02:00 Winner 86 vs Winner 88 ⏳ 2026-07-08
 - [ ] 04:00-06:00 Winner 85 vs Winner 87 ⏳ 2026-07-08
 
+---
+
 ## Quarterfinals
 
 - [ ] 04:00-06:00 Winner 89 vs Winner 90 ⏳ 2026-07-10
@@ -184,15 +190,95 @@
 - [ ] 05:00-07:00 Winner 91 vs Winner 92 ⏳ 2026-07-12
 - [ ] 09:00-11:00 Winner 95 vs Winner 96 ⏳ 2026-07-12
 
+---
+
 ## Semifinals
 
 - [ ] 03:00-05:00 Winner 97 vs Winner 98 ⏳ 2026-07-15
 - [ ] 03:00-05:00 Winner 99 vs Winner 100 ⏳ 2026-07-16
 
+---
+
 ## Third Place
 
 - [ ] 05:00-07:00 Loser 101 vs Loser 102 ⏳ 2026-07-19
 
+---
+
 ## Final
 
 - [ ] 03:00-05:00 Winner 101 vs Winner 102 ⏳ 2026-07-20
+
+---
+
+## 紅軍/大黃蜂球員追蹤
+
+### 2026-06-17
+
+`★ Insight ─────────────────────────────────────`
+- The helper returned clean stats (both 0 goals/0 assists) — neither qualifies as a statistical 亮點, so the web ratings become the value-add that turns a thin two-line digest into something with substance.
+- Sources genuinely disagree: Sports Mole gave both 4/10, Get French Football News docked Dembélé to ~3, while Sportsdunia was far kinder (7.1 / 6.4). The skill's "標來源" rule exists precisely for this — I report the spread rather than picking one number.
+`─────────────────────────────────────────────────`
+
+Here is the final digest:
+
+---
+
+⚽ WC2026 紅軍/大黃蜂球員 · 2026-06-17（2 人出賽）
+
+**出賽名單**（France 3-1 Senegal）
+- Ousmane Dembélé（先發）：0 進球 0 助攻
+- Sadio Mané（先發）：0 進球 0 助攻，球隊失 3 球
+
+**亮點點評**
+
+**Ousmane Dembélé** — 頂著金球獎光環先發，卻在這場開幕戰交白卷，是法國華麗前場四人組裡最掙扎的一個。Sports Mole 只給 4 分，指他「全場沒創造任何機會、禁區內零觸球，唯一一次射門還是遠距離被擋下」；Get French Football News 更只給約 3 分，點名他下半場仍不見起色。少數例外是 Sportsdunia 的 7.1 分，但整體輿論一面倒地失望。
+
+**Sadio Mané** — 回到面對舊敵法國的場子，拚勁仍在，但終結效率欠佳，拿到球後在最後三分之一沒能轉化成威脅。Sports Mole 給 4 分，並提到他約第 60 分鐘對 Mbappé 的犯規「非常幸運沒被判點球」（VAR 介入後維持原判）；Sportsdunia 則給較高的 6.4 分。本場 MOTM 由梅開二度、以 58 顆國家隊進球改寫法國隊史紀錄的 Mbappé 拿下。
+
+---
+
+資料來源：[Sports Mole](https://www.sportsmole.co.uk/football/france/world-cup-2026/feature/france-3-1-senegal-player-ratings-mbappe-beats-giroud-record-as-mane-disappoints_599392.html)、[Sportsdunia](https://www.sportsdunia.com/football-ratings/france-vs-senegal-player-ratings-fifa-world-cup-16th-june-2026)、[Get French Football News](https://www.getfootballnewsfrance.com/2026/player-ratings-france-3-1-senegal-kylian-mbappe-scores-brace-in-winning-start-for-les-bleus/)
+
+### 2026-06-16
+
+WC2026 LFC/BVB 球員 · 2026-06-16（3 人出賽）
+
+• Mohamed Salah 先發 · 🅰1 — Belgium 1-1 Egypt，34 歲生日當天助攻 Ashour 第 19 分鐘破門，成為 1966 年以來首位「生日當天有進球參與」的非洲球員；全場創造 3 次機會（最多）、傳球 17/18、1 次射正，雖 MOTM 由 Ashour 拿下，仍是埃及進攻發動機（Yahoo Sports／Yardbarker）。
+• Darwin Núñez 先發 — Saudi Arabia 1-1 Uruguay，上半場僅 3 次傳球、中場就被換下，表現低迷（Athlon）。
+• Thomas Meunier 先發 — Belgium 1-1 Egypt，後衛先發、隨球隊 1-1 言和。
+
+### 2026-06-13
+
+WC2026 LFC/BVB 球員 · 2026-06-13（2 人出賽）
+
+• Giovanni Reyna 替補 · ⚽1（90'+8'） — United States 4-1 Paraguay，外腳背破門收尾，7.5。
+• Christian Pulisic 先發 · 🅰1 — United States 4-1 Paraguay，上半場左路予取予求，只踢半場仍拿 8.0（CBS）。
+
+### 2026-06-14
+
+WC2026 LFC/BVB 球員 · 2026-06-14（8 人出賽）
+
+• Achraf Hakimi 先發 — Brazil 1-1 Morocco
+• Gregor Kobel 先發 · 🧤3撲救/失1 — Qatar 1-1 Switzerland
+• Manuel Akanji 先發 — Qatar 1-1 Switzerland
+• Salih Özcan 替補 — Australia 2-0 Türkiye
+• Alisson Becker 先發 · 🧤2撲救/失1 — Brazil 1-1 Morocco
+• Andy Robertson 先發 — Haiti 0-1 Scotland
+• Ben Gannon-Doak 先發 — Haiti 0-1 Scotland
+• Fabinho 替補 — Brazil 1-1 Morocco
+
+### 2026-06-15
+
+WC2026 LFC/BVB 球員 · 2026-06-15（10 人出賽）
+
+• Alexander Isak 先發 · ⚽1（30'） 🅰2 — Sweden 5-1 Tunisia，SofaScore 8.8 全場最佳，直接參與 3 球，利物浦新援火力全開。
+• Felix Nmecha 先發 · ⚽1（6'） — Germany 7-1 Curaçao，接 Wirtz 妙傳弧線破門又造點，SofaScore 8.7。
+• Nico Schlotterbeck 先發 · ⚽1（38'） — Germany 7-1 Curaçao，攻進國家隊生涯首球。
+• Virgil van Dijk 先發 · ⚽1（51'） — Netherlands 2-2 Japan，頭槌先拔頭籌，SI 7.9，荷蘭史上第二老進球者。
+• Ryan Gravenberch 先發 · 🅰2 — Netherlands 2-2 Japan，中場核心，多家評 8.0。
+• Florian Wirtz 先發 · 🅰1 — Germany 7-1 Curaçao，助攻 Nmecha＋多次關鍵傳球。
+• Daniel Svensson 替補 — Sweden 5-1 Tunisia
+• Donyell Malen 先發 — Netherlands 2-2 Japan
+• Waldemar Anton 替補 — Germany 7-1 Curaçao
+• Cody Gakpo 先發 — Netherlands 2-2 Japan
