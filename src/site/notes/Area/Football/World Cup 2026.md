@@ -82,10 +82,10 @@
 
 ### Group G
 
-- [/] 03:00-05:00 Belgium 1-1 Egypt ⏳ 2026-06-16
+- [x] 03:00-05:00 Belgium 1-1 Egypt ⏳ 2026-06-16 ✅ 2026-06-16
     - ⚽ Belgium: Hany 66' (OG)
     - ⚽ Egypt: Ashour 19'
-- [ ] 09:00-11:00 Iran 2-2 New Zealand ⏳ 2026-06-16
+- [x] 09:00-11:00 Iran 2-2 New Zealand ⏳ 2026-06-16
     - ⚽ Iran: Rezaeian 32', Mohebbi 64'
     - ⚽ New Zealand: Just 7', Just 54'
 - [ ] 03:00-05:00 Belgium vs Iran ⏳ 2026-06-22
@@ -95,7 +95,7 @@
 
 ### Group H
 
-- [/] 00:00-02:00 Spain 0-0 Cape Verde ⏳ 2026-06-16
+- [x] 00:00-02:00 Spain 0-0 Cape Verde ⏳ 2026-06-16 ✅ 2026-06-16
 - [x] 06:00-08:00 Saudi Arabia 1-1 Uruguay ⏳ 2026-06-16 ✅ 2026-06-16
     - ⚽ Saudi Arabia: Al-Amri 41'
     - ⚽ Uruguay: Araújo 80'
@@ -117,7 +117,7 @@
 
 ### Group J
 
-- [/] 09:00-11:00 Argentina vs Algeria ⏳ 2026-06-17
+- [x] 09:00-11:00 Argentina vs Algeria ⏳ 2026-06-17 ✅ 2026-06-17
 - [ ] 12:00-14:00 Austria vs Jordan ⏳ 2026-06-17
 - [/] 01:00-03:00 Argentina vs Austria ⏳ 2026-06-23
 - [ ] 11:00-13:00 Jordan vs Algeria ⏳ 2026-06-23
