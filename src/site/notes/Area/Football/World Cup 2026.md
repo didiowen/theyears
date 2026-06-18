@@ -14,7 +14,7 @@
     - ⚽ South Korea: In-Beom 67', Hyeon-Gyu 80'
     - ⚽ Czech Republic: Krejcí 59'
 - [ ] 00:00-02:00 Czech Republic vs South Africa ⏳ 2026-06-19
-- [ ] 09:00-11:00 Mexico vs South Korea ⏳ 2026-06-19
+- [/] 09:00-11:00 Mexico vs South Korea ⏳ 2026-06-19
 - [/] 09:00-11:00 Czech Republic vs Mexico ⏳ 2026-06-25
 - [ ] 09:00-11:00 South Africa vs South Korea ⏳ 2026-06-25
 
@@ -26,7 +26,7 @@
 - [x] 03:00-05:00 Qatar 1-1 Switzerland ⏳ 2026-06-14
     - ⚽ Qatar: Muheim 90'+4' (OG)
     - ⚽ Switzerland: Embolo 17' (P)
-- [ ] 03:00-05:00 Switzerland vs Bosnia and Herzegovina ⏳ 2026-06-19
+- [/] 03:00-05:00 Switzerland vs Bosnia and Herzegovina ⏳ 2026-06-19
 - [ ] 06:00-08:00 Canada vs Qatar ⏳ 2026-06-19
 - [/] 03:00-05:00 Switzerland vs Canada ⏳ 2026-06-25
 - [ ] 03:00-05:00 Bosnia and Herzegovina vs Qatar ⏳ 2026-06-25
@@ -53,7 +53,7 @@
 - [/] 03:00-05:00 United States vs Australia ⏳ 2026-06-20
 - [ ] 11:00-13:00 Turkey vs Paraguay ⏳ 2026-06-20
 - [/] 10:00-12:00 Turkey vs United States ⏳ 2026-06-26
-- [/] 10:00-12:00 Paraguay vs Australia ⏳ 2026-06-26
+- [ ] 10:00-12:00 Paraguay vs Australia ⏳ 2026-06-26
 
 ### Group E
 
@@ -99,7 +99,7 @@
 - [x] 06:00-08:00 Saudi Arabia 1-1 Uruguay ⏳ 2026-06-16 ✅ 2026-06-16
     - ⚽ Saudi Arabia: Al-Amri 41'
     - ⚽ Uruguay: Araújo 80'
-- [ ] 00:00-02:00 Spain vs Saudi Arabia ⏳ 2026-06-22
+- [/] 00:00-02:00 Spain vs Saudi Arabia ⏳ 2026-06-22
 - [/] 06:00-08:00 Uruguay vs Cape Verde ⏳ 2026-06-22
 - [ ] 08:00-10:00 Cape Verde vs Saudi Arabia ⏳ 2026-06-27
 - [/] 08:00-10:00 Uruguay vs Spain ⏳ 2026-06-27
@@ -125,23 +125,30 @@
     - ⚽ Austria: Schmid 21', Al-Arab 76' (OG), Arnautovic 90'+12' (P)
     - ⚽ Jordan: Olwan 50'
 - [/] 01:00-03:00 Argentina vs Austria ⏳ 2026-06-23
-- [ ] 11:00-13:00 Jordan vs Algeria ⏳ 2026-06-23
+- [/] 11:00-13:00 Jordan vs Algeria ⏳ 2026-06-23
 - [/] 10:00-12:00 Algeria vs Austria ⏳ 2026-06-28
 - [/] 10:00-12:00 Jordan vs Argentina ⏳ 2026-06-28
 
 ### Group K
 
-- [/] 01:00-03:00 Portugal vs DR Congo ⏳ 2026-06-18
-- [ ] 10:00-12:00 Uzbekistan vs Colombia ⏳ 2026-06-18
+- [/] 01:00-03:00 Portugal 1-1 DR Congo ⏳ 2026-06-18
+    - ⚽ Portugal: Neves 6'
+    - ⚽ DR Congo: Wissa 45'+5'
+- [/] 10:00-12:00 Uzbekistan 1-3 Colombia ⏳ 2026-06-18
+    - ⚽ Uzbekistan: Fayzullaev 60'
+    - ⚽ Colombia: Muñoz 40', Díaz 65', Campaz 90'+9'
 - [/] 01:00-03:00 Portugal vs Uzbekistan ⏳ 2026-06-24
-- [ ] 10:00-12:00 Colombia vs DR Congo ⏳ 2026-06-24
+- [/] 10:00-12:00 Colombia vs DR Congo ⏳ 2026-06-24
 - [/] 07:30-09:30 Colombia vs Portugal ⏳ 2026-06-28
 - [ ] 07:30-09:30 DR Congo vs Uzbekistan ⏳ 2026-06-28
 
 ### Group L
 
-- [/] 04:00-06:00 England vs Croatia ⏳ 2026-06-18
-- [ ] 07:00-09:00 Ghana vs Panama ⏳ 2026-06-18
+- [x] 04:00-06:00 England 4-2 Croatia ⏳ 2026-06-18 ✅ 2026-06-18
+    - ⚽ England: Kane 12' (P), Kane 42', Bellingham 47', Rashford 85'
+    - ⚽ Croatia: Baturina 36', Musa 45'+5'
+- [x] 07:00-09:00 Ghana 1-0 Panama ⏳ 2026-06-18
+    - ⚽ Ghana: Yirenkyi 90'+5'
 - [/] 04:00-06:00 England vs Ghana ⏳ 2026-06-24
 - [ ] 07:00-09:00 Panama vs Croatia ⏳ 2026-06-24
 - [/] 05:00-07:00 Panama vs England ⏳ 2026-06-28
