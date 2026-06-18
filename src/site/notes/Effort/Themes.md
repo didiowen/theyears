@@ -79,8 +79,8 @@
 | articles                                                                                                                                                | author                         | status      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------- |
 | [[+/ReadItLater/25 Best Books by Irish Authors\|25 Best Books by Irish Authors]]                                                                     | \-                             | waiting     |
-| [[+/ReadItLater/Loving the Limitations of the Novel\|Loving the Limitations of the Novel]]                                                           | Merve Emre                     | waiting     |
 | [[+/ReadItLater/Reading guide - Milkman by Anna Burns\|Reading guide - Milkman by Anna Burns]]                                                       | \-                             | waiting     |
+| [[+/ReadItLater/Loving the Limitations of the Novel\|Loving the Limitations of the Novel]]                                                           | Merve Emre                     | waiting     |
 | [[+/ReadItLater/《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史\|《什麼都別說》導讀：以「她的歷史」（herstory）顛覆北愛爾蘭國族暴力史]]                                                     | 陳榮彬                            | waiting     |
 | [[+/ReadItLater/「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價\|「不用讀我的小說，我不介意。」《正常人》作者莎莉．魯尼新作《美麗的世界，你在哪裡？》探討成名的代價]]                               | 楊詠翔                            | waiting     |
 | [[+/ReadItLater/不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》\|不簡單的美麗──總編輯嘉世強聊《美麗的世界，你在哪裡》]]                                                                           | 嘉世強                            | waiting     |
@@ -181,8 +181,8 @@
 | [[+/ReadItLater/法國名導席瓦迪耶  將《人民公敵》化為當代警世寓言\|法國名導席瓦迪耶  將《人民公敵》化為當代警世寓言]]                       | 王世偉        | waiting     |
 | [[+/ReadItLater/經典搬演反映當下  集體創作顛覆文本傳統\|經典搬演反映當下  集體創作顛覆文本傳統]]                                 | 林冠吾        | waiting     |
 | [[+/ReadItLater/變性、變種、變革\|變性、變種、變革]]                                                         | 紀蔚然        | waiting     |
-| [[+/ReadItLater/變種同時的變革\|變種同時的變革]]                                                           | 紀蔚然        | waiting     |
 | [[+/ReadItLater/重譯、再現、肢解  易卜生與當代同在\|重譯、再現、肢解  易卜生與當代同在]]                                     | 陳思宏        | waiting     |
+| [[+/ReadItLater/變種同時的變革\|變種同時的變革]]                                                           | 紀蔚然        | waiting     |
 | [[+/ReadItLater/《人民公敵》在中國越禁越火、越批越香\|《人民公敵》在中國越禁越火、越批越香]]                                     | 秦胆         | in progress |
 | [[+/ReadItLater/Tove Ditlevsen’s Art of Estrangement\|Tove Ditlevsen’s Art of Estrangement]] | Condé Nast | finished    |
 | [[+/ReadItLater/《人民公敵》  在後民主時代演練公眾討論\|《人民公敵》  在後民主時代演練公眾討論]]                                 | 余岱融        | finished    |
@@ -239,9 +239,9 @@
 | [[Area/Reading/Don't Sleep There Are Snakes\|Don't Sleep There Are Snakes]]       | Daniel L. Everett                                                 | waiting     | bought           |
 | [[Area/Reading/English as a Global Language\|English as a Global Language]]       | David Crystal                                                     | waiting     | bought           |
 | [[Area/Reading/In Other Words\|In Other Words]]                                   | Jhumpa Lahiri                                                     | waiting     | bought           |
-| [[Area/Reading/Language and Power\|Language and Power]]                           | Benedict R. O'G. Anderson                                         | waiting     | bought           |
 | [[Area/Reading/Language in Thought and Action\|Language in Thought and Action]]   | <ul><li>Samuel Ichiyé Hayakawa</li><li>Alan R. Hayakawa</li></ul> | waiting     | bought           |
 | [[Area/Reading/Le latin ou L’empire d’un signe\|Le latin ou L’empire d’un signe]] | Françoise Waquet                                                  | waiting     | bought           |
+| [[Area/Reading/Language and Power\|Language and Power]]                           | Benedict R. O'G. Anderson                                         | waiting     | bought           |
 | [[Area/Reading/The Mother Tongue\|The Mother Tongue]]                             | Bill Bryson                                                       | waiting     | bought           |
 | [[Area/Reading/Through the Language Glass\|Through the Language Glass]]           | Guy Deutscher                                                     | waiting     | bought           |
 | [[Area/Reading/Un Occident kidnappé\|Un Occident kidnappé]]                       | Milan Kundera                                                     | waiting     | bought           |
@@ -266,8 +266,8 @@
 | [[+/ReadItLater/來一場「語言旅行」，打開認知世界的窗口──讀《二十種語言，另眼看世界》\|來一場「語言旅行」，打開認知世界的窗口──讀《二十種語言，另眼看世界》]]                                                           | 翁稷安              | finished    |
 | [[+/ReadItLater/安德森與他筆下的印尼幽靈──讀《語言與權力：探索印尼的政治文化》\|安德森與他筆下的印尼幽靈──讀《語言與權力：探索印尼的政治文化》]]                                                                 | 阿潑               | finished    |
 | [[+/ReadItLater/我就是看到「方言」或「Pe̍h-ōe-jī」就心煩──讀《請說「國語」》\|我就是看到「方言」或「Pe̍h-ōe-jī」就心煩──讀《請說「國語」》]]                                                         | 蘇致亨              | finished    |
-| [[+/ReadItLater/真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》\|真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》]]                                               | OKAPI            | finished    |
 | [[+/ReadItLater/美國最暢銷字典編輯的秘密人生──讀《為單字安排座位的人》\|美國最暢銷字典編輯的秘密人生──讀《為單字安排座位的人》]]                                                                         | OKAPI編輯室         | finished    |
+| [[+/ReadItLater/真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》\|真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》]]                                               | OKAPI            | finished    |
 
 { .block-language-dataview}
 
