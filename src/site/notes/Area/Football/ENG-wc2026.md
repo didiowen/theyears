@@ -200,4 +200,16 @@
 
 ## Tracker
 
-> 每日出賽紀錄由 `wc-digest-to-md.py` 自動寫入，人工勿動日期區塊。
+### 2026-06-18
+
+- **Harry Kane**（先發）｜2 球（12'P、42'）：上半場梅開二度，一記點球、一記運動戰，World Cup 金靴之路開張。SofaScore 8.3，全場領銜（SofaScore）。
+- **Marcus Rashford**（替補）｜1 球（85'）：替補上場抓住克羅埃西亞後防體力下滑的空檔，補上第四球終結懸念。Goal.com 給 7 分（Goal.com）。
+- **Jude Bellingham**（先發）｜1 球（47'）：上半場較隱形，下半場一開賽就頂進關鍵第三球扭轉氣勢。Goal.com 7 分（Goal.com）。
+- **Bukayo Saka**（替補）｜1 助攻：替補帶來速度與直接性，為 Rashford 的進球送上最後一傳（SofaScore／Goal.com）。
+- **Declan Rice**（先發）｜1 助攻：右路傳中發動機，9 次傳中 4 次到位、4 次關鍵傳球外加 1 助攻（SofaScore）。
+- **Elliot Anderson**（先發）｜1 助攻：47 分鐘助攻，加上 8 次解圍、4 次攔截，攻守兼顧，SofaScore 7.1（SofaScore）。
+- **Noni Madueke**（先發）：雖無數據進帳，但全場不斷衝擊克羅埃西亞防線，是進攻端亮點（football365）。
+- **Jordan Pickford**（先發，門將）｜3 撲救、失 2 球：失球之一有他的責任，整體一夜不平靜，Goal.com 僅給 5 分（Goal.com）。
+- **Ezri Konsa**（先發）：防線整體不穩，他踢得吃力，是評論點名的弱點之一（FourFourTwo）。
+- **John Stones**（先發）／**Nico O'Reilly**（先發）／**Reece James**（先發）／**Anthony Gordon**（先發）：英格蘭後防＋邊路雖贏球卻失 2 球，這幾位表現平淡，無突出數據。
+- **Morgan Rogers**（替補）／**Marc Guéhi**（替補）／**Djed Spence**（替補）：終場前替補登場，著墨有限。
