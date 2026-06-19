@@ -13,8 +13,11 @@
 - [x] 10:00-12:00 South Korea 2-1 Czech Republic ⏳ 2026-06-12
     - ⚽ South Korea: In-Beom 67', Hyeon-Gyu 80'
     - ⚽ Czech Republic: Krejcí 59'
-- [ ] 00:00-02:00 Czech Republic vs South Africa ⏳ 2026-06-19
-- [/] 09:00-11:00 Mexico vs South Korea ⏳ 2026-06-19
+- [x] 00:00-02:00 Czech Republic 1-1 South Africa ⏳ 2026-06-19
+    - ⚽ Czech Republic: Sadílek 6'
+    - ⚽ South Africa: Mokoena 83' (P)
+- [/] 09:00-11:00 Mexico 1-0 South Korea ⏳ 2026-06-19
+    - ⚽ Mexico: Romo 50'
 - [/] 09:00-11:00 Czech Republic vs Mexico ⏳ 2026-06-25
 - [ ] 09:00-11:00 South Africa vs South Korea ⏳ 2026-06-25
 
@@ -26,8 +29,11 @@
 - [x] 03:00-05:00 Qatar 1-1 Switzerland ⏳ 2026-06-14
     - ⚽ Qatar: Muheim 90'+4' (OG)
     - ⚽ Switzerland: Embolo 17' (P)
-- [/] 03:00-05:00 Switzerland vs Bosnia and Herzegovina ⏳ 2026-06-19
-- [ ] 06:00-08:00 Canada vs Qatar ⏳ 2026-06-19
+- [/] 03:00-05:00 Switzerland 4-1 Bosnia and Herzegovina ⏳ 2026-06-19
+    - ⚽ Switzerland: Manzambi 74', Vargas 84', Manzambi 90', Xhaka 90'+7' (P)
+    - ⚽ Bosnia and Herzegovina: Mahmic 90'+3'
+- [x] 06:00-08:00 Canada 6-0 Qatar ⏳ 2026-06-19
+    - ⚽ Canada: Larin 16', David 29', David 45'+3', Saliba 64', Manai 75' (OG), David 90'+2'
 - [/] 03:00-05:00 Switzerland vs Canada ⏳ 2026-06-25
 - [ ] 03:00-05:00 Bosnia and Herzegovina vs Qatar ⏳ 2026-06-25
 
