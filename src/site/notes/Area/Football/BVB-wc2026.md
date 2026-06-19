@@ -161,40 +161,44 @@
 ---
 
 ## Tracker
+### 2026-06-19
+
+- Gregor Kobel（先發）｜🧤 2 撲救，失 1 球 — 完成兩次有效撲救，傳球調度也算到位；但連續第二場在賽末失球，未能守住零封。（Sports Mole 6/10）
+- Manuel Akanji（先發）｜— 全場表現最穩的後衛，贏得 7 次對抗且攔截全中，共完成 5 次搶回，是瑞士後防線的骨幹。（Sports Mole 8/10）
 
 ### 2026-06-18
 
-- **Ivan Perišić**（先發）｜1 助攻：球隊吞 4 球落敗，但他個人仍稱職——創造 3 次機會、1 助攻、4 次空中對抗獲勝，邊路忙了滿場 90 分鐘（SofaScore）。
+- Ivan Perišić（先發）｜🅰️ — 球隊吞 4 球落敗，但他個人仍稱職——創造 3 次機會、1 助攻、4 次空中對抗獲勝，邊路忙了滿場 90 分鐘。（SofaScore）
 
 ### 2026-06-17
 
-- Erling Haaland 先發 · ⚽2（29', 43'） — Iraq 1-4 Norway，世界盃初登場就梅開二度，上半場連下兩城，Heavy.com 打出 9.2 分封 MOTM，SofaScore 8.1。5 次射門 4 腳射正，第一球搶門將出擊錯誤的漏球補射，第二球精準左腳低射；雖然傳球次數少（9 次），但禁區內的「獵食者」本能一覽無遺。
-- Marcel Sabitzer 先發 · 🟨 — Austria 3-1 Jordan，定位球主罰核心，助奧地利 3-1 開門紅；角球傳中製造 Jordan 後衛 Al-Arab 烏龍球，是奧地利逆轉的轉捩點。領到黃牌；具體評分各家尚未公布，Football Park 賽後報告確認其關鍵設計球角色。
-- Julian Ryerson 先發 — Iraq 1-4 Norway，全場攻守兼備，FIFA 官方數據 8 次傳中、32 次嘗試突破防線、19 次成功——進攻貢獻紮實。防守端有些漏洞，Sports Mole 給 5/10，Heavy.com 較寬鬆給 7.2，Athlon 給 6/10，整體是功過並存的一場。
-- Ramy Bensebaini 先發 — Argentina 3-0 Algeria，賽前傳出踝傷仍上場先發，但難擋 Messi 帽子戲法；球隊失 3 球，他身為後衛壓力頗大。Athlon 給 6/10。
-- Ousmane Dembélé 先發 — France 3-1 Senegal，頂著金球獎光環先發卻打得沉悶，80 分鐘被換下。Heavy.com 6.8、SI 7.1、SofaScore 半場 6.9——各家評分一致偏低，其中 SI 直言他「始終未能入戲」，拿球位置始終遠離要害。
-- Carney Chukwuemeka 替補（59'） — Austria 3-1 Jordan，替補入場後 63 分鐘獲得一次好機會，可惜一腳強射被擋在門線。戲份短暫，無具體評分，FOX Sports boxscore 有記錄其射門。
+- Erling Haaland（先發）｜⚽️ 29' ⚽️ 43' — Iraq 1-4 Norway，世界盃初登場就梅開二度，上半場連下兩城，禁區內的「獵食者」本能一覽無遺。（Heavy.com 9.2 MOTM、SofaScore 8.1）
+- Marcel Sabitzer（先發）｜🟨 — Austria 3-1 Jordan，定位球主罰核心，角球傳中製造 Al-Arab 烏龍球，是奧地利逆轉的轉捩點。（Football Park）
+- Julian Ryerson（先發）｜— Iraq 1-4 Norway，攻守兼備，FIFA 官方 8 次傳中、19 次成功突破，進攻貢獻紮實；防守端有些漏洞。（Sports Mole 5/10、Heavy.com 7.2）
+- Ramy Bensebaini（先發）｜— Argentina 3-0 Algeria，賽前傳出踝傷仍上場先發，但難擋 Messi 帽子戲法。（Athlon 6/10）
+- Ousmane Dembélé（先發）｜— France 3-1 Senegal，頂著金球獎光環先發卻打得沉悶，80 分鐘被換下，始終未能入戲，拿球位置始終遠離要害。（Heavy.com 6.8、SI 7.1、SofaScore 6.9）
+- Carney Chukwuemeka（替補 59'）｜— Austria 3-1 Jordan，替補入場後獲得一次好機會，可惜強射被擋在門線，戲份短暫。
 
 ### 2026-06-16
 
-- Thomas Meunier 先發 — Belgium 1-1 Egypt，後衛先發，這場是功過參半：Goal.com 只給 5/10，直指他在 Ashour 進球前的站位「糟糕透頂」，給對手太大空間；但他下半場將功補過，一記危險傳中造成埃及門將同隊烏龍（Mohamed Hany，66'）替比利時扳平，終場前自己也險些破門。數據上未記助攻，但那記傳中實質促成了平局。
+- Thomas Meunier（先發）｜— Belgium 1-1 Egypt，功過參半：站位被批讓 Ashour 破門；但下半場傳中造成 Hany 烏龍球促成比利時扳平，終場前自己也險些破門。（Goal.com 5/10）
 
 ### 2026-06-15
 
-- Felix Nmecha 先發 · ⚽1（6'） — Germany 7-1 Curaçao，第 6 分鐘接 Wirtz 妙傳於禁區邊緣弧線挑射破門，這也是他國家隊生涯第 3 球；半場前再造一記點球（Havertz 罰進）（FOX Sports／OneFootball）。
-- Nico Schlotterbeck 先發 · ⚽1（38'） — Germany 7-1 Curaçao，38 分鐘角球頭槌建功，攻進國家隊生涯首球；定位球威脅加上整場穩健防守，Goal.com 評「assured display」（Goal.com／Bundesliga.com）。
-- Waldemar Anton 替補 — Germany 7-1 Curaçao，晚場替補上陣，出場時間極短，Get German Football News 與 BuliNews 均列為「N/A」，無法評分。
-- Donyell Malen 先發 — Netherlands 2-2 Japan，上半場最積極的荷蘭攻擊手，3 次射門全部射正（xGOT 0.74），三度被門將 Suzuki 神撲化解；70 分鐘被換下，SI 給 6.9，反映機會把握欠佳但威脅製造不少。
-- Daniel Svensson 替補 — Sweden 5-1 Tunisia，替補出場時間不足，Football Park 列為 N/A，無具體評分可參考。
+- Felix Nmecha（先發）｜⚽️ 6' — Germany 7-1 Curaçao，接 Wirtz 妙傳於禁區邊緣弧線挑射破門（國家隊生涯第 3 球），半場前再造一記點球（Havertz 罰進）。（FOX Sports／OneFootball）
+- Nico Schlotterbeck（先發）｜⚽️ 38' — Germany 7-1 Curaçao，角球頭槌攻進國家隊生涯首球，整場穩健防守。（Goal.com／Bundesliga.com）
+- Waldemar Anton（替補）｜— Germany 7-1 Curaçao，出場時間極短，無法評分。
+- Donyell Malen（先發）｜— Netherlands 2-2 Japan，3 次射門全部射正（xGOT 0.74），三度被門將 Suzuki 神撲化解，機會把握欠佳但威脅製造不少。（SI 6.9）
+- Daniel Svensson（替補）｜— Sweden 5-1 Tunisia，出場時間不足，無具體評分。
 
 ### 2026-06-14
 
-- Gregor Kobel 先發 · 🧤3撲救/失1 — Qatar 1-1 Switzerland，第 2 分鐘 1v1 撲掉 Edmilson 突破、半場補時再次封堵 Edmilson、90 分鐘並化解 Alaaeldin 近距離射門，全場幾近守成清白，僅 Muheim 第 94 分鐘烏龍葬送 clean sheet（BVB Buzz）。
-- Achraf Hakimi 先發 — Brazil 1-1 Morocco，賽後成為摩洛哥隊史世界盃出賽最多球員（11 場），同時追平非洲球員世界盃出場紀錄（Hespress）。
-- Manuel Akanji 先發 — Qatar 1-1 Switzerland，開賽不到兩分鐘即出現致命失誤，放球後 Edmilson 單刀直入，幸有 Kobel 神撲化解；整場與 Edmilson 周旋壓力不小（blue News）。瑞士終場被補時頭槌打平，Akanji 是失球前 chain 中的一環。
-- Salih Özcan 替補（81'） — Australia 2-0 Türkiye，81 分鐘入替，出場時間過短無法評分；各家評分均未列入。
+- Gregor Kobel（先發）｜🧤 3 撲救，失 1 球 — Qatar 1-1 Switzerland，多次神撲幾近維持零封，僅 Muheim 第 94 分鐘烏龍葬送 clean sheet。（BVB Buzz）
+- Achraf Hakimi（先發）｜— Brazil 1-1 Morocco，賽後成為摩洛哥隊史世界盃出賽最多球員（11 場），追平非洲球員世界盃出場紀錄。（Hespress）
+- Manuel Akanji（先發）｜— Qatar 1-1 Switzerland，開場不到兩分鐘失誤讓 Edmilson 單刀，幸有 Kobel 化解；終場被補時頭槌打平，是失球鏈的一環。（blue News）
+- Salih Özcan（替補 81'）｜— Australia 2-0 Türkiye，出場時間過短，無法評分。
 
 ### 2026-06-13
 
-- Christian Pulisic 先發 · 🅰1 — United States 4-1 Paraguay，左路予取予求半場下場拿 WhoScored 8.13 / ESPN 全隊次高，1 助攻、2 機會創造（含 2 big chance）、4 成功盤帶、82% 傳球準度；助攻 Balogun 第 31 分鐘破門，世界盃生涯助攻數累積至 3 球（超越 C 羅 6 屆 2 助攻）（WhoScored／ESPN／Yahoo Sports）。
-- Giovanni Reyna 替補 · ⚽1（90'+8'） — United States 4-1 Paraguay，補時 8 分鐘以右腳外腳背 trivela 弧線挑射破門封盤，接 Freeman 助攻、繞過門將 Orlando Gil，為 USA 開幕戰勝利畫龍點睛（Bundesliga.com／FOX Sports／Clutch Points）。
+- Christian Pulisic（先發）｜🅰️ — United States 4-1 Paraguay，左路予取予求，助攻 Balogun 第 31 分鐘破門，2 次 big chance 創造、4 成功盤帶、82% 傳球準度。（WhoScored 8.13）
+- Giovanni Reyna（替補）｜⚽️ 90'+8' — United States 4-1 Paraguay，補時以右腳外腳背 trivela 弧線挑射破門，為 USA 開幕戰勝利畫龍點睛。（Bundesliga.com）

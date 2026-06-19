@@ -119,32 +119,31 @@
 ---
 
 ## Tracker
-
 ### 2026-06-18
 
-- **Luis Díaz**（先發）｜1 球（65'）＋1 助攻：本屆生涯首顆 World Cup 進球，上半場先送出助攻給 Muñoz，還中柱一次，是全場最佳。SofaScore 8.5，本屆首位單場「進球＋助攻＋中柱」的球員（SofaScore／theanalyst）。
+- Luis Díaz（先發）｜⚽️ 65' 🅰️ — 本屆生涯首顆 World Cup 進球，上半場先送出助攻給 Muñoz，還中柱一次，是全場最佳。（SofaScore 8.5、theanalyst）
 
 ### 2026-06-17
 
-- Alexis Mac Allister 先發 — Argentina 3-0 Algeria，兩側兼顧、覆蓋無數公里，SI 給 7.2，Goal.com 給 7/10；關鍵時刻一腳遠射迫使 Luca Zidane 出包，讓 Messi 補射攻進第 2 球（是 Mac Allister 助推了歷史性時刻）。
-- Sadio Mané 先發 — France 3-1 Senegal，積極拼搶、第 57 分鐘在禁區內撞倒 Mbappé，VAR 介入後未判點；Sports Mole 給 6.8，但塞內加爾整體崩盤，Mané 也難以力挽狂瀾。AOL/Athlon 賽後評語亦指他在最後三分之一效率欠佳。
+- Alexis Mac Allister（先發）｜— Argentina 3-0 Algeria，兩側兼顧、覆蓋無數公里，關鍵時刻遠射迫使 Luca Zidane 出包，讓 Messi 補射攻進第 2 球。（SI 7.2、Goal.com 7/10）
+- Sadio Mané（先發）｜— France 3-1 Senegal，積極拼搶，第 57 分鐘在禁區內撞倒 Mbappé，VAR 未判點；塞內加爾整體崩盤，在最後三分之一效率欠佳。（Sports Mole 6.8）
 
 ### 2026-06-16
 
-- Mohamed Salah 先發 · 🅰1 — Belgium 1-1 Egypt，34 歲生日當天助攻 Ashour 第 19 分鐘破門，成為 1966 年以來首位「生日當天有進球參與」的非洲球員；全場創造 3 次機會（最多）、傳球 17/18、1 次射正，雖 MOTM 由 Ashour 拿下，仍是埃及進攻發動機（Yahoo Sports／Yardbarker）。
-- Darwin Núñez 先發 — Saudi Arabia 1-1 Uruguay，上半場僅 3 次傳球、中場就被換下，表現低迷（Athlon）。
+- Mohamed Salah（先發）｜🅰️ — Belgium 1-1 Egypt，34 歲生日當天助攻 Ashour 第 19 分鐘破門，1966 年以來首位「生日當天有進球參與」的非洲球員；全場創造 3 次機會、傳球 17/18。（Yahoo Sports）
+- Darwin Núñez（先發）｜— Saudi Arabia 1-1 Uruguay，上半場僅 3 次傳球、中場就被換下，表現低迷。（Athlon）
 
 ### 2026-06-15
 
-- Alexander Isak 先發 · ⚽1（30'） 🅰2 — Sweden 5-1 Tunisia，自左路單刀切入低射弧線破門、再串聯 2 球進攻，直接參與 3 球；瑞典隊長 Lindelöf 賽後盛讚其表現「brilliant」，被視為本屆至此最亮眼前鋒之一（Tapmad／Africa Soccer）。
-- Virgil van Dijk 先發 · ⚽1（51'） — Netherlands 2-2 Japan，下半場開賽接 Gravenberch 精準傳中頭槌破門，攻進世界盃生涯首球；34 歲又 318 天成為荷蘭隊史第二老的世界盃進球者（FOX Sports／Read Liverpool FC）。
-- Ryan Gravenberch 先發 · 🅰2 — Netherlands 2-2 Japan，SportsDunia 8.0/10 全場宰制中場，先傳中助 van Dijk 頭槌、再策動 Summerville 進球，被評為「absolutely superb」（SportsDunia／Liverpool FC 官網／Liverpool Lookout）。
-- Florian Wirtz 先發 · 🅰1 — Germany 7-1 Curaçao，6 分鐘助攻 Nmecha 開齋；整體偏淡，Liverpool.com 評為「Germany 攻擊群中最沉寂的一位」、20 碼遠射偏出（Liverpool.com／Goal.com）。
-- Cody Gakpo 先發 — Netherlands 2-2 Japan，左路活躍但日本防線將他切入慣用右腳的路線封死，整場大半被壓制；SofaScore 7.5（兩次射門、一次關鍵傳球、七次對抗勝出），Athlon 較嚴格給 6/10，SI 折中給 7.2。
+- Alexander Isak（先發）｜⚽️ 30' 🅰️ 🅰️ — Sweden 5-1 Tunisia，自左路單刀切入低射弧線破門、再串聯 2 球進攻，直接參與 3 球；被視為本屆至此最亮眼前鋒之一。（Tapmad／Africa Soccer）
+- Virgil van Dijk（先發）｜⚽️ 51' — Netherlands 2-2 Japan，接 Gravenberch 傳中頭槌破門，34 歲又 318 天成為荷蘭隊史第二老的世界盃進球者。（FOX Sports）
+- Ryan Gravenberch（先發）｜🅰️ 🅰️ — Netherlands 2-2 Japan，宰制中場，先傳中助 van Dijk 頭槌、再策動 Summerville 進球，全場「absolutely superb」。（SportsDunia 8.0）
+- Florian Wirtz（先發）｜🅰️ — Germany 7-1 Curaçao，6 分鐘助攻 Nmecha 開齋；整體偏淡，是德國攻擊群中最沉寂的一位。（Liverpool.com／Goal.com）
+- Cody Gakpo（先發）｜— Netherlands 2-2 Japan，左路活躍但切入慣用右腳的路線被封死，兩次射門、一次關鍵傳球、七次對抗勝出。（SofaScore 7.5）
 
 ### 2026-06-14
 
-- Alisson Becker 先發 · 🧤2撲救/失1 — Brazil 1-1 Morocco，第 21 分鐘出擊過遠遭 Saibari 挑射破門（Liverpool.com 直指責任）；補時禁區內連兩次神撲化解 Morocco 致勝機會，將功補過保住一分（FOX Sports／Opta Analyst）。
-- Andy Robertson 先發 — Haiti 0-1 Scotland，在 McGinn 進球前的反擊中扮演中繼角色；Goal.com 給 6/10，指他有幾次不舒服的防守瞬間，但關鍵時刻仍有貢獻；Raw Chili 較寬鬆給 7/10，稱其左路傳中質量不錯。
-- Ben Gannon-Doak 先發 — Haiti 0-1 Scotland，全場積極跑動，進球前策動反擊：他將球送給 Adams，Adams 再找回 McGinn 完成破門；LiveScore 給 7.5/10，Goal.com 給 7/10，讚其工作量與防守回追，但認為進攻端還有更多空間可挖掘。
-- Fabinho 替補 — Brazil 1-1 Morocco，半場取代狀態糟糕的 Casemiro，帶來更多積極性，幫助巴西在下半場對摩洛哥防線形成持續壓力；Sports Mole 給 6/10，評為「較 Casemiro 明顯進步，移動目的性更強」。
+- Alisson Becker（先發）｜🧤 2 撲救，失 1 球 — Brazil 1-1 Morocco，第 21 分鐘出擊過遠遭 Saibari 挑射破門；補時禁區內連兩次神撲化解 Morocco 致勝機會，將功補過保住一分。（FOX Sports／Opta Analyst）
+- Andy Robertson（先發）｜— Haiti 0-1 Scotland，在 McGinn 進球前的反擊中扮演中繼角色，幾次不舒服的防守瞬間，但關鍵時刻仍有貢獻。（Goal.com 6/10）
+- Ben Gannon-Doak（先發）｜— Haiti 0-1 Scotland，進球前策動反擊，球送給 Adams，Adams 再找回 McGinn 完成破門，工作量與防守回追獲肯定。（LiveScore 7.5、Goal.com 7/10）
+- Fabinho（替補）｜— Brazil 1-1 Morocco，半場取代 Casemiro，帶來更多積極性，移動目的性更強。（Sports Mole 6/10）
