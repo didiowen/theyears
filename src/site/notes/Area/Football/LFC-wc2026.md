@@ -119,6 +119,11 @@
 ---
 
 ## Tracker
+### 2026-06-20
+
+- Alisson Becker（先發）｜🧤 3 撲救 零封 — 下半場 Haiti 反撲時兩記大撲收住局面（含鎖定得分的 Isidor 近柱射門），FotMob 8.1、WhoScored 7.77。上一場輸給摩洛哥後的乾淨回應，全場從容掌控大局。
+- Andy Robertson（先發）｜🟨 — 整場獨力應對 Hakimi＋Brahim Díaz 夾擊，前插空間幾乎為零；66分鐘犯規吃牌。主流評分 5.5–6.5（Sports Mole 5.5、Goal.com 5、LiveScore 6.3），ESPN 7屬離群高分。
+
 ### 2026-06-18
 
 - Luis Díaz（先發）｜⚽️ 65' 🅰️ — 本屆生涯首顆 World Cup 進球，上半場先送出助攻給 Muñoz，還中柱一次，是全場最佳。（SofaScore 8.5、theanalyst）
