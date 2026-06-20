@@ -44,8 +44,10 @@
     - ⚽ Morocco: Saibari 21'
 - [x] 09:00-11:00 Haiti 0-1 Scotland ⏳ 2026-06-14 ✅ 2026-06-14
     - ⚽ Scotland: McGinn 28'
-- [/] 06:00-08:00 Scotland vs Morocco ⏳ 2026-06-20
-- [ ] 08:30-10:30 Brazil vs Haiti ⏳ 2026-06-20
+- [/] 06:00-08:00 Scotland 0-1 Morocco ⏳ 2026-06-20
+    - ⚽ Morocco: Saibari 2'
+- [x] 08:30-10:30 Brazil 3-0 Haiti ⏳ 2026-06-20
+    - ⚽ Brazil: Cunha 23', Cunha 36', Júnior 45'+3'
 - [/] 06:00-08:00 Scotland vs Brazil ⏳ 2026-06-25
 - [ ] 06:00-08:00 Morocco vs Haiti ⏳ 2026-06-25
 
@@ -56,8 +58,10 @@
     - ⚽ Paraguay: Maurício 73'
 - [x] 12:00-14:00 Australia 2-0 Turkey ⏳ 2026-06-14 ✅ 2026-06-14
     - ⚽ Australia: Irankunda 27', Metcalfe 75'
-- [/] 03:00-05:00 United States vs Australia ⏳ 2026-06-20
-- [ ] 11:00-13:00 Turkey vs Paraguay ⏳ 2026-06-20
+- [/] 03:00-05:00 United States 2-0 Australia ⏳ 2026-06-20
+    - ⚽ United States: Burgess 11' (OG), Freeman 43'
+- [x] 11:00-13:00 Turkey 0-1 Paraguay ⏳ 2026-06-20
+    - ⚽ Paraguay: Galarza 2'
 - [/] 10:00-12:00 Turkey vs United States ⏳ 2026-06-26
 - [ ] 10:00-12:00 Paraguay vs Australia ⏳ 2026-06-26
 
