@@ -16,7 +16,7 @@
 - [x] 00:00-02:00 Czech Republic 1-1 South Africa ⏳ 2026-06-19
     - ⚽ Czech Republic: Sadílek 6'
     - ⚽ South Africa: Mokoena 83' (P)
-- [/] 09:00-11:00 Mexico 1-0 South Korea ⏳ 2026-06-19
+- [x] 09:00-11:00 Mexico 1-0 South Korea ⏳ 2026-06-19 ✅ 2026-06-19
     - ⚽ Mexico: Romo 50'
 - [/] 09:00-11:00 Czech Republic vs Mexico ⏳ 2026-06-25
 - [ ] 09:00-11:00 South Africa vs South Korea ⏳ 2026-06-25
@@ -29,7 +29,7 @@
 - [x] 03:00-05:00 Qatar 1-1 Switzerland ⏳ 2026-06-14
     - ⚽ Qatar: Muheim 90'+4' (OG)
     - ⚽ Switzerland: Embolo 17' (P)
-- [/] 03:00-05:00 Switzerland 4-1 Bosnia and Herzegovina ⏳ 2026-06-19
+- [x] 03:00-05:00 Switzerland 4-1 Bosnia and Herzegovina ⏳ 2026-06-19
     - ⚽ Switzerland: Manzambi 74', Vargas 84', Manzambi 90', Xhaka 90'+7' (P)
     - ⚽ Bosnia and Herzegovina: Mahmic 90'+3'
 - [x] 06:00-08:00 Canada 6-0 Qatar ⏳ 2026-06-19
@@ -44,9 +44,9 @@
     - ⚽ Morocco: Saibari 21'
 - [x] 09:00-11:00 Haiti 0-1 Scotland ⏳ 2026-06-14 ✅ 2026-06-14
     - ⚽ Scotland: McGinn 28'
-- [/] 06:00-08:00 Scotland 0-1 Morocco ⏳ 2026-06-20
+- [x] 06:00-08:00 Scotland 0-1 Morocco ⏳ 2026-06-20 ✅ 2026-06-20
     - ⚽ Morocco: Saibari 2'
-- [x] 08:30-10:30 Brazil 3-0 Haiti ⏳ 2026-06-20
+- [x] 08:30-10:30 Brazil 3-0 Haiti ⏳ 2026-06-20 ✅ 2026-06-20
     - ⚽ Brazil: Cunha 23', Cunha 36', Júnior 45'+3'
 - [/] 06:00-08:00 Scotland vs Brazil ⏳ 2026-06-25
 - [ ] 06:00-08:00 Morocco vs Haiti ⏳ 2026-06-25
@@ -60,7 +60,7 @@
     - ⚽ Australia: Irankunda 27', Metcalfe 75'
 - [/] 03:00-05:00 United States 2-0 Australia ⏳ 2026-06-20
     - ⚽ United States: Burgess 11' (OG), Freeman 43'
-- [x] 11:00-13:00 Turkey 0-1 Paraguay ⏳ 2026-06-20
+- [x] 11:00-13:00 Turkey 0-1 Paraguay ⏳ 2026-06-20 ✅ 2026-06-20
     - ⚽ Paraguay: Galarza 2'
 - [/] 10:00-12:00 Turkey vs United States ⏳ 2026-06-26
 - [ ] 10:00-12:00 Paraguay vs Australia ⏳ 2026-06-26
@@ -72,8 +72,10 @@
     - ⚽ Curaçao: Comenencia 21'
 - [x] 07:00-09:00 Ivory Coast 1-0 Ecuador ⏳ 2026-06-15
     - ⚽ Ivory Coast: Diallo 90'
-- [/] 04:00-06:00 Germany vs Ivory Coast ⏳ 2026-06-21
-- [ ] 08:00-10:00 Ecuador vs Curaçao ⏳ 2026-06-21
+- [/] 04:00-06:00 Germany 2-1 Ivory Coast ⏳ 2026-06-21
+    - ⚽ Germany: Undav 68', Undav 90'+4'
+    - ⚽ Ivory Coast: Kessié 30'
+- [x] 08:00-10:00 Ecuador 0-0 Curaçao ⏳ 2026-06-21
 - [ ] 04:00-06:00 Curaçao vs Ivory Coast ⏳ 2026-06-26
 - [/] 04:00-06:00 Ecuador vs Germany ⏳ 2026-06-26
 
@@ -85,8 +87,11 @@
 - [x] 10:00-12:00 Sweden 5-1 Tunisia ⏳ 2026-06-15 ✅ 2026-06-15
     - ⚽ Sweden: Ayari 7', Isak 30', Gyökeres 59', Svanberg 84', Ayari 90'+6'
     - ⚽ Tunisia: Rekik 43'
-- [/] 01:00-03:00 Netherlands vs Sweden ⏳ 2026-06-21
-- [/] 12:00-14:00 Tunisia vs Japan ⏳ 2026-06-21
+- [/] 01:00-03:00 Netherlands 5-1 Sweden ⏳ 2026-06-21
+    - ⚽ Netherlands: Brobbey 5', Brobbey 17', Gakpo 47', Gakpo 54', Summerville 89'
+    - ⚽ Sweden: Elanga 59'
+- [/] 12:00-14:00 Tunisia 0-4 Japan ⏳ 2026-06-21
+    - ⚽ Japan: Kamada 4', Ueda 31', Ito 69', Ueda 83'
 - [/] 07:00-09:00 Japan vs Sweden ⏳ 2026-06-26
 - [/] 07:00-09:00 Tunisia vs Netherlands ⏳ 2026-06-26
 
@@ -116,10 +121,10 @@
 
 ### Group I
 
-- [/] 03:00-05:00 France 3-1 Senegal ⏳ 2026-06-17
+- [x] 03:00-05:00 France 3-1 Senegal ⏳ 2026-06-17
     - ⚽ France: Mbappé 66', Barcola 82', Mbappé 90'+6'
     - ⚽ Senegal: Mbaye 90'+5'
-- [/] 06:00-08:00 Iraq 1-4 Norway ⏳ 2026-06-17
+- [x] 06:00-08:00 Iraq 1-4 Norway ⏳ 2026-06-17 ✅ 2026-06-19
     - ⚽ Iraq: Hussein 39'
     - ⚽ Norway: Haaland 29', Haaland 43', Østigard 76', Hussein 90'+6' (OG)
 - [/] 05:00-07:00 France vs Iraq ⏳ 2026-06-23
@@ -141,10 +146,10 @@
 
 ### Group K
 
-- [/] 01:00-03:00 Portugal 1-1 DR Congo ⏳ 2026-06-18
+- [x] 01:00-03:00 Portugal 1-1 DR Congo ⏳ 2026-06-18  ✅ 2026-06-19
     - ⚽ Portugal: Neves 6'
     - ⚽ DR Congo: Wissa 45'+5'
-- [/] 10:00-12:00 Uzbekistan 1-3 Colombia ⏳ 2026-06-18
+- [x] 10:00-12:00 Uzbekistan 1-3 Colombia ⏳ 2026-06-18 ✅ 2026-06-18
     - ⚽ Uzbekistan: Fayzullaev 60'
     - ⚽ Colombia: Muñoz 40', Díaz 65', Campaz 90'+9'
 - [/] 01:00-03:00 Portugal vs Uzbekistan ⏳ 2026-06-24

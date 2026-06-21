@@ -164,47 +164,70 @@
 ### 2026-06-20
 
 - Achraf Hakimi（先發）｜— 攻守俱到，全場108次觸球、兩次射門（xG 0.31），直傳角球差點由 El Khannouss 攻破。SofaScore 6.8、Athlon Sports 7。此役正式成為非洲球員世界盃出場最多紀錄保持人（第12場），Robertson 賽後親稱他是「世界最佳右後衛」。
+  - 📊 Opta 評分 7.45｜xG 0.31 xA 0.21｜射 2｜創造 1｜準傳 75 觸球 108｜攔1 回收4
 - Ben Doak（替補，60'）｜— 換入後踢右路約30分鐘，帶速度數度楔入摩洛哥防線但未能造成實質威脅。TNT Sports 6（「靈活邊翼，幾次直線突破」）、Sports Mole 5.5、Goal.com 5。
 - Giovanni Reyna（替補，90+6'）｜— 補時第六分鐘才入替，出場不足主流媒體評分門檻。ESPN 評語：「讓美國換上一雙新鮮腳走完比賽。」
+  - 📊 Opta 評分 —｜準傳 1 觸球 1
 
 ### 2026-06-19
 
 - Gregor Kobel（先發）｜🧤 2 撲救，失 1 球 — 完成兩次有效撲救，傳球調度也算到位；但連續第二場在賽末失球，未能守住零封。（Sports Mole 6/10）
+  - 📊 Opta 評分 6.52｜撲救 2 失球 1｜救球價值 -0.73｜面對xGOT 0.27
 - Manuel Akanji（先發）｜— 全場表現最穩的後衛，贏得 7 次對抗且攔截全中，共完成 5 次搶回，是瑞士後防線的骨幹。（Sports Mole 8/10）
+  - 📊 Opta 評分 7.9｜xA 0.03｜創造 1｜準傳 80 觸球 97｜攔2 回收5
 
 ### 2026-06-18
 
 - Ivan Perišić（先發）｜🅰️ — 球隊吞 4 球落敗，但他個人仍稱職——創造 3 次機會、1 助攻、4 次空中對抗獲勝，邊路忙了滿場 90 分鐘。（SofaScore）
+  - 📊 Opta 評分 7.87｜助1｜xA 0.17｜創造 4｜準傳 25 觸球 47｜攔2 回收2
 
 ### 2026-06-17
 
 - Erling Haaland（先發）｜⚽️ 29' ⚽️ 43' — Iraq 1-4 Norway，世界盃初登場就梅開二度，上半場連下兩城，禁區內的「獵食者」本能一覽無遺。（Heavy.com 9.2 MOTM、SofaScore 8.1）
+  - 📊 Opta 評分 9.17｜進2｜xG 1.85 xA 0.07｜射 5(中4)｜創造 1｜準傳 4 觸球 20｜回收2
 - Marcel Sabitzer（先發）｜🟨 — Austria 3-1 Jordan，定位球主罰核心，角球傳中製造 Al-Arab 烏龍球，是奧地利逆轉的轉捩點。（Football Park）
+  - 📊 Opta 評分 7.55｜xG 0.01 xA 0.27｜射 1｜創造 1｜準傳 29 觸球 57｜攔3 回收6
 - Julian Ryerson（先發）｜— Iraq 1-4 Norway，攻守兼備，FIFA 官方 8 次傳中、19 次成功突破，進攻貢獻紮實；防守端有些漏洞。（Sports Mole 5/10、Heavy.com 7.2）
+  - 📊 Opta 評分 7.5｜xA 0.36｜創造 3｜準傳 43 觸球 84｜回收3
 - Ramy Bensebaini（先發）｜— Argentina 3-0 Algeria，賽前傳出踝傷仍上場先發，但難擋 Messi 帽子戲法。（Athlon 6/10）
+  - 📊 Opta 評分 6.49｜xA 0.02｜準傳 89 觸球 107｜攔3 回收5
 - Ousmane Dembélé（先發）｜— France 3-1 Senegal，頂著金球獎光環先發卻打得沉悶，80 分鐘被換下，始終未能入戲，拿球位置始終遠離要害。（Heavy.com 6.8、SI 7.1、SofaScore 6.9）
+  - 📊 Opta 評分 7.06｜xG 0.03 xA 0.05｜射 1｜準傳 26 觸球 40｜回收3
 - Carney Chukwuemeka（替補 59'）｜— Austria 3-1 Jordan，替補入場後獲得一次好機會，可惜強射被擋在門線，戲份短暫。
+  - 📊 Opta 評分 5.91｜xG 0.2 xA 0.02｜射 1(中1)｜準傳 9 觸球 23
 
 ### 2026-06-16
 
 - Thomas Meunier（先發）｜— Belgium 1-1 Egypt，功過參半：站位被批讓 Ashour 破門；但下半場傳中造成 Hany 烏龍球促成比利時扳平，終場前自己也險些破門。（Goal.com 5/10）
+  - 📊 Opta 評分 6.28｜xG 0.07 xA 0.14｜射 1(中1)｜創造 1｜準傳 34 觸球 62｜回收1
 
 ### 2026-06-15
 
 - Felix Nmecha（先發）｜⚽️ 6' — Germany 7-1 Curaçao，接 Wirtz 妙傳於禁區邊緣弧線挑射破門（國家隊生涯第 3 球），半場前再造一記點球（Havertz 罰進）。（FOX Sports／OneFootball）
+  - 📊 Opta 評分 8.56｜進1｜xG 0.26 xA 0.08｜射 4(中3)｜準傳 38 觸球 55｜回收2
 - Nico Schlotterbeck（先發）｜⚽️ 38' — Germany 7-1 Curaçao，角球頭槌攻進國家隊生涯首球，整場穩健防守。（Goal.com／Bundesliga.com）
+  - 📊 Opta 評分 8.93｜進1｜xG 0.31 xA 0.04｜射 2(中2)｜準傳 74 觸球 104｜攔5 回收8
 - Waldemar Anton（替補）｜— Germany 7-1 Curaçao，出場時間極短，無法評分。
+  - 📊 Opta 評分 —｜準傳 6 觸球 12｜攔1 回收1
 - Donyell Malen（先發）｜— Netherlands 2-2 Japan，3 次射門全部射正（xGOT 0.74），三度被門將 Suzuki 神撲化解，機會把握欠佳但威脅製造不少。（SI 6.9）
+  - 📊 Opta 評分 6.84｜xG 0.21｜射 2(中2)｜準傳 4 觸球 20｜回收3
 - Daniel Svensson（替補）｜— Sweden 5-1 Tunisia，出場時間不足，無具體評分。
+  - 📊 Opta 評分 —｜準傳 2 觸球 5
 
 ### 2026-06-14
 
 - Gregor Kobel（先發）｜🧤 3 撲救，失 1 球 — Qatar 1-1 Switzerland，多次神撲幾近維持零封，僅 Muheim 第 94 分鐘烏龍葬送 clean sheet。（BVB Buzz）
+  - 📊 Opta 評分 7.48｜撲救 3 失球 1｜救球價值 +0.46｜面對xGOT 0.46
 - Achraf Hakimi（先發）｜— Brazil 1-1 Morocco，賽後成為摩洛哥隊史世界盃出賽最多球員（11 場），追平非洲球員世界盃出場紀錄。（Hespress）
+  - 📊 Opta 評分 7.52｜xG 0.18 xA 0.11｜射 3｜創造 3｜準傳 44 觸球 83｜回收5
 - Manuel Akanji（先發）｜— Qatar 1-1 Switzerland，開場不到兩分鐘失誤讓 Edmilson 單刀，幸有 Kobel 化解；終場被補時頭槌打平，是失球鏈的一環。（blue News）
+  - 📊 Opta 評分 7.35｜xG 0.27 xA 0.15｜射 1(中1)｜創造 2｜準傳 92 觸球 109｜回收6
 - Salih Özcan（替補 81'）｜— Australia 2-0 Türkiye，出場時間過短，無法評分。
+  - 📊 Opta 評分 —｜xA 0.01｜準傳 17 觸球 18｜回收1
 
 ### 2026-06-13
 
 - Christian Pulisic（先發）｜🅰️ — United States 4-1 Paraguay，左路予取予求，助攻 Balogun 第 31 分鐘破門，2 次 big chance 創造、4 成功盤帶、82% 傳球準度。（WhoScored 8.13）
+  - 📊 Opta 評分 7.85｜助1｜xA 0.12｜創造 2｜準傳 18 觸球 37
 - Giovanni Reyna（替補）｜⚽️ 90'+8' — United States 4-1 Paraguay，補時以右腳外腳背 trivela 弧線挑射破門，為 USA 開幕戰勝利畫龍點睛。（Bundesliga.com）
+  - 📊 Opta 評分 —｜進1｜xG 0.08｜射 1(中1)｜準傳 8 觸球 14｜回收1

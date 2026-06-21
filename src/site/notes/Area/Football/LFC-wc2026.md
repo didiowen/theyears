@@ -122,33 +122,49 @@
 ### 2026-06-20
 
 - Alisson Becker（先發）｜🧤 3 撲救 零封 — 下半場 Haiti 反撲時兩記大撲收住局面（含鎖定得分的 Isidor 近柱射門），FotMob 8.1、WhoScored 7.77。上一場輸給摩洛哥後的乾淨回應，全場從容掌控大局。
+  - 📊 Opta 評分 8.11｜撲救 3 失球 0｜救球價值 +0.43｜面對xGOT 0.43
 - Andy Robertson（先發）｜🟨 — 整場獨力應對 Hakimi＋Brahim Díaz 夾擊，前插空間幾乎為零；66分鐘犯規吃牌。主流評分 5.5–6.5（Sports Mole 5.5、Goal.com 5、LiveScore 6.3），ESPN 7屬離群高分。
+  - 📊 Opta 評分 6.72｜xA 0.12｜創造 1｜準傳 51 觸球 69｜攔1 回收9
 
 ### 2026-06-18
 
 - Luis Díaz（先發）｜⚽️ 65' 🅰️ — 本屆生涯首顆 World Cup 進球，上半場先送出助攻給 Muñoz，還中柱一次，是全場最佳。（SofaScore 8.5、theanalyst）
+  - 📊 Opta 評分 8.94｜進1 助1｜xG 0.36 xA 0.62｜射 2(中1)｜創造 2｜準傳 19 觸球 47｜回收4
 
 ### 2026-06-17
 
 - Alexis Mac Allister（先發）｜— Argentina 3-0 Algeria，兩側兼顧、覆蓋無數公里，關鍵時刻遠射迫使 Luca Zidane 出包，讓 Messi 補射攻進第 2 球。（SI 7.2、Goal.com 7/10）
+  - 📊 Opta 評分 7.24｜xG 0.08 xA 0.02｜射 2(中1)｜創造 1｜準傳 60 觸球 74｜攔2 回收6
 - Sadio Mané（先發）｜— France 3-1 Senegal，積極拼搶，第 57 分鐘在禁區內撞倒 Mbappé，VAR 未判點；塞內加爾整體崩盤，在最後三分之一效率欠佳。（Sports Mole 6.8）
+  - 📊 Opta 評分 6.36｜xG 0.03 xA 0.02｜射 1(中1)｜準傳 26 觸球 50｜攔2 回收4
 
 ### 2026-06-16
 
 - Mohamed Salah（先發）｜🅰️ — Belgium 1-1 Egypt，34 歲生日當天助攻 Ashour 第 19 分鐘破門，1966 年以來首位「生日當天有進球參與」的非洲球員；全場創造 3 次機會、傳球 17/18。（Yahoo Sports）
+  - 📊 Opta 評分 7.23｜助1｜xG 0.14 xA 0.05｜射 1(中1)｜創造 3｜準傳 17 觸球 35｜回收3
 - Darwin Núñez（先發）｜— Saudi Arabia 1-1 Uruguay，上半場僅 3 次傳球、中場就被換下，表現低迷。（Athlon）
+  - 📊 Opta 評分 6.26｜xG 0.21｜射 1｜準傳 3 觸球 7｜攔1 回收1
 
 ### 2026-06-15
 
 - Alexander Isak（先發）｜⚽️ 30' 🅰️ 🅰️ — Sweden 5-1 Tunisia，自左路單刀切入低射弧線破門、再串聯 2 球進攻，直接參與 3 球；被視為本屆至此最亮眼前鋒之一。（Tapmad／Africa Soccer）
+  - 📊 Opta 評分 8.79｜進1 助2｜xG 0.32 xA 0.04｜射 3(中2)｜創造 2｜準傳 14 觸球 35｜回收1
 - Virgil van Dijk（先發）｜⚽️ 51' — Netherlands 2-2 Japan，接 Gravenberch 傳中頭槌破門，34 歲又 318 天成為荷蘭隊史第二老的世界盃進球者。（FOX Sports）
+  - 📊 Opta 評分 7.88｜進1｜xG 0.06 xA 0.03｜射 1(中1)｜準傳 95 觸球 114｜攔1
 - Ryan Gravenberch（先發）｜🅰️ 🅰️ — Netherlands 2-2 Japan，宰制中場，先傳中助 van Dijk 頭槌、再策動 Summerville 進球，全場「absolutely superb」。（SportsDunia 8.0）
+  - 📊 Opta 評分 8.42｜助2｜xA 0.1｜創造 2｜準傳 22 觸球 37｜回收2
 - Florian Wirtz（先發）｜🅰️ — Germany 7-1 Curaçao，6 分鐘助攻 Nmecha 開齋；整體偏淡，是德國攻擊群中最沉寂的一位。（Liverpool.com／Goal.com）
+  - 📊 Opta 評分 8.44｜助1｜xG 0.18 xA 0.46｜射 3｜創造 4｜準傳 55 觸球 80｜攔1 回收8
 - Cody Gakpo（先發）｜— Netherlands 2-2 Japan，左路活躍但切入慣用右腳的路線被封死，兩次射門、一次關鍵傳球、七次對抗勝出。（SofaScore 7.5）
+  - 📊 Opta 評分 7.23｜xG 0.2 xA 0.13｜射 2(中1)｜創造 1｜準傳 27 觸球 48｜攔1 回收2
 
 ### 2026-06-14
 
 - Alisson Becker（先發）｜🧤 2 撲救，失 1 球 — Brazil 1-1 Morocco，第 21 分鐘出擊過遠遭 Saibari 挑射破門；補時禁區內連兩次神撲化解 Morocco 致勝機會，將功補過保住一分。（FOX Sports／Opta Analyst）
+  - 📊 Opta 評分 6.48｜撲救 2 失球 1｜救球價值 -0.26｜面對xGOT 0.74
 - Andy Robertson（先發）｜— Haiti 0-1 Scotland，在 McGinn 進球前的反擊中扮演中繼角色，幾次不舒服的防守瞬間，但關鍵時刻仍有貢獻。（Goal.com 6/10）
+  - 📊 Opta 評分 7.26｜xA 0.17｜創造 2｜準傳 30 觸球 68｜攔1 回收1
 - Ben Gannon-Doak（先發）｜— Haiti 0-1 Scotland，進球前策動反擊，球送給 Adams，Adams 再找回 McGinn 完成破門，工作量與防守回追獲肯定。（LiveScore 7.5、Goal.com 7/10）
+  - 📊 Opta 評分 6.98｜xG 0.06 xA 0.08｜射 2｜創造 2｜準傳 19 觸球 39｜回收1
 - Fabinho（替補）｜— Brazil 1-1 Morocco，半場取代 Casemiro，帶來更多積極性，移動目的性更強。（Sports Mole 6/10）
+  - 📊 Opta 評分 6.31｜準傳 15 觸球 22｜回收3
