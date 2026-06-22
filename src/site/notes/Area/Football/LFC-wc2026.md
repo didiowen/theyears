@@ -119,6 +119,13 @@
 ---
 
 ## Tracker
+### 2026-06-22
+
+- Mohamed Salah（先發）｜⚽️ 67' 🅰️ — 34 歲的他一射一傳率領 Egypt 3-1 逆轉 New Zealand，拿下隊史世界盃首勝，本人世界盃只要出賽必有進球或助攻的紀錄延續；全場 10 次射門參與（5 射 5 創造）為本屆單場最高，第 82 分鐘角球助攻 Trezeguet 頭槌定江山。Opta 8.93 為今日最佳，無懈可擊（[Sky Sports](https://www.skysports.com/football/new-zealand-vs-egypt/549803)、[Al Jazeera](https://www.aljazeera.com/sports/2026/6/22/salah-scores-as-egypt-beat-new-zealand-3-1-for-first-world-cup-win)）。
+  - 📊 Opta 評分 8.93｜進1 助1｜xG 0.56 xA 0.26｜射 5(中2)｜創造 5｜準傳 26 觸球 57｜回收6
+- Darwin Núñez（替補）｜— Uruguay 2-2 平 Cape Verde，替補登場時間有限，觸球僅 10 次、創造 1 次機會，影響力不大，Opta 6.36 屬替補的平淡演出。
+  - 📊 Opta 評分 6.36｜xA 0.02｜創造 1｜準傳 6 觸球 10｜回收1
+
 ### 2026-06-21
 
 - Cody Gakpo（先發）｜⚽️ 47' ⚽️ 54' 🅰️ — 全場最佳，下半場 7 分鐘內梅開二度再添一助攻，被點名為本屆世界盃至今最猛的個人演出之一；SofaScore 給到 9.7、5 射 4 中，連帶讓質疑他紅軍表現的聲音閉嘴（Sports Mole／SofaScore）。

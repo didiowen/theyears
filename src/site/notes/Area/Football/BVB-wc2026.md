@@ -161,6 +161,11 @@
 ---
 
 ## Tracker
+### 2026-06-22
+
+- Thomas Meunier（先發）｜— Belgium 0-0 悶平 Iran，右後衛位置踢滿，傳球穩定（準傳 32／觸球 55），防守端 1 攔截 4 回收，是後防表現可靠的一員；比利時雖控球占優卻苦無建樹，Ngoy 第 66 分鐘紅牌後更難施展（[Sofascore](https://www.sofascore.com/football/match/iran-belgium/rUbsqVb)）。
+  - 📊 Opta 評分 7.15｜xA 0.04｜準傳 32 觸球 55｜攔1 回收4
+
 ### 2026-06-21
 
 - Donyell Malen（先發）｜— 全場最低調的一個，觸球僅 12 次、影響有限，早早被換下的邊鋒。
