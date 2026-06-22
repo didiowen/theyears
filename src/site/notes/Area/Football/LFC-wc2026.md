@@ -134,7 +134,7 @@
 
 ### 2026-06-20
 
-- Alisson Becker（先發）｜🧤 3 撲救 零封 — 下半場 Haiti 反撲時兩記大撲收住局面（含鎖定得分的 Isidor 近柱射門），FotMob 8.1、WhoScored 7.77。上一場輸給摩洛哥後的乾淨回應，全場從容掌控大局。
+- Alisson Becker（先發）｜🧤 3 撲救 零封 — 下半場 Haiti 反撲時兩記大撲收住局面（含鎖定得分的 Isidor 近柱射門），FotMob 8.1、WhoScored 7.77。上一場摩洛哥失球後的乾淨回應，全場從容掌控大局。
   - 📊 Opta 評分 8.11｜撲救 3 失球 0｜救球價值 +0.43｜面對xGOT 0.43
 - Andy Robertson（先發）｜🟨 — 整場獨力應對 Hakimi＋Brahim Díaz 夾擊，前插空間幾乎為零；66分鐘犯規吃牌。主流評分 5.5–6.5（Sports Mole 5.5、Goal.com 5、LiveScore 6.3），ESPN 7屬離群高分。
   - 📊 Opta 評分 6.72｜xA 0.12｜創造 1｜準傳 51 觸球 69｜攔1 回收9

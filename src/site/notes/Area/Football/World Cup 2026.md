@@ -72,7 +72,7 @@
     - ⚽ Curaçao: Comenencia 21'
 - [x] 07:00-09:00 Ivory Coast 1-0 Ecuador ⏳ 2026-06-15
     - ⚽ Ivory Coast: Diallo 90'
-- [/] 04:00-06:00 Germany 2-1 Ivory Coast ⏳ 2026-06-21
+- [x] 04:00-06:00 Germany 2-1 Ivory Coast ⏳ 2026-06-21 ✅ 2026-06-21
     - ⚽ Germany: Undav 68', Undav 90'+4'
     - ⚽ Ivory Coast: Kessié 30'
 - [x] 08:00-10:00 Ecuador 0-0 Curaçao ⏳ 2026-06-21
@@ -87,10 +87,10 @@
 - [x] 10:00-12:00 Sweden 5-1 Tunisia ⏳ 2026-06-15 ✅ 2026-06-15
     - ⚽ Sweden: Ayari 7', Isak 30', Gyökeres 59', Svanberg 84', Ayari 90'+6'
     - ⚽ Tunisia: Rekik 43'
-- [/] 01:00-03:00 Netherlands 5-1 Sweden ⏳ 2026-06-21
+- [x] 01:00-03:00 Netherlands 5-1 Sweden ⏳ 2026-06-21 ✅ 2026-06-21
     - ⚽ Netherlands: Brobbey 5', Brobbey 17', Gakpo 47', Gakpo 54', Summerville 89'
     - ⚽ Sweden: Elanga 59'
-- [/] 12:00-14:00 Tunisia 0-4 Japan ⏳ 2026-06-21
+- [x] 12:00-14:00 Tunisia 0-4 Japan ⏳ 2026-06-21 ✅ 2026-06-21
     - ⚽ Japan: Kamada 4', Ueda 31', Ito 69', Ueda 83'
 - [/] 07:00-09:00 Japan vs Sweden ⏳ 2026-06-26
 - [/] 07:00-09:00 Tunisia vs Netherlands ⏳ 2026-06-26
@@ -103,8 +103,10 @@
 - [x] 09:00-11:00 Iran 2-2 New Zealand ⏳ 2026-06-16
     - ⚽ Iran: Rezaeian 32', Mohebbi 64'
     - ⚽ New Zealand: Just 7', Just 54'
-- [ ] 03:00-05:00 Belgium vs Iran ⏳ 2026-06-22
-- [/] 09:00-11:00 New Zealand vs Egypt ⏳ 2026-06-22
+- [x] 03:00-05:00 Belgium 0-0 Iran ⏳ 2026-06-22
+- [/] 09:00-11:00 New Zealand 1-3 Egypt ⏳ 2026-06-22
+    - ⚽ New Zealand: Surman 15'
+    - ⚽ Egypt: Zico 58', Salah 67', Trézéguet 82'
 - [/] 11:00-13:00 Egypt vs Iran ⏳ 2026-06-27
 - [/] 11:00-13:00 New Zealand vs Belgium ⏳ 2026-06-27
 
@@ -114,8 +116,11 @@
 - [x] 06:00-08:00 Saudi Arabia 1-1 Uruguay ⏳ 2026-06-16 ✅ 2026-06-16
     - ⚽ Saudi Arabia: Al-Amri 41'
     - ⚽ Uruguay: Araújo 80'
-- [/] 00:00-02:00 Spain vs Saudi Arabia ⏳ 2026-06-22
-- [/] 06:00-08:00 Uruguay vs Cape Verde ⏳ 2026-06-22
+- [/] 00:00-02:00 Spain 4-0 Saudi Arabia ⏳ 2026-06-22
+    - ⚽ Spain: Yamal 10', Oyarzabal 21', Oyarzabal 24', Al-Tambakti 49' (OG)
+- [/] 06:00-08:00 Uruguay 2-2 Cape Verde ⏳ 2026-06-22
+    - ⚽ Uruguay: Araújo 44', Canobbio 45'+6'
+    - ⚽ Cape Verde: Pina 21', Varela 61'
 - [ ] 08:00-10:00 Cape Verde vs Saudi Arabia ⏳ 2026-06-27
 - [/] 08:00-10:00 Uruguay vs Spain ⏳ 2026-06-27
 
