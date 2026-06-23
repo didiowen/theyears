@@ -119,6 +119,13 @@
 ---
 
 ## Tracker
+### 2026-06-23
+
+- Sadio Mané（先發）｜🅰️ — 輸球一方表現最亮眼的進攻點，1 助攻、全場 5 次創造機會冠絕兩隊，Opta 8.41；塞內加爾雖 2-3 落敗仍靠他維持威脅，末戰須贏伊拉克才能延續晉級希望（Olympics.com）。
+  - 📊 Opta 評分 8.41｜助1｜xA 0.25｜創造 5｜準傳 29 觸球 62｜回收2
+- Alexis Mac Allister（先發）｜— 阿根廷中場引擎，62 次傳球 75 觸球、1 搶斷 4 回收，穩定控節奏助球隊 2-0 零封過關，Opta 7.36。
+  - 📊 Opta 評分 7.36｜xA 0.04｜準傳 62 觸球 75｜攔1 回收4
+
 ### 2026-06-22
 
 - Mohamed Salah（先發）｜⚽️ 67' 🅰️ — 34 歲的他一射一傳率領 Egypt 3-1 逆轉 New Zealand，拿下隊史世界盃首勝，本人世界盃只要出賽必有進球或助攻的紀錄延續；全場 10 次射門參與（5 射 5 創造）為本屆單場最高，第 82 分鐘角球助攻 Trezeguet 頭槌定江山。Opta 8.93 為今日最佳，無懈可擊（[Sky Sports](https://www.skysports.com/football/new-zealand-vs-egypt/549803)、[Al Jazeera](https://www.aljazeera.com/sports/2026/6/22/salah-scores-as-egypt-beat-new-zealand-3-1-for-first-world-cup-win)）。
