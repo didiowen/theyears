@@ -132,8 +132,11 @@
 - [x] 06:00-08:00 Iraq 1-4 Norway ⏳ 2026-06-17 ✅ 2026-06-19
     - ⚽ Iraq: Hussein 39'
     - ⚽ Norway: Haaland 29', Haaland 43', Østigard 76', Hussein 90'+6' (OG)
-- [/] 05:00-07:00 France vs Iraq ⏳ 2026-06-23
-- [/] 08:00-10:00 Norway vs Senegal ⏳ 2026-06-23
+- [/] 05:00-07:00 France 3-0 Iraq ⏳ 2026-06-23
+    - ⚽ France: Mbappé 14', Mbappé 54', Dembélé 66'
+- [/] 08:00-10:00 Norway 3-2 Senegal ⏳ 2026-06-23
+    - ⚽ Norway: Pedersen 43', Haaland 48', Haaland 58'
+    - ⚽ Senegal: Sarr 53', Sarr 90'+3'
 - [/] 03:00-05:00 Norway vs France ⏳ 2026-06-27
 - [ ] 03:00-05:00 Senegal vs Iraq ⏳ 2026-06-27
 
@@ -144,8 +147,11 @@
 - [x] 12:00-14:00 Austria 3-1 Jordan ⏳ 2026-06-17 ✅ 2026-06-17
     - ⚽ Austria: Schmid 21', Al-Arab 76' (OG), Arnautovic 90'+12' (P)
     - ⚽ Jordan: Olwan 50'
-- [/] 01:00-03:00 Argentina vs Austria ⏳ 2026-06-23
-- [/] 11:00-13:00 Jordan vs Algeria ⏳ 2026-06-23
+- [/] 01:00-03:00 Argentina 2-0 Austria ⏳ 2026-06-23
+    - ⚽ Argentina: Messi 38', Messi 90'+5'
+- [/] 11:00-13:00 Jordan 1-2 Algeria ⏳ 2026-06-23
+    - ⚽ Jordan: Al-Rashdan 36'
+    - ⚽ Algeria: Benbouali 69', Gouiri 82'
 - [/] 10:00-12:00 Algeria vs Austria ⏳ 2026-06-28
 - [/] 10:00-12:00 Jordan vs Argentina ⏳ 2026-06-28
 
