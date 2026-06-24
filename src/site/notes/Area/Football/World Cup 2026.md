@@ -134,6 +134,11 @@
     - ⚽ Norway: Haaland 29', Haaland 43', Østigard 76', Hussein 90'+6' (OG)
 - [/] 05:00-07:00 France 3-0 Iraq ⏳ 2026-06-23
     - ⚽ France: Mbappé 14', Mbappé 54', Dembélé 66'
+- [x] 08:00-10:00 Norway 3-2 Senegal ⏳ 2026-06-23 ✅ 2026-06-23
+    - ⚽ Norway: Pedersen 43', Haaland 48', Haaland 58'
+    - ⚽ Senegal: Sarr 53', Sarr 90'+3'
+- [/] 05:00-07:00 France 3-0 Iraq ⏳ 2026-06-23
+    - ⚽ France: Mbappé 14', Mbappé 54', Dembélé 66'
 - [/] 08:00-10:00 Norway 3-2 Senegal ⏳ 2026-06-23
     - ⚽ Norway: Pedersen 43', Haaland 48', Haaland 58'
     - ⚽ Senegal: Sarr 53', Sarr 90'+3'
@@ -147,6 +152,11 @@
 - [x] 12:00-14:00 Austria 3-1 Jordan ⏳ 2026-06-17 ✅ 2026-06-17
     - ⚽ Austria: Schmid 21', Al-Arab 76' (OG), Arnautovic 90'+12' (P)
     - ⚽ Jordan: Olwan 50'
+- [/] 01:00-03:00 Argentina 2-0 Austria ⏳ 2026-06-23
+    - ⚽ Argentina: Messi 38', Messi 90'+5'
+- [x] 11:00-13:00 Jordan 1-2 Algeria ⏳ 2026-06-23 ✅ 2026-06-23
+    - ⚽ Jordan: Al-Rashdan 36'
+    - ⚽ Algeria: Benbouali 69', Gouiri 82'
 - [/] 01:00-03:00 Argentina 2-0 Austria ⏳ 2026-06-23
     - ⚽ Argentina: Messi 38', Messi 90'+5'
 - [/] 11:00-13:00 Jordan 1-2 Algeria ⏳ 2026-06-23
@@ -163,8 +173,10 @@
 - [x] 10:00-12:00 Uzbekistan 1-3 Colombia ⏳ 2026-06-18 ✅ 2026-06-18
     - ⚽ Uzbekistan: Fayzullaev 60'
     - ⚽ Colombia: Muñoz 40', Díaz 65', Campaz 90'+9'
-- [/] 01:00-03:00 Portugal vs Uzbekistan ⏳ 2026-06-24
-- [/] 10:00-12:00 Colombia vs DR Congo ⏳ 2026-06-24
+- [/] 01:00-03:00 Portugal 5-0 Uzbekistan ⏳ 2026-06-24
+    - ⚽ Portugal: Ronaldo 6', Mendes 17', Ronaldo 39', Nematov 60' (OG), Leão 87'
+- [/] 10:00-12:00 Colombia 1-0 DR Congo ⏳ 2026-06-24
+    - ⚽ Colombia: Muñoz 76'
 - [/] 07:30-09:30 Colombia vs Portugal ⏳ 2026-06-28
 - [ ] 07:30-09:30 DR Congo vs Uzbekistan ⏳ 2026-06-28
 
@@ -175,8 +187,9 @@
     - ⚽ Croatia: Baturina 36', Musa 45'+5'
 - [x] 07:00-09:00 Ghana 1-0 Panama ⏳ 2026-06-18
     - ⚽ Ghana: Yirenkyi 90'+5'
-- [/] 04:00-06:00 England vs Ghana ⏳ 2026-06-24
-- [ ] 07:00-09:00 Panama vs Croatia ⏳ 2026-06-24
+- [/] 04:00-06:00 England 0-0 Ghana ⏳ 2026-06-24
+- [x] 07:00-09:00 Panama 0-1 Croatia ⏳ 2026-06-24
+    - ⚽ Croatia: Budimir 54'
 - [/] 05:00-07:00 Panama vs England ⏳ 2026-06-28
 - [ ] 05:00-07:00 Croatia vs Ghana ⏳ 2026-06-28
 
