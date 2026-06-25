@@ -18,8 +18,10 @@
     - ⚽ South Africa: Mokoena 83' (P)
 - [x] 09:00-11:00 Mexico 1-0 South Korea ⏳ 2026-06-19 ✅ 2026-06-19
     - ⚽ Mexico: Romo 50'
-- [/] 09:00-11:00 Czech Republic vs Mexico ⏳ 2026-06-25
-- [ ] 09:00-11:00 South Africa vs South Korea ⏳ 2026-06-25
+- [x] 09:00-11:00 Czech Republic 0-3 Mexico ⏳ 2026-06-25
+    - ⚽ Mexico: Chávez 55', Quiñones 61', Fidalgo 90'+4'
+- [x] 09:00-11:00 South Africa 1-0 South Korea ⏳ 2026-06-25
+    - ⚽ South Africa: Maseko 63'
 
 ### Group B
 
@@ -34,8 +36,12 @@
     - ⚽ Bosnia and Herzegovina: Mahmic 90'+3'
 - [x] 06:00-08:00 Canada 6-0 Qatar ⏳ 2026-06-19
     - ⚽ Canada: Larin 16', David 29', David 45'+3', Saliba 64', Manai 75' (OG), David 90'+2'
-- [/] 03:00-05:00 Switzerland vs Canada ⏳ 2026-06-25
-- [ ] 03:00-05:00 Bosnia and Herzegovina vs Qatar ⏳ 2026-06-25
+- [/] 03:00-05:00 Switzerland 2-1 Canada ⏳ 2026-06-25
+    - ⚽ Switzerland: Vargas 46', Manzambi 57'
+    - ⚽ Canada: David 76'
+- [x] 03:00-05:00 Bosnia and Herzegovina 3-1 Qatar ⏳ 2026-06-25
+    - ⚽ Bosnia and Herzegovina: Alajbegovic 29', Abunada 34' (OG), Mahmic 80'
+    - ⚽ Qatar: Al-Haydos 42'
 
 ### Group C
 
@@ -48,8 +54,11 @@
     - ⚽ Morocco: Saibari 2'
 - [x] 08:30-10:30 Brazil 3-0 Haiti ⏳ 2026-06-20 ✅ 2026-06-20
     - ⚽ Brazil: Cunha 23', Cunha 36', Júnior 45'+3'
-- [/] 06:00-08:00 Scotland vs Brazil ⏳ 2026-06-25
-- [ ] 06:00-08:00 Morocco vs Haiti ⏳ 2026-06-25
+- [x] 06:00-08:00 Scotland 0-3 Brazil ⏳ 2026-06-25 ✅ 2026-06-25
+    - ⚽ Brazil: Júnior 7', Júnior 45'+3', Cunha 60'
+- [x] 06:00-08:00 Morocco 4-2 Haiti ⏳ 2026-06-25 ✅ 2026-06-25
+    - ⚽ Morocco: Hakimi 39', Saibari 45'+1', Rahimi 78', Yassine 89'
+    - ⚽ Haiti: Bounou 10' (OG), Isidor 43'
 
 ### Group D
 
@@ -58,7 +67,7 @@
     - ⚽ Paraguay: Maurício 73'
 - [x] 12:00-14:00 Australia 2-0 Turkey ⏳ 2026-06-14 ✅ 2026-06-14
     - ⚽ Australia: Irankunda 27', Metcalfe 75'
-- [/] 03:00-05:00 United States 2-0 Australia ⏳ 2026-06-20
+- [x] 03:00-05:00 United States 2-0 Australia ⏳ 2026-06-20
     - ⚽ United States: Burgess 11' (OG), Freeman 43'
 - [x] 11:00-13:00 Turkey 0-1 Paraguay ⏳ 2026-06-20 ✅ 2026-06-20
     - ⚽ Paraguay: Galarza 2'
@@ -116,7 +125,7 @@
 - [x] 06:00-08:00 Saudi Arabia 1-1 Uruguay ⏳ 2026-06-16 ✅ 2026-06-16
     - ⚽ Saudi Arabia: Al-Amri 41'
     - ⚽ Uruguay: Araújo 80'
-- [/] 00:00-02:00 Spain 4-0 Saudi Arabia ⏳ 2026-06-22
+- [x] 00:00-02:00 Spain 4-0 Saudi Arabia ⏳ 2026-06-22 ✅ 2026-06-23
     - ⚽ Spain: Yamal 10', Oyarzabal 21', Oyarzabal 24', Al-Tambakti 49' (OG)
 - [/] 06:00-08:00 Uruguay 2-2 Cape Verde ⏳ 2026-06-22
     - ⚽ Uruguay: Araújo 44', Canobbio 45'+6'
@@ -132,14 +141,9 @@
 - [x] 06:00-08:00 Iraq 1-4 Norway ⏳ 2026-06-17 ✅ 2026-06-19
     - ⚽ Iraq: Hussein 39'
     - ⚽ Norway: Haaland 29', Haaland 43', Østigard 76', Hussein 90'+6' (OG)
-- [/] 05:00-07:00 France 3-0 Iraq ⏳ 2026-06-23
+- [x] 05:00-07:00 France 3-0 Iraq ⏳ 2026-06-23 ✅ 2026-06-23
     - ⚽ France: Mbappé 14', Mbappé 54', Dembélé 66'
 - [x] 08:00-10:00 Norway 3-2 Senegal ⏳ 2026-06-23 ✅ 2026-06-23
-    - ⚽ Norway: Pedersen 43', Haaland 48', Haaland 58'
-    - ⚽ Senegal: Sarr 53', Sarr 90'+3'
-- [/] 05:00-07:00 France 3-0 Iraq ⏳ 2026-06-23
-    - ⚽ France: Mbappé 14', Mbappé 54', Dembélé 66'
-- [/] 08:00-10:00 Norway 3-2 Senegal ⏳ 2026-06-23
     - ⚽ Norway: Pedersen 43', Haaland 48', Haaland 58'
     - ⚽ Senegal: Sarr 53', Sarr 90'+3'
 - [/] 03:00-05:00 Norway vs France ⏳ 2026-06-27
@@ -152,14 +156,9 @@
 - [x] 12:00-14:00 Austria 3-1 Jordan ⏳ 2026-06-17 ✅ 2026-06-17
     - ⚽ Austria: Schmid 21', Al-Arab 76' (OG), Arnautovic 90'+12' (P)
     - ⚽ Jordan: Olwan 50'
-- [/] 01:00-03:00 Argentina 2-0 Austria ⏳ 2026-06-23
+- [x] 01:00-03:00 Argentina 2-0 Austria ⏳ 2026-06-23 ✅ 2026-06-23
     - ⚽ Argentina: Messi 38', Messi 90'+5'
 - [x] 11:00-13:00 Jordan 1-2 Algeria ⏳ 2026-06-23 ✅ 2026-06-23
-    - ⚽ Jordan: Al-Rashdan 36'
-    - ⚽ Algeria: Benbouali 69', Gouiri 82'
-- [/] 01:00-03:00 Argentina 2-0 Austria ⏳ 2026-06-23
-    - ⚽ Argentina: Messi 38', Messi 90'+5'
-- [/] 11:00-13:00 Jordan 1-2 Algeria ⏳ 2026-06-23
     - ⚽ Jordan: Al-Rashdan 36'
     - ⚽ Algeria: Benbouali 69', Gouiri 82'
 - [/] 10:00-12:00 Algeria vs Austria ⏳ 2026-06-28
@@ -173,9 +172,9 @@
 - [x] 10:00-12:00 Uzbekistan 1-3 Colombia ⏳ 2026-06-18 ✅ 2026-06-18
     - ⚽ Uzbekistan: Fayzullaev 60'
     - ⚽ Colombia: Muñoz 40', Díaz 65', Campaz 90'+9'
-- [/] 01:00-03:00 Portugal 5-0 Uzbekistan ⏳ 2026-06-24
+- [x] 01:00-03:00 Portugal 5-0 Uzbekistan ⏳ 2026-06-24 ✅ 2026-06-25
     - ⚽ Portugal: Ronaldo 6', Mendes 17', Ronaldo 39', Nematov 60' (OG), Leão 87'
-- [/] 10:00-12:00 Colombia 1-0 DR Congo ⏳ 2026-06-24
+- [x] 10:00-12:00 Colombia 1-0 DR Congo ⏳ 2026-06-24 ✅ 2026-06-24
     - ⚽ Colombia: Muñoz 76'
 - [/] 07:30-09:30 Colombia vs Portugal ⏳ 2026-06-28
 - [ ] 07:30-09:30 DR Congo vs Uzbekistan ⏳ 2026-06-28
@@ -187,7 +186,7 @@
     - ⚽ Croatia: Baturina 36', Musa 45'+5'
 - [x] 07:00-09:00 Ghana 1-0 Panama ⏳ 2026-06-18
     - ⚽ Ghana: Yirenkyi 90'+5'
-- [/] 04:00-06:00 England 0-0 Ghana ⏳ 2026-06-24
+- [x] 04:00-06:00 England 0-0 Ghana ⏳ 2026-06-24 ✅ 2026-06-24
 - [x] 07:00-09:00 Panama 0-1 Croatia ⏳ 2026-06-24
     - ⚽ Croatia: Budimir 54'
 - [/] 05:00-07:00 Panama vs England ⏳ 2026-06-28
@@ -197,7 +196,7 @@
 
 ## Round of 32
 
-- [ ] 03:00-05:00 Runner-up A vs Runner-up B ⏳ 2026-06-29
+- [x] 03:00-05:00 South Africa vs Canada ⏳ 2026-06-29
 - [ ] 01:00-03:00 Winner C vs Runner-up F ⏳ 2026-06-30
 - [ ] 04:30-06:30 Winner E vs 3rd A/B/C/D/F ⏳ 2026-06-30
 - [ ] 09:00-11:00 Winner F vs Runner-up C ⏳ 2026-06-30
