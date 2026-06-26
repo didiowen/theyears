@@ -36,7 +36,7 @@
     - ⚽ Bosnia and Herzegovina: Mahmic 90'+3'
 - [x] 06:00-08:00 Canada 6-0 Qatar ⏳ 2026-06-19
     - ⚽ Canada: Larin 16', David 29', David 45'+3', Saliba 64', Manai 75' (OG), David 90'+2'
-- [/] 03:00-05:00 Switzerland 2-1 Canada ⏳ 2026-06-25
+- [x] 03:00-05:00 Switzerland 2-1 Canada ⏳ 2026-06-25 ✅ 2026-06-25
     - ⚽ Switzerland: Vargas 46', Manzambi 57'
     - ⚽ Canada: David 76'
 - [x] 03:00-05:00 Bosnia and Herzegovina 3-1 Qatar ⏳ 2026-06-25
@@ -71,8 +71,10 @@
     - ⚽ United States: Burgess 11' (OG), Freeman 43'
 - [x] 11:00-13:00 Turkey 0-1 Paraguay ⏳ 2026-06-20 ✅ 2026-06-20
     - ⚽ Paraguay: Galarza 2'
-- [/] 10:00-12:00 Turkey vs United States ⏳ 2026-06-26
-- [ ] 10:00-12:00 Paraguay vs Australia ⏳ 2026-06-26
+- [/] 10:00-12:00 Turkey 3-2 United States ⏳ 2026-06-26
+    - ⚽ Turkey: Güler 10', Yilmaz 31', Ayhan 90'+8'
+    - ⚽ United States: Trusty 3', Berhalter 49'
+- [x] 10:00-12:00 Paraguay 0-0 Australia ⏳ 2026-06-26
 
 ### Group E
 
@@ -85,8 +87,11 @@
     - ⚽ Germany: Undav 68', Undav 90'+4'
     - ⚽ Ivory Coast: Kessié 30'
 - [x] 08:00-10:00 Ecuador 0-0 Curaçao ⏳ 2026-06-21
-- [ ] 04:00-06:00 Curaçao vs Ivory Coast ⏳ 2026-06-26
-- [/] 04:00-06:00 Ecuador vs Germany ⏳ 2026-06-26
+- [x] 04:00-06:00 Curaçao 0-2 Ivory Coast ⏳ 2026-06-26
+    - ⚽ Ivory Coast: Pépé 7', Pépé 64'
+- [/] 04:00-06:00 Ecuador 2-1 Germany ⏳ 2026-06-26
+    - ⚽ Ecuador: Angulo 9', Plata 77'
+    - ⚽ Germany: Sané 2'
 
 ### Group F
 
@@ -101,8 +106,12 @@
     - ⚽ Sweden: Elanga 59'
 - [x] 12:00-14:00 Tunisia 0-4 Japan ⏳ 2026-06-21 ✅ 2026-06-21
     - ⚽ Japan: Kamada 4', Ueda 31', Ito 69', Ueda 83'
-- [/] 07:00-09:00 Japan vs Sweden ⏳ 2026-06-26
-- [/] 07:00-09:00 Tunisia vs Netherlands ⏳ 2026-06-26
+- [x] 07:00-09:00 Japan 1-1 Sweden ⏳ 2026-06-26 ✅ 2026-06-26
+    - ⚽ Japan: Maeda 56'
+    - ⚽ Sweden: Elanga 62'
+- [x] 07:00-09:00 Tunisia 1-3 Netherlands ⏳ 2026-06-26 ✅ 2026-06-26
+    - ⚽ Tunisia: Mastouri 54'
+    - ⚽ Netherlands: Skhiri 3' (OG), Brobbey 7', Hecke 62'
 
 ### Group G
 
@@ -113,7 +122,7 @@
     - ⚽ Iran: Rezaeian 32', Mohebbi 64'
     - ⚽ New Zealand: Just 7', Just 54'
 - [x] 03:00-05:00 Belgium 0-0 Iran ⏳ 2026-06-22
-- [/] 09:00-11:00 New Zealand 1-3 Egypt ⏳ 2026-06-22
+- [x] 09:00-11:00 New Zealand 1-3 Egypt ⏳ 2026-06-22 ✅ 2026-06-25
     - ⚽ New Zealand: Surman 15'
     - ⚽ Egypt: Zico 58', Salah 67', Trézéguet 82'
 - [/] 11:00-13:00 Egypt vs Iran ⏳ 2026-06-27
@@ -127,7 +136,7 @@
     - ⚽ Uruguay: Araújo 80'
 - [x] 00:00-02:00 Spain 4-0 Saudi Arabia ⏳ 2026-06-22 ✅ 2026-06-23
     - ⚽ Spain: Yamal 10', Oyarzabal 21', Oyarzabal 24', Al-Tambakti 49' (OG)
-- [/] 06:00-08:00 Uruguay 2-2 Cape Verde ⏳ 2026-06-22
+- [x] 06:00-08:00 Uruguay 2-2 Cape Verde ⏳ 2026-06-22 ✅ 2026-06-25
     - ⚽ Uruguay: Araújo 44', Canobbio 45'+6'
     - ⚽ Cape Verde: Pina 21', Varela 61'
 - [ ] 08:00-10:00 Cape Verde vs Saudi Arabia ⏳ 2026-06-27
@@ -172,7 +181,7 @@
 - [x] 10:00-12:00 Uzbekistan 1-3 Colombia ⏳ 2026-06-18 ✅ 2026-06-18
     - ⚽ Uzbekistan: Fayzullaev 60'
     - ⚽ Colombia: Muñoz 40', Díaz 65', Campaz 90'+9'
-- [x] 01:00-03:00 Portugal 5-0 Uzbekistan ⏳ 2026-06-24 ✅ 2026-06-25
+- [x] 01:00-03:00 Portugal 5-0 Uzbekistan ⏳ 2026-06-24 ✅ 2026-06-24
     - ⚽ Portugal: Ronaldo 6', Mendes 17', Ronaldo 39', Nematov 60' (OG), Leão 87'
 - [x] 10:00-12:00 Colombia 1-0 DR Congo ⏳ 2026-06-24 ✅ 2026-06-24
     - ⚽ Colombia: Muñoz 76'
@@ -196,16 +205,16 @@
 
 ## Round of 32
 
-- [x] 03:00-05:00 South Africa vs Canada ⏳ 2026-06-29
-- [ ] 01:00-03:00 Winner C vs Runner-up F ⏳ 2026-06-30
+- [ ] 03:00-05:00 South Africa vs Canada ⏳ 2026-06-29
+- [x] 01:00-03:00 Brazil vs Japan ⏳ 2026-06-30
 - [ ] 04:30-06:30 Winner E vs 3rd A/B/C/D/F ⏳ 2026-06-30
-- [ ] 09:00-11:00 Winner F vs Runner-up C ⏳ 2026-06-30
+- [x] 09:00-11:00 Netherlands vs Morocco ⏳ 2026-06-30
 - [ ] 01:00-03:00 Runner-up E vs Runner-up I ⏳ 2026-07-01
 - [ ] 05:00-07:00 Winner I vs 3rd C/D/F/G/H ⏳ 2026-07-01
 - [ ] 09:00-11:00 Winner A vs 3rd C/E/F/H/I ⏳ 2026-07-01
 - [ ] 00:00-02:00 Winner L vs 3rd E/H/I/J/K ⏳ 2026-07-02
 - [ ] 04:00-06:00 Winner G vs 3rd A/E/H/I/J ⏳ 2026-07-02
-- [ ] 08:00-10:00 Winner D vs 3rd B/E/F/I/J ⏳ 2026-07-02
+- [x] 08:00-10:00 United States vs Bosnia and Herzegovina ⏳ 2026-07-02
 - [ ] 03:00-05:00 Winner H vs Runner-up J ⏳ 2026-07-03
 - [ ] 07:00-09:00 Runner-up K vs Runner-up L ⏳ 2026-07-03
 - [ ] 11:00-13:00 Winner B vs 3rd E/F/G/I/J ⏳ 2026-07-03
