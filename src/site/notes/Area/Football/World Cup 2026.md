@@ -23,6 +23,19 @@
 - [x] 09:00-11:00 South Africa 1-0 South Korea ⏳ 2026-06-25
     - ⚽ South Africa: Maseko 63'
 
+
+<!-- wc-standings:A start -->
+**Standings**
+
+| #   | Team            | Pld | W   | D   | L   | GF  | GA  | GD  | Pts |
+| --- | --------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | Mexico 🟢       | 3   | 3   | 0   | 0   | 6   | 0   | +6  | 9   |
+| 2   | South Africa 🟢 | 3   | 1   | 1   | 1   | 2   | 3   | -1  | 4   |
+| 3   | South Korea 🟡  | 3   | 1   | 0   | 2   | 2   | 3   | -1  | 3   |
+| 4   | Czech Republic  | 3   | 0   | 1   | 2   | 2   | 6   | -4  | 1   |
+
+<!-- wc-standings:A end -->
+
 ### Group B
 
 - [x] 03:00-05:00 Canada 1-1 Bosnia and Herzegovina ⏳ 2026-06-13
@@ -43,6 +56,19 @@
     - ⚽ Bosnia and Herzegovina: Alajbegovic 29', Abunada 34' (OG), Mahmic 80'
     - ⚽ Qatar: Al-Haydos 42'
 
+
+<!-- wc-standings:B start -->
+**Standings**
+
+| #   | Team                      | Pld | W   | D   | L   | GF  | GA  | GD  | Pts |
+| --- | ------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | Switzerland 🟢            | 3   | 2   | 1   | 0   | 7   | 3   | +4  | 7   |
+| 2   | Canada 🟢                 | 3   | 1   | 1   | 1   | 8   | 3   | +5  | 4   |
+| 3   | Bosnia and Herzegovina 🟡 | 3   | 1   | 1   | 1   | 5   | 6   | -1  | 4   |
+| 4   | Qatar                     | 3   | 0   | 1   | 2   | 2   | 10  | -8  | 1   |
+
+<!-- wc-standings:B end -->
+
 ### Group C
 
 - [x] 06:00-08:00 Brazil 1-1 Morocco ⏳ 2026-06-14 ✅ 2026-06-14
@@ -60,6 +86,19 @@
     - ⚽ Morocco: Hakimi 39', Saibari 45'+1', Rahimi 78', Yassine 89'
     - ⚽ Haiti: Bounou 10' (OG), Isidor 43'
 
+
+<!-- wc-standings:C start -->
+**Standings**
+
+| # | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|------|-----|---|---|---|----|----|----|-----|
+| 1 | Brazil 🟢 | 3 | 2 | 1 | 0 | 7 | 1 | +6 | 7 |
+| 2 | Morocco 🟢 | 3 | 2 | 1 | 0 | 6 | 3 | +3 | 7 |
+| 3 | Scotland 🟡 | 3 | 1 | 0 | 2 | 1 | 4 | -3 | 3 |
+| 4 | Haiti | 3 | 0 | 0 | 3 | 2 | 8 | -6 | 0 |
+
+<!-- wc-standings:C end -->
+
 ### Group D
 
 - [x] 09:00-11:00 United States 4-1 Paraguay ⏳ 2026-06-13 ✅ 2026-06-13
@@ -75,6 +114,19 @@
     - ⚽ Turkey: Güler 10', Yilmaz 31', Ayhan 90'+8'
     - ⚽ United States: Trusty 3', Berhalter 49'
 - [x] 10:00-12:00 Paraguay 0-0 Australia ⏳ 2026-06-26
+
+
+<!-- wc-standings:D start -->
+**Standings**
+
+| # | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|------|-----|---|---|---|----|----|----|-----|
+| 1 | United States 🟢 | 3 | 2 | 0 | 1 | 8 | 4 | +4 | 6 |
+| 2 | Australia 🟢 | 3 | 1 | 1 | 1 | 2 | 2 | +0 | 4 |
+| 3 | Paraguay 🟡 | 3 | 1 | 1 | 1 | 2 | 4 | -2 | 4 |
+| 4 | Turkey | 3 | 1 | 0 | 2 | 3 | 5 | -2 | 3 |
+
+<!-- wc-standings:D end -->
 
 ### Group E
 
@@ -92,6 +144,19 @@
 - [/] 04:00-06:00 Ecuador 2-1 Germany ⏳ 2026-06-26
     - ⚽ Ecuador: Angulo 9', Plata 77'
     - ⚽ Germany: Sané 2'
+
+
+<!-- wc-standings:E start -->
+**Standings**
+
+| # | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|------|-----|---|---|---|----|----|----|-----|
+| 1 | Germany 🟢 | 3 | 2 | 0 | 1 | 10 | 4 | +6 | 6 |
+| 2 | Ivory Coast 🟢 | 3 | 2 | 0 | 1 | 4 | 2 | +2 | 6 |
+| 3 | Ecuador 🟡 | 3 | 1 | 1 | 1 | 2 | 2 | +0 | 4 |
+| 4 | Curaçao | 3 | 0 | 1 | 2 | 1 | 9 | -8 | 1 |
+
+<!-- wc-standings:E end -->
 
 ### Group F
 
@@ -113,6 +178,19 @@
     - ⚽ Tunisia: Mastouri 54'
     - ⚽ Netherlands: Skhiri 3' (OG), Brobbey 7', Hecke 62'
 
+
+<!-- wc-standings:F start -->
+**Standings**
+
+| # | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|------|-----|---|---|---|----|----|----|-----|
+| 1 | Netherlands 🟢 | 3 | 2 | 1 | 0 | 10 | 4 | +6 | 7 |
+| 2 | Japan 🟢 | 3 | 1 | 2 | 0 | 7 | 3 | +4 | 5 |
+| 3 | Sweden 🟡 | 3 | 1 | 1 | 1 | 7 | 7 | +0 | 4 |
+| 4 | Tunisia | 3 | 0 | 0 | 3 | 2 | 12 | -10 | 0 |
+
+<!-- wc-standings:F end -->
+
 ### Group G
 
 - [x] 03:00-05:00 Belgium 1-1 Egypt ⏳ 2026-06-16 ✅ 2026-06-16
@@ -125,12 +203,25 @@
 - [x] 09:00-11:00 New Zealand 1-3 Egypt ⏳ 2026-06-22 ✅ 2026-06-25
     - ⚽ New Zealand: Surman 15'
     - ⚽ Egypt: Zico 58', Salah 67', Trézéguet 82'
-- [/] 11:00-13:00 Egypt 1-1 Iran ⏳ 2026-06-27
+- [x] 11:00-13:00 Egypt 1-1 Iran ⏳ 2026-06-27 ✅ 2026-06-27
     - ⚽ Egypt: Saber 5'
     - ⚽ Iran: Rezaeian 14'
-- [/] 11:00-13:00 New Zealand 1-5 Belgium ⏳ 2026-06-27
+- [x] 11:00-13:00 New Zealand 1-5 Belgium ⏳ 2026-06-27 ✅ 2026-06-27
     - ⚽ New Zealand: Just 84'
     - ⚽ Belgium: Trossard 28', Trossard 50', Bruyne 66', Lukaku 86', Saelemaekers 90'+4'
+
+
+<!-- wc-standings:G start -->
+**Standings**
+
+| #   | Team        | Pld | W   | D   | L   | GF  | GA  | GD  | Pts |
+| --- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | Belgium 🟢  | 3   | 1   | 2   | 0   | 6   | 2   | +4  | 5   |
+| 2   | Egypt 🟢    | 3   | 1   | 2   | 0   | 5   | 3   | +2  | 5   |
+| 3   | Iran 🟡     | 3   | 0   | 3   | 0   | 3   | 3   | +0  | 3   |
+| 4   | New Zealand | 3   | 0   | 1   | 2   | 4   | 10  | -6  | 1   |
+
+<!-- wc-standings:G end -->
 
 ### Group H
 
@@ -144,8 +235,21 @@
     - ⚽ Uruguay: Araújo 44', Canobbio 45'+6'
     - ⚽ Cape Verde: Pina 21', Varela 61'
 - [x] 08:00-10:00 Cape Verde 0-0 Saudi Arabia ⏳ 2026-06-27
-- [/] 08:00-10:00 Uruguay 0-1 Spain ⏳ 2026-06-27
+- [x] 08:00-10:00 Uruguay 0-1 Spain ⏳ 2026-06-27 ✅ 2026-06-27
     - ⚽ Spain: Baena 42'
+
+
+<!-- wc-standings:H start -->
+**Standings**
+
+| #   | Team          | Pld | W   | D   | L   | GF  | GA  | GD  | Pts |
+| --- | ------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | Spain 🟢      | 3   | 2   | 1   | 0   | 5   | 0   | +5  | 7   |
+| 2   | Cape Verde 🟢 | 3   | 0   | 3   | 0   | 2   | 2   | +0  | 3   |
+| 3   | Uruguay 🟡    | 3   | 0   | 2   | 1   | 3   | 4   | -1  | 2   |
+| 4   | Saudi Arabia  | 3   | 0   | 2   | 1   | 1   | 5   | -4  | 2   |
+
+<!-- wc-standings:H end -->
 
 ### Group I
 
@@ -165,6 +269,19 @@
     - ⚽ France: Dembélé 7', Dembélé 20', Dembélé 32', Doué 90'+4'
 - [x] 03:00-05:00 Senegal 5-0 Iraq ⏳ 2026-06-27
     - ⚽ Senegal: Diarra 4', Sarr 56', Gueye 59', Gueye 71', Ndiaye 82'
+
+
+<!-- wc-standings:I start -->
+**Standings**
+
+| # | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|------|-----|---|---|---|----|----|----|-----|
+| 1 | France 🟢 | 3 | 3 | 0 | 0 | 10 | 2 | +8 | 9 |
+| 2 | Norway 🟢 | 3 | 2 | 0 | 1 | 8 | 7 | +1 | 6 |
+| 3 | Senegal 🟡 | 3 | 1 | 0 | 2 | 8 | 6 | +2 | 3 |
+| 4 | Iraq | 3 | 0 | 0 | 3 | 1 | 12 | -11 | 0 |
+
+<!-- wc-standings:I end -->
 
 ### Group J
 
@@ -214,21 +331,21 @@
 ## Round of 32
 
 - [ ] 03:00-05:00 South Africa vs Canada ⏳ 2026-06-29
-- [x] 01:00-03:00 Brazil vs Japan ⏳ 2026-06-30
-- [x] 04:30-06:30 Germany vs Paraguay ⏳ 2026-06-30
-- [x] 09:00-11:00 Netherlands vs Morocco ⏳ 2026-06-30
-- [x] 01:00-03:00 Ivory Coast vs Norway ⏳ 2026-07-01
-- [x] 05:00-07:00 France vs Sweden ⏳ 2026-07-01
-- [ ] 09:00-11:00 Winner A vs 3rd C/E/F/H/I ⏳ 2026-07-01
-- [ ] 00:00-02:00 Winner L vs 3rd E/H/I/J/K ⏳ 2026-07-02
-- [ ] 04:00-06:00 Winner G vs 3rd A/E/H/I/J ⏳ 2026-07-02
-- [x] 08:00-10:00 United States vs Bosnia and Herzegovina ⏳ 2026-07-02
-- [ ] 03:00-05:00 Winner H vs Runner-up J ⏳ 2026-07-03
+- [/] 01:00-03:00 Brazil vs Japan ⏳ 2026-06-30
+- [/] 04:30-06:30 Germany vs Paraguay ⏳ 2026-06-30
+- [/] 09:00-11:00 Netherlands vs Morocco ⏳ 2026-06-30
+- [/] 01:00-03:00 Ivory Coast vs Norway ⏳ 2026-07-01
+- [/] 05:00-07:00 France vs Sweden ⏳ 2026-07-01
+- [ ] 09:00-11:00 Mexico vs 3rd C/E/F/H/I ⏳ 2026-07-01
+- [/] 00:00-02:00 Winner L vs 3rd E/H/I/J/K ⏳ 2026-07-02
+- [/] 04:00-06:00 Belgium vs 3rd A/E/H/I/J ⏳ 2026-07-02
+- [/] 08:00-10:00 United States vs Bosnia and Herzegovina ⏳ 2026-07-02
+- [/] 03:00-05:00 Spain vs Runner-up J ⏳ 2026-07-03
 - [ ] 07:00-09:00 Runner-up K vs Runner-up L ⏳ 2026-07-03
-- [ ] 11:00-13:00 Winner B vs 3rd E/F/G/I/J ⏳ 2026-07-03
-- [x] 02:00-04:00 Australia vs Egypt ⏳ 2026-07-04
-- [x] 06:00-08:00 Argentina vs Cape Verde ⏳ 2026-07-04
-- [ ] 09:30-11:30 Winner K vs 3rd D/E/I/J/L ⏳ 2026-07-04
+- [ ] 11:00-13:00 Switzerland vs 3rd E/F/G/I/J ⏳ 2026-07-03
+- [/] 02:00-04:00 Australia vs Egypt ⏳ 2026-07-04
+- [/] 06:00-08:00 Argentina vs Cape Verde ⏳ 2026-07-04
+- [/] 09:30-11:30 Winner K vs 3rd D/E/I/J/L ⏳ 2026-07-04
 
 ---
 
@@ -270,3 +387,74 @@
 ## Final
 
 - [ ] 03:00-05:00 Winner 101 vs Winner 102 ⏳ 2026-07-20
+
+<!-- wc-bracket start -->
+## Knockout Bracket
+
+```mermaid
+flowchart LR
+  M73["#73 South Africa vs Canada"]
+  M74["#74 Brazil vs Japan"]
+  M75["#75 Germany vs Paraguay"]
+  M76["#76 Netherlands vs Morocco"]
+  M77["#77 Ivory Coast vs Norway"]
+  M78["#78 France vs Sweden"]
+  M79["#79 Mexico vs 3rd C/E/F/H/I"]
+  M80["#80 Winner L vs 3rd E/H/I/J/K"]
+  M81["#81 Belgium vs 3rd A/E/H/I/J"]
+  M82["#82 United States vs Bosnia and Herzegovina"]
+  M83["#83 Spain vs Runner-up J"]
+  M84["#84 Runner-up K vs Runner-up L"]
+  M85["#85 Switzerland vs 3rd E/F/G/I/J"]
+  M86["#86 Australia vs Egypt"]
+  M87["#87 Argentina vs Cape Verde"]
+  M88["#88 Winner K vs 3rd D/E/I/J/L"]
+  M89["#89 Winner 73 vs Winner 75"]
+  M90["#90 Winner 74 vs Winner 77"]
+  M91["#91 Winner 76 vs Winner 78"]
+  M92["#92 Winner 79 vs Winner 80"]
+  M93["#93 Winner 83 vs Winner 84"]
+  M94["#94 Winner 81 vs Winner 82"]
+  M95["#95 Winner 86 vs Winner 88"]
+  M96["#96 Winner 85 vs Winner 87"]
+  M97["#97 Winner 89 vs Winner 90"]
+  M98["#98 Winner 93 vs Winner 94"]
+  M99["#99 Winner 91 vs Winner 92"]
+  M100["#100 Winner 95 vs Winner 96"]
+  M101["#101 Winner 97 vs Winner 98"]
+  M102["#102 Winner 99 vs Winner 100"]
+  M104["🏆 #104 Winner 101 vs Winner 102"]
+  M73 --> M89
+  M75 --> M89
+  M74 --> M90
+  M77 --> M90
+  M76 --> M91
+  M78 --> M91
+  M79 --> M92
+  M80 --> M92
+  M83 --> M93
+  M84 --> M93
+  M81 --> M94
+  M82 --> M94
+  M86 --> M95
+  M88 --> M95
+  M85 --> M96
+  M87 --> M96
+  M89 --> M97
+  M90 --> M97
+  M93 --> M98
+  M94 --> M98
+  M91 --> M99
+  M92 --> M99
+  M95 --> M100
+  M96 --> M100
+  M97 --> M101
+  M98 --> M101
+  M99 --> M102
+  M100 --> M102
+  M101 --> M104
+  M102 --> M104
+```
+
+_Auto-generated from the knockout fixtures above; each node updates as its match name resolves. `3rd …` slots resolve once the eight best third-placed teams are confirmed. Third-place play-off (#103) omitted._
+<!-- wc-bracket end -->
