@@ -71,7 +71,7 @@
     - ⚽ United States: Burgess 11' (OG), Freeman 43'
 - [x] 11:00-13:00 Turkey 0-1 Paraguay ⏳ 2026-06-20 ✅ 2026-06-20
     - ⚽ Paraguay: Galarza 2'
-- [/] 10:00-12:00 Turkey 3-2 United States ⏳ 2026-06-26
+- [x] 10:00-12:00 Turkey 3-2 United States ⏳ 2026-06-26 ✅ 2026-06-26
     - ⚽ Turkey: Güler 10', Yilmaz 31', Ayhan 90'+8'
     - ⚽ United States: Trusty 3', Berhalter 49'
 - [x] 10:00-12:00 Paraguay 0-0 Australia ⏳ 2026-06-26
@@ -125,8 +125,12 @@
 - [x] 09:00-11:00 New Zealand 1-3 Egypt ⏳ 2026-06-22 ✅ 2026-06-25
     - ⚽ New Zealand: Surman 15'
     - ⚽ Egypt: Zico 58', Salah 67', Trézéguet 82'
-- [/] 11:00-13:00 Egypt vs Iran ⏳ 2026-06-27
-- [/] 11:00-13:00 New Zealand vs Belgium ⏳ 2026-06-27
+- [/] 11:00-13:00 Egypt 1-1 Iran ⏳ 2026-06-27
+    - ⚽ Egypt: Saber 5'
+    - ⚽ Iran: Rezaeian 14'
+- [/] 11:00-13:00 New Zealand 1-5 Belgium ⏳ 2026-06-27
+    - ⚽ New Zealand: Just 84'
+    - ⚽ Belgium: Trossard 28', Trossard 50', Bruyne 66', Lukaku 86', Saelemaekers 90'+4'
 
 ### Group H
 
@@ -139,8 +143,9 @@
 - [x] 06:00-08:00 Uruguay 2-2 Cape Verde ⏳ 2026-06-22 ✅ 2026-06-25
     - ⚽ Uruguay: Araújo 44', Canobbio 45'+6'
     - ⚽ Cape Verde: Pina 21', Varela 61'
-- [ ] 08:00-10:00 Cape Verde vs Saudi Arabia ⏳ 2026-06-27
-- [/] 08:00-10:00 Uruguay vs Spain ⏳ 2026-06-27
+- [x] 08:00-10:00 Cape Verde 0-0 Saudi Arabia ⏳ 2026-06-27
+- [/] 08:00-10:00 Uruguay 0-1 Spain ⏳ 2026-06-27
+    - ⚽ Spain: Baena 42'
 
 ### Group I
 
@@ -155,8 +160,11 @@
 - [x] 08:00-10:00 Norway 3-2 Senegal ⏳ 2026-06-23 ✅ 2026-06-23
     - ⚽ Norway: Pedersen 43', Haaland 48', Haaland 58'
     - ⚽ Senegal: Sarr 53', Sarr 90'+3'
-- [/] 03:00-05:00 Norway vs France ⏳ 2026-06-27
-- [ ] 03:00-05:00 Senegal vs Iraq ⏳ 2026-06-27
+- [/] 03:00-05:00 Norway 1-4 France ⏳ 2026-06-27
+    - ⚽ Norway: Aasgaard 21'
+    - ⚽ France: Dembélé 7', Dembélé 20', Dembélé 32', Doué 90'+4'
+- [x] 03:00-05:00 Senegal 5-0 Iraq ⏳ 2026-06-27
+    - ⚽ Senegal: Diarra 4', Sarr 56', Gueye 59', Gueye 71', Ndiaye 82'
 
 ### Group J
 
@@ -207,10 +215,10 @@
 
 - [ ] 03:00-05:00 South Africa vs Canada ⏳ 2026-06-29
 - [x] 01:00-03:00 Brazil vs Japan ⏳ 2026-06-30
-- [ ] 04:30-06:30 Winner E vs 3rd A/B/C/D/F ⏳ 2026-06-30
+- [x] 04:30-06:30 Germany vs Paraguay ⏳ 2026-06-30
 - [x] 09:00-11:00 Netherlands vs Morocco ⏳ 2026-06-30
-- [ ] 01:00-03:00 Runner-up E vs Runner-up I ⏳ 2026-07-01
-- [ ] 05:00-07:00 Winner I vs 3rd C/D/F/G/H ⏳ 2026-07-01
+- [x] 01:00-03:00 Ivory Coast vs Norway ⏳ 2026-07-01
+- [x] 05:00-07:00 France vs Sweden ⏳ 2026-07-01
 - [ ] 09:00-11:00 Winner A vs 3rd C/E/F/H/I ⏳ 2026-07-01
 - [ ] 00:00-02:00 Winner L vs 3rd E/H/I/J/K ⏳ 2026-07-02
 - [ ] 04:00-06:00 Winner G vs 3rd A/E/H/I/J ⏳ 2026-07-02
@@ -218,8 +226,8 @@
 - [ ] 03:00-05:00 Winner H vs Runner-up J ⏳ 2026-07-03
 - [ ] 07:00-09:00 Runner-up K vs Runner-up L ⏳ 2026-07-03
 - [ ] 11:00-13:00 Winner B vs 3rd E/F/G/I/J ⏳ 2026-07-03
-- [ ] 02:00-04:00 Runner-up D vs Runner-up G ⏳ 2026-07-04
-- [ ] 06:00-08:00 Winner J vs Runner-up H ⏳ 2026-07-04
+- [x] 02:00-04:00 Australia vs Egypt ⏳ 2026-07-04
+- [x] 06:00-08:00 Argentina vs Cape Verde ⏳ 2026-07-04
 - [ ] 09:30-11:30 Winner K vs 3rd D/E/I/J/L ⏳ 2026-07-04
 
 ---
