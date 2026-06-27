@@ -328,6 +328,26 @@
 
 ---
 
+
+<!-- wc-thirds start -->
+### Best Third-Placed Teams
+
+_暫定排名（9/12 組完賽）；全 12 組打完才定 8 強晉級。_
+
+| # | Grp | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|-----|------|-----|---|---|---|----|----|----|-----|
+| 1 | F | Sweden | 3 | 1 | 1 | 1 | 7 | 7 | +0 | 4 |
+| 2 | E | Ecuador | 3 | 1 | 1 | 1 | 2 | 2 | +0 | 4 |
+| 3 | B | Bosnia and Herzegovina | 3 | 1 | 1 | 1 | 5 | 6 | -1 | 4 |
+| 4 | D | Paraguay | 3 | 1 | 1 | 1 | 2 | 4 | -2 | 4 |
+| 5 | I | Senegal | 3 | 1 | 0 | 2 | 8 | 6 | +2 | 3 |
+| 6 | G | Iran | 3 | 0 | 3 | 0 | 3 | 3 | +0 | 3 |
+| 7 | A | South Korea | 3 | 1 | 0 | 2 | 2 | 3 | -1 | 3 |
+| 8 | C | Scotland | 3 | 1 | 0 | 2 | 1 | 4 | -3 | 3 |
+| 9 | H | Uruguay | 3 | 0 | 2 | 1 | 3 | 4 | -1 | 2 |
+
+<!-- wc-thirds end -->
+
 ## Round of 32
 
 - [ ] 03:00-05:00 South Africa vs Canada ⏳ 2026-06-29
