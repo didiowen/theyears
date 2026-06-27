@@ -13,6 +13,8 @@ A garden of notes on what I read, watch, and study.
 - [[Area/Football/BVB-wc2026\|BVB Players at World Cup 2026]]
 - [[Area/Football/ENG-wc2026\|England Players at World Cup 2026]]
 - [[Area/Football/維德角 vs 庫拉索\|維德角 vs 庫拉索]]
+- [[Area/Football/World Cup 2026 How Cape Verde made history on their tournament debut\|World Cup 2026 How Cape Verde made history on their tournament debut]]
+- [[Area/Football/World Cup 2026 Why are the underdogs doing so well?\|World Cup 2026 Why are the underdogs doing so well?]]
 
 ## Books
 - [[Effort/Themes\|Themes]]

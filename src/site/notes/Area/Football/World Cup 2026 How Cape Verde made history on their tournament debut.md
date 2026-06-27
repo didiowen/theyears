@@ -44,10 +44,6 @@ The recruitment of Dublin-born centre-back Roberto Lopes [via business networkin
 
 "It's not something that's just been fabricated out of nothing. Since I've been involved, and before that, there's been an ongoing plan to get Cape Verde up at the big table with the big football nations of the world."
 
-![cc0c703cbbb675e1359303d1718d0e78_MD5.webp](/img/user/X/attachments/cc0c703cbbb675e1359303d1718d0e78_MD5.webp)
-
-Cape Verde fans celebrate
-
 ## Coaching stability - 'strength, unity, resilience'
 
 Much credit for Cape Verde's performances must go to coach Bubista, a former international himself who has been in charge since January 2020.
@@ -141,10 +137,6 @@ BBC Radio 5 Live 駐休士頓球評 Rob Law 描述：「看台上滿是驕傲與
 Lopes 說：「這支隊伍內在有一股自信，相信自己夠格跟世界頂尖球隊周旋。」
 
 「這不是無中生有的東西。從我加入之前到現在，一直都有個計畫，要把維德角帶到跟世界足球大國同桌的位置。」
-
-![cc0c703cbbb675e1359303d1718d0e78_MD5.webp](/img/user/X/attachments/cc0c703cbbb675e1359303d1718d0e78_MD5.webp)
-
-維德角球迷慶祝中
 
 ## 教練班底穩定：「力量、團結、韌性」
 

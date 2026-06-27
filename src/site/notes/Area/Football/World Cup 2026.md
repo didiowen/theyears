@@ -362,7 +362,7 @@ _暫定排名（9/12 組完賽）；全 12 組打完才定 8 強晉級。_
 - [/] 08:00-10:00 United States vs Bosnia and Herzegovina ⏳ 2026-07-02
 - [/] 03:00-05:00 Spain vs Runner-up J ⏳ 2026-07-03
 - [ ] 07:00-09:00 Runner-up K vs Runner-up L ⏳ 2026-07-03
-- [ ] 11:00-13:00 Switzerland vs 3rd E/F/G/I/J ⏳ 2026-07-03
+- [/] 11:00-13:00 Switzerland vs 3rd E/F/G/I/J ⏳ 2026-07-03
 - [/] 02:00-04:00 Australia vs Egypt ⏳ 2026-07-04
 - [/] 06:00-08:00 Argentina vs Cape Verde ⏳ 2026-07-04
 - [/] 09:30-11:30 Winner K vs 3rd D/E/I/J/L ⏳ 2026-07-04
