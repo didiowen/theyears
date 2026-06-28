@@ -295,8 +295,25 @@
 - [x] 11:00-13:00 Jordan 1-2 Algeria ⏳ 2026-06-23 ✅ 2026-06-23
     - ⚽ Jordan: Al-Rashdan 36'
     - ⚽ Algeria: Benbouali 69', Gouiri 82'
-- [/] 10:00-12:00 Algeria vs Austria ⏳ 2026-06-28
-- [/] 10:00-12:00 Jordan vs Argentina ⏳ 2026-06-28
+- [/] 10:00-12:00 Algeria 3-3 Austria ⏳ 2026-06-28
+    - ⚽ Algeria: Belghali 45', Mahrez 60', Mahrez 90'+3'
+    - ⚽ Austria: Arnautovic 28', Sabitzer 55', Kalajdzic 90'+6'
+- [/] 10:00-12:00 Jordan 1-3 Argentina ⏳ 2026-06-28
+    - ⚽ Jordan: Al-Tamari 55'
+    - ⚽ Argentina: Celso 19', Martínez 31' (P), Messi 80'
+
+
+<!-- wc-standings:J start -->
+**Standings**
+
+| # | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|------|-----|---|---|---|----|----|----|-----|
+| 1 | Argentina 🟢 | 3 | 3 | 0 | 0 | 8 | 1 | +7 | 9 |
+| 2 | Austria 🟢 | 3 | 1 | 1 | 1 | 6 | 6 | +0 | 4 |
+| 3 | Algeria 🟡 | 3 | 1 | 1 | 1 | 5 | 7 | -2 | 4 |
+| 4 | Jordan | 3 | 0 | 0 | 3 | 3 | 8 | -5 | 0 |
+
+<!-- wc-standings:J end -->
 
 ### Group K
 
@@ -310,8 +327,23 @@
     - ⚽ Portugal: Ronaldo 6', Mendes 17', Ronaldo 39', Nematov 60' (OG), Leão 87'
 - [x] 10:00-12:00 Colombia 1-0 DR Congo ⏳ 2026-06-24 ✅ 2026-06-24
     - ⚽ Colombia: Muñoz 76'
-- [/] 07:30-09:30 Colombia vs Portugal ⏳ 2026-06-28
-- [ ] 07:30-09:30 DR Congo vs Uzbekistan ⏳ 2026-06-28
+- [/] 07:30-09:30 Colombia 0-0 Portugal ⏳ 2026-06-28
+- [x] 07:30-09:30 DR Congo 3-1 Uzbekistan ⏳ 2026-06-28
+    - ⚽ DR Congo: Wissa 68' (P), Mayele 78', Wissa 90'+1'
+    - ⚽ Uzbekistan: Shomurodov 10'
+
+
+<!-- wc-standings:K start -->
+**Standings**
+
+| # | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|------|-----|---|---|---|----|----|----|-----|
+| 1 | Colombia 🟢 | 3 | 2 | 1 | 0 | 4 | 1 | +3 | 7 |
+| 2 | Portugal 🟢 | 3 | 1 | 2 | 0 | 6 | 1 | +5 | 5 |
+| 3 | DR Congo 🟡 | 3 | 1 | 1 | 1 | 4 | 3 | +1 | 4 |
+| 4 | Uzbekistan | 3 | 0 | 0 | 3 | 2 | 11 | -9 | 0 |
+
+<!-- wc-standings:K end -->
 
 ### Group L
 
@@ -323,8 +355,24 @@
 - [x] 04:00-06:00 England 0-0 Ghana ⏳ 2026-06-24 ✅ 2026-06-24
 - [x] 07:00-09:00 Panama 0-1 Croatia ⏳ 2026-06-24
     - ⚽ Croatia: Budimir 54'
-- [/] 05:00-07:00 Panama vs England ⏳ 2026-06-28
-- [ ] 05:00-07:00 Croatia vs Ghana ⏳ 2026-06-28
+- [/] 05:00-07:00 Panama 0-2 England ⏳ 2026-06-28
+    - ⚽ England: Bellingham 62', Kane 67'
+- [x] 05:00-07:00 Croatia 2-1 Ghana ⏳ 2026-06-28
+    - ⚽ Croatia: Sucic 31', Vlasic 83'
+    - ⚽ Ghana: Luckassen 73'
+
+
+<!-- wc-standings:L start -->
+**Standings**
+
+| # | Team | Pld | W | D | L | GF | GA | GD | Pts |
+|---|------|-----|---|---|---|----|----|----|-----|
+| 1 | England 🟢 | 3 | 2 | 1 | 0 | 6 | 2 | +4 | 7 |
+| 2 | Croatia 🟢 | 3 | 2 | 0 | 1 | 5 | 5 | +0 | 6 |
+| 3 | Ghana 🟡 | 3 | 1 | 1 | 1 | 2 | 2 | +0 | 4 |
+| 4 | Panama | 3 | 0 | 0 | 3 | 0 | 4 | -4 | 0 |
+
+<!-- wc-standings:L end -->
 
 ---
 
@@ -332,19 +380,22 @@
 <!-- wc-thirds start -->
 ### Best Third-Placed Teams
 
-_暫定排名（9/12 組完賽）；全 12 組打完才定 8 強晉級。_
+_12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 晉級。_
 
 | # | Grp | Team | Pld | W | D | L | GF | GA | GD | Pts |
 |---|-----|------|-----|---|---|---|----|----|----|-----|
-| 1 | F | Sweden | 3 | 1 | 1 | 1 | 7 | 7 | +0 | 4 |
-| 2 | E | Ecuador | 3 | 1 | 1 | 1 | 2 | 2 | +0 | 4 |
-| 3 | B | Bosnia and Herzegovina | 3 | 1 | 1 | 1 | 5 | 6 | -1 | 4 |
-| 4 | D | Paraguay | 3 | 1 | 1 | 1 | 2 | 4 | -2 | 4 |
-| 5 | I | Senegal | 3 | 1 | 0 | 2 | 8 | 6 | +2 | 3 |
-| 6 | G | Iran | 3 | 0 | 3 | 0 | 3 | 3 | +0 | 3 |
-| 7 | A | South Korea | 3 | 1 | 0 | 2 | 2 | 3 | -1 | 3 |
-| 8 | C | Scotland | 3 | 1 | 0 | 2 | 1 | 4 | -3 | 3 |
-| 9 | H | Uruguay | 3 | 0 | 2 | 1 | 3 | 4 | -1 | 2 |
+| 1 | K | DR Congo 🟢 | 3 | 1 | 1 | 1 | 4 | 3 | +1 | 4 |
+| 2 | F | Sweden 🟢 | 3 | 1 | 1 | 1 | 7 | 7 | +0 | 4 |
+| 3 | E | Ecuador 🟢 | 3 | 1 | 1 | 1 | 2 | 2 | +0 | 4 |
+| 4 | L | Ghana 🟢 | 3 | 1 | 1 | 1 | 2 | 2 | +0 | 4 |
+| 5 | B | Bosnia and Herzegovina 🟢 | 3 | 1 | 1 | 1 | 5 | 6 | -1 | 4 |
+| 6 | J | Algeria 🟢 | 3 | 1 | 1 | 1 | 5 | 7 | -2 | 4 |
+| 7 | D | Paraguay 🟢 | 3 | 1 | 1 | 1 | 2 | 4 | -2 | 4 |
+| 8 | I | Senegal 🟢 | 3 | 1 | 0 | 2 | 8 | 6 | +2 | 3 |
+| 9 | G | Iran | 3 | 0 | 3 | 0 | 3 | 3 | +0 | 3 |
+| 10 | A | South Korea | 3 | 1 | 0 | 2 | 2 | 3 | -1 | 3 |
+| 11 | C | Scotland | 3 | 1 | 0 | 2 | 1 | 4 | -3 | 3 |
+| 12 | H | Uruguay | 3 | 0 | 2 | 1 | 3 | 4 | -1 | 2 |
 
 <!-- wc-thirds end -->
 
@@ -356,16 +407,16 @@ _暫定排名（9/12 組完賽）；全 12 組打完才定 8 強晉級。_
 - [/] 09:00-11:00 Netherlands vs Morocco ⏳ 2026-06-30
 - [/] 01:00-03:00 Ivory Coast vs Norway ⏳ 2026-07-01
 - [/] 05:00-07:00 France vs Sweden ⏳ 2026-07-01
-- [ ] 09:00-11:00 Mexico vs 3rd C/E/F/H/I ⏳ 2026-07-01
-- [/] 00:00-02:00 Winner L vs 3rd E/H/I/J/K ⏳ 2026-07-02
-- [/] 04:00-06:00 Belgium vs 3rd A/E/H/I/J ⏳ 2026-07-02
+- [ ] 09:00-11:00 Mexico vs Ecuador ⏳ 2026-07-01
+- [/] 00:00-02:00 England vs DR Congo ⏳ 2026-07-02
+- [/] 04:00-06:00 Belgium vs Senegal ⏳ 2026-07-02
 - [/] 08:00-10:00 United States vs Bosnia and Herzegovina ⏳ 2026-07-02
-- [/] 03:00-05:00 Spain vs Runner-up J ⏳ 2026-07-03
-- [ ] 07:00-09:00 Runner-up K vs Runner-up L ⏳ 2026-07-03
-- [/] 11:00-13:00 Switzerland vs 3rd E/F/G/I/J ⏳ 2026-07-03
+- [/] 03:00-05:00 Spain vs Austria ⏳ 2026-07-03
+- [ ] 07:00-09:00 Portugal vs Croatia ⏳ 2026-07-03
+- [/] 11:00-13:00 Switzerland vs Algeria ⏳ 2026-07-03
 - [/] 02:00-04:00 Australia vs Egypt ⏳ 2026-07-04
 - [/] 06:00-08:00 Argentina vs Cape Verde ⏳ 2026-07-04
-- [/] 09:30-11:30 Winner K vs 3rd D/E/I/J/L ⏳ 2026-07-04
+- [/] 09:30-11:30 Colombia vs Ghana ⏳ 2026-07-04
 
 ---
 
@@ -419,16 +470,16 @@ flowchart LR
   M76["#76 Netherlands vs Morocco"]
   M77["#77 Ivory Coast vs Norway"]
   M78["#78 France vs Sweden"]
-  M79["#79 Mexico vs 3rd C/E/F/H/I"]
-  M80["#80 Winner L vs 3rd E/H/I/J/K"]
-  M81["#81 Belgium vs 3rd A/E/H/I/J"]
+  M79["#79 Mexico vs Ecuador"]
+  M80["#80 England vs DR Congo"]
+  M81["#81 Belgium vs Senegal"]
   M82["#82 United States vs Bosnia and Herzegovina"]
-  M83["#83 Spain vs Runner-up J"]
-  M84["#84 Runner-up K vs Runner-up L"]
-  M85["#85 Switzerland vs 3rd E/F/G/I/J"]
+  M83["#83 Spain vs Austria"]
+  M84["#84 Portugal vs Croatia"]
+  M85["#85 Switzerland vs Algeria"]
   M86["#86 Australia vs Egypt"]
   M87["#87 Argentina vs Cape Verde"]
-  M88["#88 Winner K vs 3rd D/E/I/J/L"]
+  M88["#88 Colombia vs Ghana"]
   M89["#89 Winner 73 vs Winner 75"]
   M90["#90 Winner 74 vs Winner 77"]
   M91["#91 Winner 76 vs Winner 78"]
