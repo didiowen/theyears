@@ -141,7 +141,7 @@
 - [x] 08:00-10:00 Ecuador 0-0 Curaçao ⏳ 2026-06-21
 - [x] 04:00-06:00 Curaçao 0-2 Ivory Coast ⏳ 2026-06-26
     - ⚽ Ivory Coast: Pépé 7', Pépé 64'
-- [/] 04:00-06:00 Ecuador 2-1 Germany ⏳ 2026-06-26
+- [x] 04:00-06:00 Ecuador 2-1 Germany ⏳ 2026-06-26 ✅ 2026-06-27
     - ⚽ Ecuador: Angulo 9', Plata 77'
     - ⚽ Germany: Sané 2'
 
@@ -264,7 +264,7 @@
 - [x] 08:00-10:00 Norway 3-2 Senegal ⏳ 2026-06-23 ✅ 2026-06-23
     - ⚽ Norway: Pedersen 43', Haaland 48', Haaland 58'
     - ⚽ Senegal: Sarr 53', Sarr 90'+3'
-- [/] 03:00-05:00 Norway 1-4 France ⏳ 2026-06-27
+- [x] 03:00-05:00 Norway 1-4 France ⏳ 2026-06-27 ✅ 2026-06-27
     - ⚽ Norway: Aasgaard 21'
     - ⚽ France: Dembélé 7', Dembélé 20', Dembélé 32', Doué 90'+4'
 - [x] 03:00-05:00 Senegal 5-0 Iraq ⏳ 2026-06-27
