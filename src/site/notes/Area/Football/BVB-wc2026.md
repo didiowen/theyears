@@ -161,6 +161,15 @@
 ---
 
 ## Tracker
+### 2026-06-30
+
+- Achraf Hakimi（先發）｜— 第 100 場摩洛哥生涯里程碑兼隊長，右路全開：xG 0.23 xA 0.27、射 3、創造 3、準傳 93 觸球 131 全隊最高，攻防兩端都壓制荷蘭，賽後盛讚球隊鬥志([Africa Soccer](https://africasoccer.com/world-cup-2026-captain-achraf-hakimi-hails-moroccos-fighting-spirit-after-heroic-comeback-win-over-netherlands/))。
+  - 📊 Opta 評分 8.03｜xG 0.23 xA 0.27｜射 3(中1)｜創造 3｜準傳 93 觸球 131｜攔3 回收3
+- Waldemar Anton（替補）｜— 替補上場仍有貢獻，1 射中目標（xG 0.19）外加 1 次創造，準傳 25 觸球 38，介入感不錯。
+  - 📊 Opta 評分 6.67｜xG 0.19 xA 0.02｜射 1(中1)｜創造 1｜準傳 25 觸球 38｜攔1 回收1
+- Felix Nmecha（先發）｜— 觸球僅 26、準傳 9，存在感最低的一位，德國中場他這側未能串聯，提早被換下。
+  - 📊 Opta 評分 6.33｜xA 0.01｜準傳 9 觸球 26｜回收2
+
 ### 2026-06-28
 
 - Marcel Sabitzer（先發）｜⚽️ 55' — 在 3-3 的瘋狂大戰中，接 Seiwald 回敲於 18 碼外第一時間抽射破門，一度讓奧地利超前；球隊最終驚險晉級。（Sky Sports）

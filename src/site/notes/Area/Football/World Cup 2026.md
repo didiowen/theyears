@@ -472,9 +472,9 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 ```mermaid
 flowchart LR
   M73["#73 South Africa 0-1 Canada"]
-  M74["#74 Brazil vs Japan"]
-  M75["#75 Germany vs Paraguay"]
-  M76["#76 Netherlands vs Morocco"]
+  M74["#74 Brazil 2-1 Japan"]
+  M75["#75 Germany 1-1 Paraguay"]
+  M76["#76 Netherlands 1-1 Morocco"]
   M77["#77 Ivory Coast vs Norway"]
   M78["#78 France vs Sweden"]
   M79["#79 Mexico vs Ecuador"]
@@ -487,7 +487,7 @@ flowchart LR
   M86["#86 Australia vs Egypt"]
   M87["#87 Argentina vs Cape Verde"]
   M88["#88 Colombia vs Ghana"]
-  M89["#89 Winner 75 vs Winner 78"]
+  M89["#89 Canada vs Morocco"]
   M90["#90 Winner 73 vs Winner 76"]
   M91["#91 Winner 74 vs Winner 77"]
   M92["#92 Winner 79 vs Winner 80"]
