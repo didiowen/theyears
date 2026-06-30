@@ -403,9 +403,15 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 - [x] 03:00-05:00 South Africa 0-1 Canada ⏳ 2026-06-29
     - ⚽ Canada: Eustáquio 90'+2'
-- [ ] 01:00-03:00 Brazil vs Japan ⏳ 2026-06-30
-- [/] 04:30-06:30 Germany vs Paraguay ⏳ 2026-06-30
-- [/] 09:00-11:00 Netherlands vs Morocco ⏳ 2026-06-30
+- [x] 01:00-03:00 Brazil 2-1 Japan ⏳ 2026-06-30
+    - ⚽ Brazil: Casemiro 56', Martinelli 90'+5'
+    - ⚽ Japan: Sano 29'
+- [/] 04:30-06:30 Germany 1-1 Paraguay ⏳ 2026-06-30
+    - ⚽ Germany: Havertz 54'
+    - ⚽ Paraguay: Enciso 42'
+- [/] 09:00-11:00 Netherlands 1-1 Morocco ⏳ 2026-06-30
+    - ⚽ Netherlands: Gakpo 72'
+    - ⚽ Morocco: Diop 90'+1'
 - [ ] 01:00-03:00 Ivory Coast vs Norway ⏳ 2026-07-01
 - [/] 05:00-07:00 France vs Sweden ⏳ 2026-07-01
 - [ ] 09:00-11:00 Mexico vs Ecuador ⏳ 2026-07-01
@@ -423,9 +429,9 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ## Round of 16
 
-- [ ] 01:00-03:00 Winner 73 vs Winner 75 ⏳ 2026-07-05
-- [ ] 05:00-07:00 Winner 74 vs Winner 77 ⏳ 2026-07-05
-- [ ] 04:00-06:00 Winner 76 vs Winner 78 ⏳ 2026-07-06
+- [ ] 01:00-03:00 Canada vs Morocco ⏳ 2026-07-05
+- [ ] 05:00-07:00 Winner 73 vs Winner 76 ⏳ 2026-07-05
+- [ ] 04:00-06:00 Winner 74 vs Winner 77 ⏳ 2026-07-06
 - [ ] 08:00-10:00 Winner 79 vs Winner 80 ⏳ 2026-07-06
 - [ ] 03:00-05:00 Winner 83 vs Winner 84 ⏳ 2026-07-07
 - [ ] 08:00-10:00 Winner 81 vs Winner 82 ⏳ 2026-07-07
@@ -465,7 +471,7 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ```mermaid
 flowchart LR
-  M73["#73 South Africa vs Canada"]
+  M73["#73 South Africa 0-1 Canada"]
   M74["#74 Brazil vs Japan"]
   M75["#75 Germany vs Paraguay"]
   M76["#76 Netherlands vs Morocco"]
@@ -481,9 +487,9 @@ flowchart LR
   M86["#86 Australia vs Egypt"]
   M87["#87 Argentina vs Cape Verde"]
   M88["#88 Colombia vs Ghana"]
-  M89["#89 Winner 73 vs Winner 75"]
-  M90["#90 Winner 74 vs Winner 77"]
-  M91["#91 Winner 76 vs Winner 78"]
+  M89["#89 Winner 75 vs Winner 78"]
+  M90["#90 Winner 73 vs Winner 76"]
+  M91["#91 Winner 74 vs Winner 77"]
   M92["#92 Winner 79 vs Winner 80"]
   M93["#93 Winner 83 vs Winner 84"]
   M94["#94 Winner 81 vs Winner 82"]
@@ -496,12 +502,12 @@ flowchart LR
   M101["#101 Winner 97 vs Winner 98"]
   M102["#102 Winner 99 vs Winner 100"]
   M104["🏆 #104 Winner 101 vs Winner 102"]
-  M73 --> M89
   M75 --> M89
-  M74 --> M90
-  M77 --> M90
-  M76 --> M91
-  M78 --> M91
+  M78 --> M89
+  M73 --> M90
+  M76 --> M90
+  M74 --> M91
+  M77 --> M91
   M79 --> M92
   M80 --> M92
   M83 --> M93
