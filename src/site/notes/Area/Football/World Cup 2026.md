@@ -412,9 +412,13 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 - [/] 09:00-11:00 Netherlands 1-1 Morocco ⏳ 2026-06-30
     - ⚽ Netherlands: Gakpo 72'
     - ⚽ Morocco: Diop 90'+1'
-- [ ] 01:00-03:00 Ivory Coast vs Norway ⏳ 2026-07-01
-- [/] 05:00-07:00 France vs Sweden ⏳ 2026-07-01
-- [ ] 09:00-11:00 Mexico vs Ecuador ⏳ 2026-07-01
+- [x] 01:00-03:00 Ivory Coast 1-2 Norway ⏳ 2026-07-01
+    - ⚽ Ivory Coast: Diallo 74'
+    - ⚽ Norway: Nusa 39', Haaland 86'
+- [/] 05:00-07:00 France 3-0 Sweden ⏳ 2026-07-01
+    - ⚽ France: Mbappé 45', Barcola 53', Mbappé 74'
+- [x] 09:00-11:00 Mexico 2-0 Ecuador ⏳ 2026-07-01
+    - ⚽ Mexico: Quiñones 22', Jiménez 31'
 - [/] 00:00-02:00 England vs DR Congo ⏳ 2026-07-02
 - [ ] 04:00-06:00 Belgium vs Senegal ⏳ 2026-07-02
 - [/] 08:00-10:00 United States vs Bosnia and Herzegovina ⏳ 2026-07-02
@@ -430,8 +434,8 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 ## Round of 16
 
 - [ ] 01:00-03:00 Canada vs Morocco ⏳ 2026-07-05
-- [ ] 05:00-07:00 Winner 73 vs Winner 76 ⏳ 2026-07-05
-- [ ] 04:00-06:00 Winner 74 vs Winner 77 ⏳ 2026-07-06
+- [ ] 05:00-07:00 Paraguay vs France ⏳ 2026-07-05
+- [ ] 04:00-06:00 Brazil vs Norway ⏳ 2026-07-06
 - [ ] 08:00-10:00 Winner 79 vs Winner 80 ⏳ 2026-07-06
 - [ ] 03:00-05:00 Winner 83 vs Winner 84 ⏳ 2026-07-07
 - [ ] 08:00-10:00 Winner 81 vs Winner 82 ⏳ 2026-07-07
