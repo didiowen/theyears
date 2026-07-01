@@ -161,6 +161,15 @@
 ---
 
 ## Tracker
+### 2026-07-01
+
+- Erling Haaland（先發）｜⚽️ 86' — 第 86 分鐘接 Patrick Berg 直塞單刀破門，替挪威 2-1 淘汰象牙海岸、晉級 16 強對巴西；本屆三場踢進 5 球，金靴僅落後 Messi 一球。Opta 7.8、xG 1.17，把握住唯一的大機會，殺手本色（Sky Sports）。
+  - 📊 Opta 評分 7.8｜進1｜xG 1.17 xA 0.01｜射 4(中2)｜創造 1｜準傳 8 觸球 27
+- Ousmane Dembélé（先發）｜🅰️ — 短角球配合送出助攻，助 Mbappé 打進法國 3-0 瑞典的首球；全場 4 次創造機會、35 次成功傳球，是攻勢核心之一，75 分鐘被換下時球隊已大局底定。全隊最高 Opta 8.19（ESPN）。
+  - 📊 Opta 評分 8.19｜助1｜xG 0.25 xA 0.1｜射 2｜創造 4｜準傳 35 觸球 52
+- Daniel Svensson（先發）｜— 邊路防守端被法國攻勢壓制，全隊丟 3 球，Opta 僅 5.44，是這場的低點；1 次攔截、1 次創造機會聊勝於無。
+  - 📊 Opta 評分 5.44｜xA 0.07｜創造 1｜準傳 20 觸球 42｜攔1
+
 ### 2026-06-30
 
 - Achraf Hakimi（先發）｜— 第 100 場摩洛哥生涯里程碑兼隊長，右路全開：xG 0.23 xA 0.27、射 3、創造 3、準傳 93 觸球 131 全隊最高，攻防兩端都壓制荷蘭，賽後盛讚球隊鬥志([Africa Soccer](https://africasoccer.com/world-cup-2026-captain-achraf-hakimi-hails-moroccos-fighting-spirit-after-heroic-comeback-win-over-netherlands/))。
