@@ -438,8 +438,8 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ## Round of 16
 
-- [ ] 01:00-03:00 Canada vs Morocco ⏳ 2026-07-05
 - [ ] 05:00-07:00 Paraguay vs France ⏳ 2026-07-05
+- [ ] 01:00-03:00 Canada vs Morocco ⏳ 2026-07-05
 - [ ] 04:00-06:00 Brazil vs Norway ⏳ 2026-07-06
 - [ ] 08:00-10:00 Mexico vs England ⏳ 2026-07-06
 - [ ] 03:00-05:00 Winner 83 vs Winner 84 ⏳ 2026-07-07
@@ -496,8 +496,8 @@ flowchart LR
   M86["#86 Australia vs Egypt"]
   M87["#87 Argentina vs Cape Verde"]
   M88["#88 Colombia vs Ghana"]
-  M89["#89 Canada vs Morocco"]
-  M90["#90 Paraguay vs France"]
+  M89["#89 Paraguay vs France"]
+  M90["#90 Canada vs Morocco"]
   M91["#91 Brazil vs Norway"]
   M92["#92 Mexico vs England"]
   M93["#93 Winner 83 vs Winner 84"]
