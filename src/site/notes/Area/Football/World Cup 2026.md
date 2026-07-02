@@ -419,9 +419,14 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
     - ⚽ France: Mbappé 45', Barcola 53', Mbappé 74'
 - [x] 09:00-11:00 Mexico 2-0 Ecuador ⏳ 2026-07-01
     - ⚽ Mexico: Quiñones 22', Jiménez 31'
-- [/] 00:00-02:00 England vs DR Congo ⏳ 2026-07-02
-- [ ] 04:00-06:00 Belgium vs Senegal ⏳ 2026-07-02
-- [/] 08:00-10:00 United States vs Bosnia and Herzegovina ⏳ 2026-07-02
+- [/] 00:00-02:00 England 2-1 DR Congo ⏳ 2026-07-02
+    - ⚽ England: Kane 75', Kane 86'
+    - ⚽ DR Congo: Cipenga 7'
+- [x] 04:00-06:00 Belgium 3-2 Senegal ⏳ 2026-07-02
+    - ⚽ Belgium: Lukaku 86', Tielemans 89', Tielemans 120'+5' (P)
+    - ⚽ Senegal: Diarra 24', Sarr 51'
+- [/] 08:00-10:00 United States 2-0 Bosnia and Herzegovina ⏳ 2026-07-02
+    - ⚽ United States: Balogun 45', Tillman 82'
 - [ ] 03:00-05:00 Spain vs Austria ⏳ 2026-07-03
 - [/] 07:00-09:00 Portugal vs Croatia ⏳ 2026-07-03
 - [/] 11:00-13:00 Switzerland vs Algeria ⏳ 2026-07-03
@@ -436,9 +441,9 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 - [ ] 01:00-03:00 Canada vs Morocco ⏳ 2026-07-05
 - [ ] 05:00-07:00 Paraguay vs France ⏳ 2026-07-05
 - [ ] 04:00-06:00 Brazil vs Norway ⏳ 2026-07-06
-- [ ] 08:00-10:00 Winner 79 vs Winner 80 ⏳ 2026-07-06
+- [ ] 08:00-10:00 Mexico vs England ⏳ 2026-07-06
 - [ ] 03:00-05:00 Winner 83 vs Winner 84 ⏳ 2026-07-07
-- [ ] 08:00-10:00 Winner 81 vs Winner 82 ⏳ 2026-07-07
+- [ ] 08:00-10:00 United States vs Belgium ⏳ 2026-07-07
 - [ ] 00:00-02:00 Winner 86 vs Winner 88 ⏳ 2026-07-08
 - [ ] 04:00-06:00 Winner 85 vs Winner 87 ⏳ 2026-07-08
 
