@@ -406,31 +406,35 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 - [x] 01:00-03:00 Brazil 2-1 Japan ⏳ 2026-06-30
     - ⚽ Brazil: Casemiro 56', Martinelli 90'+5'
     - ⚽ Japan: Sano 29'
-- [/] 04:30-06:30 Germany 1-1 Paraguay ⏳ 2026-06-30
+- [x] 04:30-06:30 Germany 1-1 Paraguay ⏳ 2026-06-30 ✅ 2026-06-30
     - ⚽ Germany: Havertz 54'
     - ⚽ Paraguay: Enciso 42'
-- [/] 09:00-11:00 Netherlands 1-1 Morocco ⏳ 2026-06-30
+- [x] 09:00-11:00 Netherlands 1-1 Morocco ⏳ 2026-06-30 ✅ 2026-06-30
     - ⚽ Netherlands: Gakpo 72'
     - ⚽ Morocco: Diop 90'+1'
 - [x] 01:00-03:00 Ivory Coast 1-2 Norway ⏳ 2026-07-01
     - ⚽ Ivory Coast: Diallo 74'
     - ⚽ Norway: Nusa 39', Haaland 86'
-- [/] 05:00-07:00 France 3-0 Sweden ⏳ 2026-07-01
+- [x] 05:00-07:00 France 3-0 Sweden ⏳ 2026-07-01 ✅ 2026-07-01
     - ⚽ France: Mbappé 45', Barcola 53', Mbappé 74'
 - [x] 09:00-11:00 Mexico 2-0 Ecuador ⏳ 2026-07-01
     - ⚽ Mexico: Quiñones 22', Jiménez 31'
-- [/] 00:00-02:00 England 2-1 DR Congo ⏳ 2026-07-02
+- [x] 00:00-02:00 England 2-1 DR Congo ⏳ 2026-07-02 ✅ 2026-07-02
     - ⚽ England: Kane 75', Kane 86'
     - ⚽ DR Congo: Cipenga 7'
-- [x] 04:00-06:00 Belgium 3-2 Senegal ⏳ 2026-07-02
+- [/] 04:00-06:00 Belgium 3-2 Senegal ⏳ 2026-07-02
     - ⚽ Belgium: Lukaku 86', Tielemans 89', Tielemans 120'+5' (P)
     - ⚽ Senegal: Diarra 24', Sarr 51'
-- [/] 08:00-10:00 United States 2-0 Bosnia and Herzegovina ⏳ 2026-07-02
+- [x] 08:00-10:00 United States 2-0 Bosnia and Herzegovina ⏳ 2026-07-02
     - ⚽ United States: Balogun 45', Tillman 82'
-- [ ] 03:00-05:00 Spain vs Austria ⏳ 2026-07-03
-- [/] 07:00-09:00 Portugal vs Croatia ⏳ 2026-07-03
-- [/] 11:00-13:00 Switzerland vs Algeria ⏳ 2026-07-03
-- [ ] 02:00-04:00 Australia vs Egypt ⏳ 2026-07-04
+- [/] 03:00-05:00 Spain 3-0 Austria ⏳ 2026-07-03
+    - ⚽ Spain: Oyarzabal 36', Porro 66', Oyarzabal 89'
+- [/] 07:00-09:00 Portugal 2-1 Croatia ⏳ 2026-07-03
+    - ⚽ Portugal: Ronaldo 68' (P), Ramos 90'+4'
+    - ⚽ Croatia: Perisic 53'
+- [/] 11:00-13:00 Switzerland 2-0 Algeria ⏳ 2026-07-03
+    - ⚽ Switzerland: Embolo 10', Ndoye 46'
+- [/] 02:00-04:00 Australia vs Egypt ⏳ 2026-07-04
 - [/] 06:00-08:00 Argentina vs Cape Verde ⏳ 2026-07-04
 - [/] 09:30-11:30 Colombia vs Ghana ⏳ 2026-07-04
 
@@ -438,12 +442,12 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ## Round of 16
 
-- [ ] 05:00-07:00 Paraguay vs France ⏳ 2026-07-05
+- [/] 05:00-07:00 Paraguay vs France ⏳ 2026-07-05
 - [ ] 01:00-03:00 Canada vs Morocco ⏳ 2026-07-05
-- [ ] 04:00-06:00 Brazil vs Norway ⏳ 2026-07-06
-- [ ] 08:00-10:00 Mexico vs England ⏳ 2026-07-06
-- [ ] 03:00-05:00 Winner 83 vs Winner 84 ⏳ 2026-07-07
-- [ ] 08:00-10:00 United States vs Belgium ⏳ 2026-07-07
+- [/] 04:00-06:00 Brazil vs Norway ⏳ 2026-07-06
+- [/] 08:00-10:00 Mexico vs England ⏳ 2026-07-06
+- [ ] 03:00-05:00 Portugal vs Spain ⏳ 2026-07-07
+- [/] 08:00-10:00 United States vs Belgium ⏳ 2026-07-07
 - [ ] 00:00-02:00 Winner 86 vs Winner 88 ⏳ 2026-07-08
 - [ ] 04:00-06:00 Winner 85 vs Winner 87 ⏳ 2026-07-08
 
