@@ -434,9 +434,14 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
     - ⚽ Croatia: Perisic 53'
 - [/] 11:00-13:00 Switzerland 2-0 Algeria ⏳ 2026-07-03
     - ⚽ Switzerland: Embolo 10', Ndoye 46'
-- [/] 02:00-04:00 Australia vs Egypt ⏳ 2026-07-04
-- [/] 06:00-08:00 Argentina vs Cape Verde ⏳ 2026-07-04
-- [/] 09:30-11:30 Colombia vs Ghana ⏳ 2026-07-04
+- [/] 02:00-04:00 Australia 1-1 Egypt ⏳ 2026-07-04
+    - ⚽ Australia: Hany 55' (OG)
+    - ⚽ Egypt: Ashour 13'
+- [/] 06:00-08:00 Argentina 3-2 Cape Verde ⏳ 2026-07-04
+    - ⚽ Argentina: Messi 29', Martínez 92', Borges 111' (OG)
+    - ⚽ Cape Verde: Duarte 59', Cabral 103'
+- [/] 09:30-11:30 Colombia 1-0 Ghana ⏳ 2026-07-04
+    - ⚽ Colombia: Arias 14'
 
 ---
 
@@ -448,8 +453,8 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 - [/] 08:00-10:00 Mexico vs England ⏳ 2026-07-06
 - [ ] 03:00-05:00 Portugal vs Spain ⏳ 2026-07-07
 - [/] 08:00-10:00 United States vs Belgium ⏳ 2026-07-07
-- [ ] 00:00-02:00 Winner 86 vs Winner 88 ⏳ 2026-07-08
-- [ ] 04:00-06:00 Winner 85 vs Winner 87 ⏳ 2026-07-08
+- [ ] 00:00-02:00 Argentina vs Egypt ⏳ 2026-07-08
+- [ ] 04:00-06:00 Switzerland vs Colombia ⏳ 2026-07-08
 
 ---
 
