@@ -447,8 +447,10 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ## Round of 16
 
-- [/] 05:00-07:00 Paraguay vs France ⏳ 2026-07-05
-- [ ] 01:00-03:00 Canada vs Morocco ⏳ 2026-07-05
+- [/] 05:00-07:00 Paraguay 0-1 France ⏳ 2026-07-05
+    - ⚽ France: Mbappé 70' (P)
+- [x] 01:00-03:00 Canada 0-3 Morocco ⏳ 2026-07-05
+    - ⚽ Morocco: Ounahi 50', Ounahi 82', Rahimi 90'+8'
 - [/] 04:00-06:00 Brazil vs Norway ⏳ 2026-07-06
 - [/] 08:00-10:00 Mexico vs England ⏳ 2026-07-06
 - [ ] 03:00-05:00 Portugal vs Spain ⏳ 2026-07-07
@@ -460,7 +462,7 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ## Quarterfinals
 
-- [ ] 04:00-06:00 Winner 89 vs Winner 90 ⏳ 2026-07-10
+- [ ] 04:00-06:00 France vs Morocco ⏳ 2026-07-10
 - [ ] 03:00-05:00 Winner 93 vs Winner 94 ⏳ 2026-07-11
 - [ ] 05:00-07:00 Winner 91 vs Winner 92 ⏳ 2026-07-12
 - [ ] 09:00-11:00 Winner 95 vs Winner 96 ⏳ 2026-07-12
