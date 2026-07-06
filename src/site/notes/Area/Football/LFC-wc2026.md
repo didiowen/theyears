@@ -119,6 +119,11 @@
 ---
 
 ## Tracker
+### 2026-07-06
+
+- Alisson Becker（先發）｜🧤 撲救 3 失球 2 — Brazil 1-2 Norway。三次撲救仍難救主，兩顆失球（含 Haaland 頭槌與遠射）品質太高，救球價值 -0.34、面對 xGOT 1.66，反映失球多屬「非其之過」，隨球隊一同提前出局。
+  - 📊 Opta 評分 6.47｜撲救 3 失球 2｜救球價值 -0.34｜面對xGOT 1.66
+
 ### 2026-07-04
 
 - Alexis Mac Allister（先發）｜🅰️ — Argentina 3-2 Cape Verde（延長賽驚險過關）。全場評分頂尖，用一記角球擺渡助攻 Lisandro Martínez 破門，是阿根廷逃過爆冷的關鍵一手；但整體多走安全橫傳、少縱向推進，Sports Mole 形容他偏安靜。107 次觸球、2 次關鍵傳球看得出他仍是中場節拍器。（來源：Opta／FotMob、Sports Mole）
