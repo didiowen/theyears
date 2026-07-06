@@ -161,6 +161,13 @@
 ---
 
 ## Tracker
+### 2026-07-05
+
+- Achraf Hakimi 先發 · 🅰1 🟨 — Canada 0-3 Morocco
+  - 📊 Opta 評分 8｜助1｜xA 0.03｜創造 1｜準傳 42 觸球 90｜攔1 回收3
+- Ousmane Dembélé 先發 — Paraguay 0-1 France
+  - 📊 Opta 評分 6.71｜xG 0.06 xA 0.06｜射 2｜創造 2｜準傳 31 觸球 67｜回收1
+
 ### 2026-07-03
 
 - Ivan Perišić（先發）｜⚽️ 53' 🟨 — 第 53 分鐘接 Stanišić 右路傳中，左腳低射破門為 Croatia 先馳得點，可惜球隊終場遭 Gonçalo Ramos 94 分鐘頭槌絕殺、以 1-2 落敗遭淘汰；他補時的傳中還一度助攻 Gvardiol 進球，經 VAR 判 Pašalić 越位取消，是這支老將 Croatia 謝幕戰最亮的一抹身影（Sky Sports）。

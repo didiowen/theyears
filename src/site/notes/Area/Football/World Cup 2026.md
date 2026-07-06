@@ -451,8 +451,12 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
     - ⚽ France: Mbappé 70' (P)
 - [x] 01:00-03:00 Canada 0-3 Morocco ⏳ 2026-07-05
     - ⚽ Morocco: Ounahi 50', Ounahi 82', Rahimi 90'+8'
-- [/] 04:00-06:00 Brazil vs Norway ⏳ 2026-07-06
-- [/] 08:00-10:00 Mexico vs England ⏳ 2026-07-06
+- [/] 04:00-06:00 Brazil 1-2 Norway ⏳ 2026-07-06
+    - ⚽ Brazil: Neymar 90'+10' (P)
+    - ⚽ Norway: Haaland 79', Haaland 90'
+- [/] 08:00-10:00 Mexico 2-3 England ⏳ 2026-07-06
+    - ⚽ Mexico: Quiñones 42', Jiménez 69' (P)
+    - ⚽ England: Bellingham 36', Bellingham 38', Kane 60' (P)
 - [ ] 03:00-05:00 Portugal vs Spain ⏳ 2026-07-07
 - [/] 08:00-10:00 United States vs Belgium ⏳ 2026-07-07
 - [ ] 00:00-02:00 Argentina vs Egypt ⏳ 2026-07-08
@@ -464,7 +468,7 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 - [ ] 04:00-06:00 France vs Morocco ⏳ 2026-07-10
 - [ ] 03:00-05:00 Winner 93 vs Winner 94 ⏳ 2026-07-11
-- [ ] 05:00-07:00 Winner 91 vs Winner 92 ⏳ 2026-07-12
+- [ ] 05:00-07:00 Norway vs England ⏳ 2026-07-12
 - [ ] 09:00-11:00 Winner 95 vs Winner 96 ⏳ 2026-07-12
 
 ---
@@ -507,15 +511,15 @@ flowchart LR
   M86["#86 Australia 1-1 Egypt"]
   M87["#87 Argentina 3-2 Cape Verde"]
   M88["#88 Colombia 1-0 Ghana"]
-  M89["#89 Paraguay vs France"]
-  M90["#90 Canada vs Morocco"]
+  M89["#89 Paraguay 0-1 France"]
+  M90["#90 Canada 0-3 Morocco"]
   M91["#91 Brazil vs Norway"]
   M92["#92 Mexico vs England"]
   M93["#93 Portugal vs Spain"]
   M94["#94 United States vs Belgium"]
   M95["#95 Argentina vs Egypt"]
   M96["#96 Switzerland vs Colombia"]
-  M97["#97 Winner 89 vs Winner 90"]
+  M97["#97 France vs Morocco"]
   M98["#98 Winner 93 vs Winner 94"]
   M99["#99 Winner 91 vs Winner 92"]
   M100["#100 Winner 95 vs Winner 96"]
