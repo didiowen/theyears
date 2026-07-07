@@ -161,6 +161,16 @@
 ---
 
 ## Tracker
+### 2026-07-07
+
+- Giovanni Reyna（替補）— 中場戰中，下半場甫上場即投入美國隊的反攻節奏，傳球準度尚可但威脅性有限；ESPN 評 4 分（滿分 10），評語指出他「比 Dest 做得多，傳球準確，但幾乎沒有威脅性」。
+  - 📊 Opta 評分 6.92｜xA 0.01｜創造 1｜準傳 21 觸球 35｜回收4
+- Axel Witsel（替補）— 僅短暫替補上陣，觸球 4 次、傳球全部到位，存在感輕微，未獲官方評分。
+  - 📊 Opta 評分 —｜準傳 4 觸球 4｜回收1
+- Christian Pulisic（先發）— 這場十六強生死戰打得極其掙扎：全場最多的 11 次丟失球權，賽前傷勢未癒又用力過猛，最終在比利時第三球後因傷提前退場；ESPN 給出 2 分（滿分 10）的低分，稱他「盡力但完全不在狀態」。美國隊最終 1–4 不敵比利時，止步 16 強。
+  - 📊 Opta 評分 6.03｜xA 0.02｜準傳 16 觸球 36｜回收3
+- [USMNT player ratings: Awful performances from Pulisic and others prompt World Cup exit](https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit)
+
 ### 2026-07-06
 
 - Erling Haaland（先發）｜⚽️ 79' ⚽️ 90' — 兩球都在最後 11 分鐘：79' 頭槌壓過老對手 Gabriel、90' 遠距離低射鑽死角，親手淘汰 Brazil，本屆進帳 7 球並列金靴。挪威 28 年來首度闖進八強（Sky Sports）。
