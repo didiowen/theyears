@@ -462,8 +462,10 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 - [/] 08:00-10:00 United States 1-4 Belgium ⏳ 2026-07-07
     - ⚽ United States: Tillman 31'
     - ⚽ Belgium: Ketelaere 9', Ketelaere 33', Vanaken 57', Lukaku 90'+3'
-- [ ] 00:00-02:00 Argentina vs Egypt ⏳ 2026-07-08
-- [ ] 04:00-06:00 Switzerland vs Colombia ⏳ 2026-07-08
+- [x] 00:00-02:00 Argentina 3-2 Egypt ⏳ 2026-07-08
+    - ⚽ Argentina: Romero 79', Messi 83', Fernández 90'+2'
+    - ⚽ Egypt: Ibrahim 15', Zico 67'
+- [x] 04:00-06:00 Switzerland 0-0 Colombia ⏳ 2026-07-08
 
 ---
 
@@ -472,7 +474,7 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 - [ ] 04:00-06:00 France vs Morocco ⏳ 2026-07-10
 - [ ] 03:00-05:00 Spain vs Belgium ⏳ 2026-07-11
 - [ ] 05:00-07:00 Norway vs England ⏳ 2026-07-12
-- [ ] 09:00-11:00 Winner 95 vs Winner 96 ⏳ 2026-07-12
+- [ ] 09:00-11:00 Argentina vs Switzerland ⏳ 2026-07-12
 
 ---
 
