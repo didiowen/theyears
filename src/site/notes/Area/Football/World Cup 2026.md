@@ -427,42 +427,42 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
     - ⚽ Senegal: Diarra 24', Sarr 51'
 - [x] 08:00-10:00 United States 2-0 Bosnia and Herzegovina ⏳ 2026-07-02
     - ⚽ United States: Balogun 45', Tillman 82'
-- [/] 03:00-05:00 Spain 3-0 Austria ⏳ 2026-07-03
+- [x] 03:00-05:00 Spain 3-0 Austria ⏳ 2026-07-03 ✅ 2026-07-04
     - ⚽ Spain: Oyarzabal 36', Porro 66', Oyarzabal 89'
-- [/] 07:00-09:00 Portugal 2-1 Croatia ⏳ 2026-07-03
+- [x] 07:00-09:00 Portugal 2-1 Croatia ⏳ 2026-07-03 ✅ 2026-07-03
     - ⚽ Portugal: Ronaldo 68' (P), Ramos 90'+4'
     - ⚽ Croatia: Perisic 53'
-- [/] 11:00-13:00 Switzerland 2-0 Algeria ⏳ 2026-07-03
+- [x] 11:00-13:00 Switzerland 2-0 Algeria ⏳ 2026-07-03 ✅ 2026-07-03
     - ⚽ Switzerland: Embolo 10', Ndoye 46'
-- [/] 02:00-04:00 Australia 1-1 Egypt ⏳ 2026-07-04
+- [x] 02:00-04:00 Australia 1-1 Egypt ⏳ 2026-07-04 ✅ 2026-07-05
     - ⚽ Australia: Hany 55' (OG)
     - ⚽ Egypt: Ashour 13'
-- [/] 06:00-08:00 Argentina 3-2 Cape Verde ⏳ 2026-07-04
+- [x] 06:00-08:00 Argentina 3-2 Cape Verde ⏳ 2026-07-04 ✅ 2026-07-04
     - ⚽ Argentina: Messi 29', Martínez 92', Borges 111' (OG)
     - ⚽ Cape Verde: Duarte 59', Cabral 103'
-- [/] 09:30-11:30 Colombia 1-0 Ghana ⏳ 2026-07-04
+- [x] 09:30-11:30 Colombia 1-0 Ghana ⏳ 2026-07-04 ✅ 2026-07-04
     - ⚽ Colombia: Arias 14'
 
 ---
 
 ## Round of 16
 
-- [/] 05:00-07:00 Paraguay 0-1 France ⏳ 2026-07-05
+- [x] 05:00-07:00 Paraguay 0-1 France ⏳ 2026-07-05 ✅ 2026-07-05
     - ⚽ France: Mbappé 70' (P)
 - [x] 01:00-03:00 Canada 0-3 Morocco ⏳ 2026-07-05
     - ⚽ Morocco: Ounahi 50', Ounahi 82', Rahimi 90'+8'
-- [/] 04:00-06:00 Brazil 1-2 Norway ⏳ 2026-07-06
+- [x] 04:00-06:00 Brazil 1-2 Norway ⏳ 2026-07-06 ✅ 2026-07-06
     - ⚽ Brazil: Neymar 90'+10' (P)
     - ⚽ Norway: Haaland 79', Haaland 90'
-- [/] 08:00-10:00 Mexico 2-3 England ⏳ 2026-07-06
+- [x] 08:00-10:00 Mexico 2-3 England ⏳ 2026-07-06 ✅ 2026-07-06
     - ⚽ Mexico: Quiñones 42', Jiménez 69' (P)
     - ⚽ England: Bellingham 36', Bellingham 38', Kane 60' (P)
-- [x] 03:00-05:00 Portugal 0-1 Spain ⏳ 2026-07-07
+- [/] 03:00-05:00 Portugal 0-1 Spain ⏳ 2026-07-07
     - ⚽ Spain: Merino 90'+1'
-- [/] 08:00-10:00 United States 1-4 Belgium ⏳ 2026-07-07
+- [x] 08:00-10:00 United States 1-4 Belgium ⏳ 2026-07-07 ✅ 2026-07-07
     - ⚽ United States: Tillman 31'
     - ⚽ Belgium: Ketelaere 9', Ketelaere 33', Vanaken 57', Lukaku 90'+3'
-- [x] 00:00-02:00 Argentina 3-2 Egypt ⏳ 2026-07-08
+- [x] 00:00-02:00 Argentina 3-2 Egypt ⏳ 2026-07-08  ✅ 2026-07-08
     - ⚽ Argentina: Romero 79', Messi 83', Fernández 90'+2'
     - ⚽ Egypt: Ibrahim 15', Zico 67'
 - [x] 04:00-06:00 Switzerland 0-0 Colombia ⏳ 2026-07-08
@@ -471,10 +471,10 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ## Quarterfinals
 
-- [ ] 04:00-06:00 France vs Morocco ⏳ 2026-07-10
-- [ ] 03:00-05:00 Spain vs Belgium ⏳ 2026-07-11
-- [ ] 05:00-07:00 Norway vs England ⏳ 2026-07-12
-- [ ] 09:00-11:00 Argentina vs Switzerland ⏳ 2026-07-12
+- [/] 04:00-06:00 France vs Morocco ⏳ 2026-07-10
+- [/] 03:00-05:00 Spain vs Belgium ⏳ 2026-07-11
+- [/] 05:00-07:00 Norway vs England ⏳ 2026-07-12
+- [/] 09:00-11:00 Argentina vs Switzerland ⏳ 2026-07-12
 
 ---
 
@@ -522,12 +522,12 @@ flowchart LR
   M92["#92 Mexico 2-3 England"]
   M93["#93 Portugal 0-1 Spain"]
   M94["#94 United States 1-4 Belgium"]
-  M95["#95 Argentina vs Egypt"]
-  M96["#96 Switzerland vs Colombia"]
+  M95["#95 Argentina 3-2 Egypt"]
+  M96["#96 Switzerland 0-0 Colombia"]
   M97["#97 France vs Morocco"]
   M98["#98 Spain vs Belgium"]
   M99["#99 Norway vs England"]
-  M100["#100 Winner 95 vs Winner 96"]
+  M100["#100 Argentina vs Switzerland"]
   M101["#101 Winner 97 vs Winner 98"]
   M102["#102 Winner 99 vs Winner 100"]
   M104["🏆 #104 Winner 101 vs Winner 102"]
