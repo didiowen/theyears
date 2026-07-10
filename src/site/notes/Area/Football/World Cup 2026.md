@@ -422,7 +422,7 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 - [x] 00:00-02:00 England 2-1 DR Congo ⏳ 2026-07-02 ✅ 2026-07-02
     - ⚽ England: Kane 75', Kane 86'
     - ⚽ DR Congo: Cipenga 7'
-- [/] 04:00-06:00 Belgium 3-2 Senegal ⏳ 2026-07-02
+- [x] 04:00-06:00 Belgium 3-2 Senegal ⏳ 2026-07-02 ✅ 2026-07-03
     - ⚽ Belgium: Lukaku 86', Tielemans 89', Tielemans 120'+5' (P)
     - ⚽ Senegal: Diarra 24', Sarr 51'
 - [x] 08:00-10:00 United States 2-0 Bosnia and Herzegovina ⏳ 2026-07-02
