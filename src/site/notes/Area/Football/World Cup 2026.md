@@ -525,7 +525,7 @@ flowchart LR
   M94["#94 United States 1-4 Belgium"]
   M95["#95 Argentina 3-2 Egypt"]
   M96["#96 Switzerland 0-0 Colombia"]
-  M97["#97 France vs Morocco"]
+  M97["#97 France 2-0 Morocco"]
   M98["#98 Spain vs Belgium"]
   M99["#99 Norway vs England"]
   M100["#100 Argentina vs Switzerland"]
