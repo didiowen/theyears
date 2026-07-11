@@ -473,7 +473,9 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 - [/] 04:00-06:00 France 2-0 Morocco ⏳ 2026-07-10
     - ⚽ France: Mbappé 60', Dembélé 66'
-- [/] 03:00-05:00 Spain vs Belgium ⏳ 2026-07-11
+- [/] 03:00-05:00 Spain 2-1 Belgium ⏳ 2026-07-11
+    - ⚽ Spain: Ruiz 30', Merino 88'
+    - ⚽ Belgium: Ketelaere 41'
 - [/] 05:00-07:00 Norway vs England ⏳ 2026-07-12
 - [/] 09:00-11:00 Argentina vs Switzerland ⏳ 2026-07-12
 
@@ -481,7 +483,7 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ## Semifinals
 
-- [ ] 03:00-05:00 Winner 97 vs Winner 98 ⏳ 2026-07-15
+- [ ] 03:00-05:00 France vs Spain ⏳ 2026-07-15
 - [ ] 03:00-05:00 Winner 99 vs Winner 100 ⏳ 2026-07-16
 
 ---
