@@ -161,6 +161,11 @@
 ---
 
 ## Tracker
+### 2026-07-11
+
+- Axel Witsel（替補）｜🟨 — 八強賽 Spain 2-1 Belgium，第 62 分鐘與 Lukaku、Seys 一起替補上陣，替換後只有 9 次觸球、4 次成功傳球，Opta 評分 5.92，是全場最低區間；補時 90+5' 一記對 Rodri 的遲到剷球吃了黃牌，也成了他這場的最後一個動作（ESPN commentary）。比利時上半場被西班牙控球 63%、射門 9 比 2 壓著打，De Ketelaere 41' 扳平後撐到 88 分鐘才被替補上陣的 Merino 撿到 Lammens 的脫手補射絕殺（ESPN／NBC Sports）。37 歲、138 次國家隊出賽的 Witsel 賽前就說過「我會把這屆當成第一屆來踢，因為這會是最後一屆」，加上 Courtois 71 分鐘含淚傷退、De Bruyne 與 Lukaku 同在場上，這場八強出局幾乎等於比利時黃金世代的落幕（Flashscore；退休一事無正式宣布）。
+  - 📊 Opta 評分 5.92｜準傳 4 觸球 9
+
 ### 2026-07-10
 
 - Ousmane Dembélé（先發）｜⚽️ 66' — 上半場一度找不到節奏，過人多次被第一防守者擋下；下半場接應 Mbappé 分球後冷靜低射破門，鎖定法國 2-0 晉級四強的勝局，賽後被形容為「關鍵時刻夠冷靜、帶球果斷」（ESPN、Get French Football News）。

@@ -528,10 +528,10 @@ flowchart LR
   M95["#95 Argentina 3-2 Egypt"]
   M96["#96 Switzerland 0-0 Colombia"]
   M97["#97 France 2-0 Morocco"]
-  M98["#98 Spain vs Belgium"]
+  M98["#98 Spain 2-1 Belgium"]
   M99["#99 Norway vs England"]
   M100["#100 Argentina vs Switzerland"]
-  M101["#101 Winner 97 vs Winner 98"]
+  M101["#101 France vs Spain"]
   M102["#102 Winner 99 vs Winner 100"]
   M104["🏆 #104 Winner 101 vs Winner 102"]
   M75 --> M89
