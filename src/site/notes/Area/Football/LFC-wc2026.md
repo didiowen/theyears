@@ -119,6 +119,31 @@
 ---
 
 ## Tracker
+### 2026-06-27
+
+- Sadio Mané 先發 — Senegal 5-0 Iraq
+  - 📊 Opta 評分 7.27｜xG 0.6 xA 0.33｜射 4(中1)｜創造 4｜準傳 31 觸球 64｜回收4
+- Darwin Núñez 先發 — Uruguay 0-1 Spain
+  - 📊 Opta 評分 6.01｜xG 0.01 xA 0.01｜射 1｜創造 1｜準傳 12 觸球 28｜攔1 回收2
+- Ibrahima Konaté 替補 — Norway 1-4 France
+  - 📊 Opta 評分 6.45｜準傳 11 觸球 15｜攔3
+- Mohamed Salah 先發 — Egypt 1-1 Iran
+  - 📊 Opta 評分 6.2｜xG 0.08 xA 0.24｜射 1｜創造 3｜準傳 16 觸球 36｜回收1
+
+### 2026-06-22
+
+- Mohamed Salah 先發 · ⚽1（67'） 🅰1 — New Zealand 1-3 Egypt
+  - 📊 Opta 評分 8.93｜進1 助1｜xG 0.56 xA 0.26｜射 5(中2)｜創造 5｜準傳 26 觸球 57｜回收6
+- Darwin Núñez 替補 — Uruguay 2-2 Cape Verde
+  - 📊 Opta 評分 6.36｜xA 0.02｜創造 1｜準傳 6 觸球 10｜回收1
+
+### 2026-06-16
+
+- Mohamed Salah 先發 · 🅰1 — Belgium 1-1 Egypt
+  - 📊 Opta 評分 7.23｜助1｜xG 0.14 xA 0.05｜射 1(中1)｜創造 3｜準傳 17 觸球 35｜回收3
+- Darwin Núñez 先發 — Saudi Arabia 1-1 Uruguay
+  - 📊 Opta 評分 6.26｜xG 0.21｜射 1｜準傳 3 觸球 7｜攔1 回收1
+
 ### 2026-07-06
 
 - Alisson Becker（先發）🧤｜ — 3 撲救仍難擋 Haaland 雙響，失 2 球、救球價值 -0.34，Opta 6.47。
@@ -165,17 +190,6 @@
 - Luis Díaz（先發）— 哥倫比亞 0-0 葡萄牙互交白卷，全場 4 射未果、2 次創造。Opta 6.48。
   - 📊 Opta 評分 6.48｜xG 0.25 xA 0.1｜射 4｜創造 2｜準傳 39 觸球 52｜回收2
 
-### 2026-06-27
-
-- Sadio Mané（先發）— 塞內加爾 5-0 痛宰 10 人伊拉克、保住晉級希望。他開賽即造成對手第 13 分鐘紅牌（禁區邊緣被拉倒、VAR 確認），全場 4 射＋創造 4 次機會、xG 0.6 xA 0.33 持續施壓但未親自破門（Sky Sports／Al Jazeera）。Opta 7.27。
-  - 📊 Opta 評分 7.27｜xG 0.6 xA 0.33｜射 4(中1)｜創造 4｜準傳 31 觸球 64｜回收4
-- Ibrahima Konaté（替補）— 法國大勝中替補登場穩住防線，3 次攔截、11 次成功傳球。Opta 6.45。
-  - 📊 Opta 評分 6.45｜準傳 11 觸球 15｜攔3
-- Mohamed Salah（先發）— 埃及 1-1 伊朗、仍以 G 組第二晉級（次輪對澳洲）。隊長 57 分鐘被換下保留體力，全場創造 3 次機會、xA 0.24，但全隊把握不佳（Opta Analyst）。Opta 6.2。
-  - 📊 Opta 評分 6.2｜xG 0.08 xA 0.24｜射 1｜創造 3｜準傳 16 觸球 36｜回收1
-- Darwin Núñez（先發）— 烏拉圭 0-1 不敵西班牙，他 1 射、創造 1 次機會但難覓良機。Opta 6.01。
-  - 📊 Opta 評分 6.01｜xG 0.01 xA 0.01｜射 1｜創造 1｜準傳 12 觸球 28｜攔1 回收2
-
 ### 2026-06-26
 
 - Virgil van Dijk（先發）🅰️ — 荷蘭 3-1 突尼西亞、以 F 組首名晉級。他在定位球頭槌製造混亂，為 Brobbey 的進球鋪路；全場 101 次成功傳球、觸球 119 次居所有追蹤球員之冠，後防零漏洞（Al Jazeera）。Opta 8.62 為當日最高。
@@ -212,13 +226,6 @@
 - Alexis Mac Allister（先發）｜— 阿根廷中場引擎，62 次傳球 75 觸球、1 搶斷 4 回收，穩定控節奏助球隊 2-0 零封過關，Opta 7.36。
   - 📊 Opta 評分 7.36｜xA 0.04｜準傳 62 觸球 75｜攔1 回收4
 
-### 2026-06-22
-
-- Mohamed Salah（先發）｜⚽️ 67' 🅰️ — 34 歲的他一射一傳率領 Egypt 3-1 逆轉 New Zealand，拿下隊史世界盃首勝，本人世界盃只要出賽必有進球或助攻的紀錄延續；全場 10 次射門參與（5 射 5 創造）為本屆單場最高，第 82 分鐘角球助攻 Trezeguet 頭槌定江山。Opta 8.93 為今日最佳，無懈可擊（[Sky Sports](https://www.skysports.com/football/new-zealand-vs-egypt/549803)、[Al Jazeera](https://www.aljazeera.com/sports/2026/6/22/salah-scores-as-egypt-beat-new-zealand-3-1-for-first-world-cup-win)）。
-  - 📊 Opta 評分 8.93｜進1 助1｜xG 0.56 xA 0.26｜射 5(中2)｜創造 5｜準傳 26 觸球 57｜回收6
-- Darwin Núñez（替補）｜— Uruguay 2-2 平 Cape Verde，替補登場時間有限，觸球僅 10 次、創造 1 次機會，影響力不大，Opta 6.36 屬替補的平淡演出。
-  - 📊 Opta 評分 6.36｜xA 0.02｜創造 1｜準傳 6 觸球 10｜回收1
-
 ### 2026-06-21
 
 - Cody Gakpo（先發）｜⚽️ 47' ⚽️ 54' 🅰️ — 全場最佳，下半場 7 分鐘內梅開二度再添一助攻，被點名為本屆世界盃至今最猛的個人演出之一；SofaScore 給到 9.7、5 射 4 中，連帶讓質疑他紅軍表現的聲音閉嘴（Sports Mole／SofaScore）。
@@ -250,13 +257,6 @@
   - 📊 Opta 評分 7.24｜xG 0.08 xA 0.02｜射 2(中1)｜創造 1｜準傳 60 觸球 74｜攔2 回收6
 - Sadio Mané（先發）｜— France 3-1 Senegal，積極拼搶，第 57 分鐘在禁區內撞倒 Mbappé，VAR 未判點；塞內加爾整體崩盤，在最後三分之一效率欠佳。（Sports Mole 6.8）
   - 📊 Opta 評分 6.36｜xG 0.03 xA 0.02｜射 1(中1)｜準傳 26 觸球 50｜攔2 回收4
-
-### 2026-06-16
-
-- Mohamed Salah（先發）｜🅰️ — Belgium 1-1 Egypt，34 歲生日當天助攻 Ashour 第 19 分鐘破門，1966 年以來首位「生日當天有進球參與」的非洲球員；全場創造 3 次機會、傳球 17/18。（Yahoo Sports）
-  - 📊 Opta 評分 7.23｜助1｜xG 0.14 xA 0.05｜射 1(中1)｜創造 3｜準傳 17 觸球 35｜回收3
-- Darwin Núñez（先發）｜— Saudi Arabia 1-1 Uruguay，上半場僅 3 次傳球、中場就被換下，表現低迷。（Athlon）
-  - 📊 Opta 評分 6.26｜xG 0.21｜射 1｜準傳 3 觸球 7｜攔1 回收1
 
 ### 2026-06-15
 

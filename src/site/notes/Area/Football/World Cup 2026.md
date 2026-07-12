@@ -457,7 +457,7 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 - [x] 08:00-10:00 Mexico 2-3 England ⏳ 2026-07-06 ✅ 2026-07-06
     - ⚽ Mexico: Quiñones 42', Jiménez 69' (P)
     - ⚽ England: Bellingham 36', Bellingham 38', Kane 60' (P)
-- [/] 03:00-05:00 Portugal 0-1 Spain ⏳ 2026-07-07
+- [x] 03:00-05:00 Portugal 0-1 Spain ⏳ 2026-07-07 ✅ 2026-07-11
     - ⚽ Spain: Merino 90'+1'
 - [x] 08:00-10:00 United States 1-4 Belgium ⏳ 2026-07-07 ✅ 2026-07-07
     - ⚽ United States: Tillman 31'
@@ -471,20 +471,24 @@ _12 組第三名取前 8 晉級（積分 → 淨勝球 → 進球）。🟢 ＝ 
 
 ## Quarterfinals
 
-- [/] 04:00-06:00 France 2-0 Morocco ⏳ 2026-07-10
+- [x] 04:00-06:00 France 2-0 Morocco ⏳ 2026-07-10 ✅ 2026-07-11
     - ⚽ France: Mbappé 60', Dembélé 66'
-- [/] 03:00-05:00 Spain 2-1 Belgium ⏳ 2026-07-11
+- [x] 03:00-05:00 Spain 2-1 Belgium ⏳ 2026-07-11 ✅ 2026-07-11
     - ⚽ Spain: Ruiz 30', Merino 88'
     - ⚽ Belgium: Ketelaere 41'
-- [/] 05:00-07:00 Norway vs England ⏳ 2026-07-12
-- [/] 09:00-11:00 Argentina vs Switzerland ⏳ 2026-07-12
+- [/] 05:00-07:00 Norway 1-2 England ⏳ 2026-07-12
+    - ⚽ Norway: Schjelderup 36'
+    - ⚽ England: Bellingham 45'+2', Bellingham 93'
+- [/] 09:00-11:00 Argentina 3-1 Switzerland ⏳ 2026-07-12
+    - ⚽ Argentina: Allister 10', Álvarez 112', Martínez 120'+1'
+    - ⚽ Switzerland: Ndoye 67'
 
 ---
 
 ## Semifinals
 
 - [ ] 03:00-05:00 France vs Spain ⏳ 2026-07-15
-- [ ] 03:00-05:00 Winner 99 vs Winner 100 ⏳ 2026-07-16
+- [ ] 03:00-05:00 England vs Argentina ⏳ 2026-07-16
 
 ---
 

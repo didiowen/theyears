@@ -163,8 +163,59 @@
 ## Tracker
 ### 2026-07-11
 
-- Axel Witsel（替補）｜🟨 — 八強賽 Spain 2-1 Belgium，第 62 分鐘與 Lukaku、Seys 一起替補上陣，替換後只有 9 次觸球、4 次成功傳球，Opta 評分 5.92，是全場最低區間；補時 90+5' 一記對 Rodri 的遲到剷球吃了黃牌，也成了他這場的最後一個動作（ESPN commentary）。比利時上半場被西班牙控球 63%、射門 9 比 2 壓著打，De Ketelaere 41' 扳平後撐到 88 分鐘才被替補上陣的 Merino 撿到 Lammens 的脫手補射絕殺（ESPN／NBC Sports）。37 歲、138 次國家隊出賽的 Witsel 賽前就說過「我會把這屆當成第一屆來踢，因為這會是最後一屆」，加上 Courtois 71 分鐘含淚傷退、De Bruyne 與 Lukaku 同在場上，這場八強出局幾乎等於比利時黃金世代的落幕（Flashscore；退休一事無正式宣布）。
+- Mikel Merino 替補 · ⚽1（88'） — Spain 2-1 Belgium
+  - 📊 Opta 評分 —｜進1｜xG 0.69｜射 1(中1)｜創造 1｜準傳 4 觸球 8
+- Axel Witsel 替補 · 🟨 — Spain 2-1 Belgium
   - 📊 Opta 評分 5.92｜準傳 4 觸球 9
+
+### 2026-07-07
+
+- Mikel Merino 替補 · ⚽1（90'+1'） — Portugal 0-1 Spain
+  - 📊 Opta 評分 —｜進1｜xG 0.55｜射 1(中1)｜準傳 4 觸球 8｜回收1
+- Giovanni Reyna 替補 — United States 1-4 Belgium
+  - 📊 Opta 評分 6.92｜xA 0.01｜創造 1｜準傳 21 觸球 35｜回收4
+- Axel Witsel 替補 — United States 1-4 Belgium
+  - 📊 Opta 評分 —｜準傳 4 觸球 4｜回收1
+- Christian Pulisic 先發 — United States 1-4 Belgium
+  - 📊 Opta 評分 6.03｜xA 0.02｜準傳 16 觸球 36｜回收3
+
+### 2026-07-03
+
+- Ivan Perišić 先發 · ⚽1（53'） 🟨 — Portugal 2-1 Croatia
+  - 📊 Opta 評分 7.47｜進1｜xG 0.21 xA 0.09｜射 1(中1)｜準傳 22 觸球 50｜攔1 回收2
+- Carney Chukwuemeka 替補 — Spain 3-0 Austria
+  - 📊 Opta 評分 5.97｜xG 0.06 xA 0.05｜射 1｜準傳 11 觸球 26｜回收4
+- Gregor Kobel 先發 · 🧤零封 — Switzerland 2-0 Algeria
+  - 📊 Opta 評分 7.95｜撲救 2 失球 0｜救球價值 +0.28｜面對xGOT 0.28
+- Manuel Akanji 先發 — Switzerland 2-0 Algeria
+  - 📊 Opta 評分 7.76｜xA 0.01｜創造 1｜準傳 62 觸球 79｜攔3 回收3
+- Marcel Sabitzer 先發 — Spain 3-0 Austria
+  - 📊 Opta 評分 6.66｜xA 0.27｜創造 2｜準傳 13 觸球 34｜回收2
+- Mikel Merino 替補 — Spain 3-0 Austria
+  - 📊 Opta 評分 6.14｜xA 0.01｜準傳 16 觸球 20
+- Ramy Bensebaini 先發 — Switzerland 2-0 Algeria
+  - 📊 Opta 評分 6.23｜xA 0.03｜準傳 75 觸球 91｜攔1 回收10
+
+### 2026-06-27
+
+- Ousmane Dembélé 先發 · ⚽3（7', 20', 32'） — Norway 1-4 France
+  - 📊 Opta 評分 9.6｜進3｜xG 0.29 xA 0.09｜射 3(中3)｜創造 2｜準傳 30 觸球 51｜回收1
+- Mikel Merino 先發 — Uruguay 0-1 Spain
+  - 📊 Opta 評分 6.39｜xA 0.02｜準傳 19 觸球 32｜攔3 回收2
+
+### 2026-06-22
+
+- Mikel Merino 替補 — Spain 4-0 Saudi Arabia
+  - 📊 Opta 評分 6.23｜xG 0.05 xA 0.22｜射 1｜創造 1｜準傳 13 觸球 20｜回收1
+- Thomas Meunier 先發 — Belgium 0-0 Iran
+  - 📊 Opta 評分 7.15｜xA 0.04｜準傳 32 觸球 55｜攔1 回收4
+
+### 2026-06-16
+
+- Mikel Merino 替補 — Spain 0-0 Cape Verde
+  - 📊 Opta 評分 6.68｜xG 0.1 xA 0.16｜射 1(中1)｜創造 2｜準傳 8 觸球 13｜回收1
+- Thomas Meunier 先發 — Belgium 1-1 Egypt
+  - 📊 Opta 評分 6.28｜xG 0.07 xA 0.14｜射 1(中1)｜創造 1｜準傳 34 觸球 62｜回收1
 
 ### 2026-07-10
 
@@ -172,16 +223,6 @@
   - 📊 Opta 評分 8.34｜進1｜xG 0.25 xA 0.73｜射 4(中1)｜創造 4｜準傳 28 觸球 51｜回收4
 - Achraf Hakimi（先發）｜— — 摩洛哥隊長這場相對安靜，招牌套邊助攻幾乎沒出現，但防守端表現扎實，成功壓制 Doué 的威脅，Sports Mole 給出 6 分評價（「composed defensively」）。
   - 📊 Opta 評分 6.63｜xG 0.04 xA 0.05｜射 1｜創造 2｜準傳 49 觸球 79｜回收6
-
-### 2026-07-07
-
-- Giovanni Reyna（替補）— 中場戰中，下半場甫上場即投入美國隊的反攻節奏，傳球準度尚可但威脅性有限；ESPN 評 4 分（滿分 10），評語指出他「比 Dest 做得多，傳球準確，但幾乎沒有威脅性」。
-  - 📊 Opta 評分 6.92｜xA 0.01｜創造 1｜準傳 21 觸球 35｜回收4
-- Axel Witsel（替補）— 僅短暫替補上陣，觸球 4 次、傳球全部到位，存在感輕微，未獲官方評分。
-  - 📊 Opta 評分 —｜準傳 4 觸球 4｜回收1
-- Christian Pulisic（先發）— 這場十六強生死戰打得極其掙扎：全場最多的 11 次丟失球權，賽前傷勢未癒又用力過猛，最終在比利時第三球後因傷提前退場；ESPN 給出 2 分（滿分 10）的低分，稱他「盡力但完全不在狀態」。美國隊最終 1–4 不敵比利時，止步 16 強。
-  - 📊 Opta 評分 6.03｜xA 0.02｜準傳 16 觸球 36｜回收3
-- [USMNT player ratings: Awful performances from Pulisic and others prompt World Cup exit](https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit)
 
 ### 2026-07-06
 
@@ -196,21 +237,6 @@
   - 📊 Opta 評分 8｜助1｜xA 0.03｜創造 1｜準傳 42 觸球 90｜攔1 回收3
 - Ousmane Dembélé 先發 — Paraguay 0-1 France
   - 📊 Opta 評分 6.71｜xG 0.06 xA 0.06｜射 2｜創造 2｜準傳 31 觸球 67｜回收1
-
-### 2026-07-03
-
-- Ivan Perišić（先發）｜⚽️ 53' 🟨 — 第 53 分鐘接 Stanišić 右路傳中，左腳低射破門為 Croatia 先馳得點，可惜球隊終場遭 Gonçalo Ramos 94 分鐘頭槌絕殺、以 1-2 落敗遭淘汰；他補時的傳中還一度助攻 Gvardiol 進球，經 VAR 判 Pašalić 越位取消，是這支老將 Croatia 謝幕戰最亮的一抹身影（Sky Sports）。
-  - 📊 Opta 評分 7.47｜進1｜xG 0.21 xA 0.09｜射 1(中1)｜準傳 22 觸球 50｜攔1 回收2
-- Gregor Kobel（先發）｜🧤 2 撲救 — 零封收工，撲救價值 +0.26、面對 xGOT 0.26，代表他把對手該進的球都擋下；Switzerland 靠 Embolo 第 10 分鐘、Ndoye 下半場開場不到一分鐘的進球 2-0 過關，門將這端穩如泰山（ESPN）。
-  - 📊 Opta 評分 7.82｜撲救 2 失球 0｜救球價值 +0.26｜面對xGOT 0.26
-- Manuel Akanji（先發）｜— 後防領袖級演出，62 次準傳、觸球 79、攔截 3 回收 3，出球與防守兩端全面掌控，是這場零封的地基（Opta 7.76 為全隊後防最高之一）。
-  - 📊 Opta 評分 7.76｜xA 0.01｜創造 1｜準傳 62 觸球 79｜攔3 回收3
-- Ramy Bensebaini（先發）｜— 敗方左路防守吃重，10 次回收全場前列、74 次準傳穩住出球，個人表現稱職，但 Algeria 整體不敵 Switzerland 而止步。
-  - 📊 Opta 評分 6.25｜xA 0.03｜準傳 74 觸球 90｜攔1 回收10
-- Marcel Sabitzer（先發）｜— 兩次創造機會、xA 0.27 是 Austria 進攻端少數亮點，但全隊被 Spain 壓制下觸球僅 34、傳導有限，難改 0-3 敗局。
-  - 📊 Opta 評分 6.66｜xA 0.27｜創造 2｜準傳 13 觸球 34｜回收2
-- Carney Chukwuemeka（替補）｜— 替補登場試圖注入活力，1 射門、回收 4，但上場時球隊已落後，影響力有限。
-  - 📊 Opta 評分 5.97｜xG 0.06 xA 0.05｜射 1｜準傳 11 觸球 26｜回收4
 
 ### 2026-07-02
 
@@ -247,11 +273,6 @@
   - 📊 Opta 評分 7.47｜xG 0.02 xA 0.02｜射 1(中1)｜準傳 43 觸球 64｜攔1 回收5
 - Ramy Bensebaini（先發）— 阿爾及利亞 3-3 奧地利，狂傳 128 球但攻防無亮點。Opta 6.0 偏低。
   - 📊 Opta 評分 6｜xG 0.02 xA 0.03｜射 1｜準傳 128 觸球 141｜回收4
-
-### 2026-06-27
-
-- Ousmane Dembélé（先發）⚽️ 7' ⚽️ 20' ⚽️ 32' — 挪威 1-4 法國、法國以 I 組首名晉級。金球獎得主上半場 32 分鐘內完成帽子戲法，是世界盃史上第二快的帽子戲法（僅次 1954 年 Probst 的 24 分鐘），也是繼 Fontaine、Mbappé 後第三位達成世界盃帽子戲法的法國球員；3 射全中、xG 僅 0.29 凸顯把握度驚人（France 24／ESPN）。Opta 9.6 為當日最高。
-  - 📊 Opta 評分 9.6｜進3｜xG 0.29 xA 0.09｜射 3(中3)｜創造 2｜準傳 30 觸球 51｜回收1
 
 ### 2026-06-26
 
@@ -301,11 +322,6 @@
 - Ramy Bensebaini（先發）｜— 阿爾及利亞 2-1 逆轉約旦的防線基石：69 次傳球、98 觸球、3 搶斷 7 回收，攻守俱穩，Opta 8.48 是後防最高分之一（Outlook India）。
   - 📊 Opta 評分 8.48｜xG 0.05 xA 0.03｜射 1｜準傳 69 觸球 98｜攔3 回收7
 
-### 2026-06-22
-
-- Thomas Meunier（先發）｜— Belgium 0-0 悶平 Iran，右後衛位置踢滿，傳球穩定（準傳 32／觸球 55），防守端 1 攔截 4 回收，是後防表現可靠的一員；比利時雖控球占優卻苦無建樹，Ngoy 第 66 分鐘紅牌後更難施展（[Sofascore](https://www.sofascore.com/football/match/iran-belgium/rUbsqVb)）。
-  - 📊 Opta 評分 7.15｜xA 0.04｜準傳 32 觸球 55｜攔1 回收4
-
 ### 2026-06-21
 
 - Donyell Malen（先發）｜— 全場最低調的一個，觸球僅 12 次、影響有限，早早被換下的邊鋒。
@@ -349,11 +365,6 @@
   - 📊 Opta 評分 7.06｜xG 0.03 xA 0.05｜射 1｜準傳 26 觸球 40｜回收3
 - Carney Chukwuemeka（替補 59'）｜— Austria 3-1 Jordan，替補入場後獲得一次好機會，可惜強射被擋在門線，戲份短暫。
   - 📊 Opta 評分 5.91｜xG 0.2 xA 0.02｜射 1(中1)｜準傳 9 觸球 23
-
-### 2026-06-16
-
-- Thomas Meunier（先發）｜— Belgium 1-1 Egypt，功過參半：站位被批讓 Ashour 破門；但下半場傳中造成 Hany 烏龍球促成比利時扳平，終場前自己也險些破門。（Goal.com 5/10）
-  - 📊 Opta 評分 6.28｜xG 0.07 xA 0.14｜射 1(中1)｜創造 1｜準傳 34 觸球 62｜回收1
 
 ### 2026-06-15
 
